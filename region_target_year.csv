@@ -1,0 +1,2485 @@
+year,Region,Target Type,Percentage
+1970,Asia-Pacific,Civilians,0
+1970,Asia-Pacific,Government,6
+1970,Asia-Pacific,Media & NGO,1
+1970,Asia-Pacific,Other,3
+1970,Asia-Pacific,Police & Military,3
+1970,Asia-Pacific,Religious,0
+1970,Central America & Caribbean,Civilians,1
+1970,Central America & Caribbean,Government,3
+1970,Central America & Caribbean,Media & NGO,0
+1970,Central America & Caribbean,Other,2
+1970,Central America & Caribbean,Police & Military,1
+1970,Central America & Caribbean,Religious,0
+1970,Central Asia,Civilians,0
+1970,Central Asia,Government,0
+1970,Central Asia,Media & NGO,0
+1970,Central Asia,Other,0
+1970,Central Asia,Police & Military,0
+1970,Central Asia,Religious,0
+1970,Europe,Civilians,8
+1970,Europe,Government,21
+1970,Europe,Media & NGO,1
+1970,Europe,Other,21
+1970,Europe,Police & Military,8
+1970,Europe,Religious,2
+1970,MENA,Civilians,0
+1970,MENA,Government,8
+1970,MENA,Media & NGO,0
+1970,MENA,Other,12
+1970,MENA,Police & Military,9
+1970,MENA,Religious,0
+1970,North America,Civilians,5
+1970,North America,Government,39
+1970,North America,Media & NGO,3
+1970,North America,Other,394
+1970,North America,Police & Military,30
+1970,North America,Religious,1
+1970,South America,Civilians,4
+1970,South America,Government,26
+1970,South America,Media & NGO,3
+1970,South America,Other,23
+1970,South America,Police & Military,9
+1970,South America,Religious,0
+1970,South Asia,Civilians,0
+1970,South Asia,Government,1
+1970,South Asia,Media & NGO,0
+1970,South Asia,Other,0
+1970,South Asia,Police & Military,0
+1970,South Asia,Religious,0
+1970,Sub-Saharan Africa,Civilians,0
+1970,Sub-Saharan Africa,Government,1
+1970,Sub-Saharan Africa,Media & NGO,1
+1970,Sub-Saharan Africa,Other,0
+1970,Sub-Saharan Africa,Police & Military,1
+1970,Sub-Saharan Africa,Religious,0
+1971,Asia-Pacific,Civilians,0
+1971,Asia-Pacific,Government,3
+1971,Asia-Pacific,Media & NGO,0
+1971,Asia-Pacific,Other,4
+1971,Asia-Pacific,Police & Military,1
+1971,Asia-Pacific,Religious,0
+1971,Central America & Caribbean,Civilians,1
+1971,Central America & Caribbean,Government,3
+1971,Central America & Caribbean,Media & NGO,1
+1971,Central America & Caribbean,Other,0
+1971,Central America & Caribbean,Police & Military,0
+1971,Central America & Caribbean,Religious,0
+1971,Central Asia,Civilians,0
+1971,Central Asia,Government,0
+1971,Central Asia,Media & NGO,0
+1971,Central Asia,Other,0
+1971,Central Asia,Police & Military,0
+1971,Central Asia,Religious,0
+1971,Europe,Civilians,10
+1971,Europe,Government,21
+1971,Europe,Media & NGO,3
+1971,Europe,Other,33
+1971,Europe,Police & Military,62
+1971,Europe,Religious,0
+1971,MENA,Civilians,3
+1971,MENA,Government,17
+1971,MENA,Media & NGO,1
+1971,MENA,Other,14
+1971,MENA,Police & Military,20
+1971,MENA,Religious,0
+1971,North America,Civilians,1
+1971,North America,Government,29
+1971,North America,Media & NGO,0
+1971,North America,Other,196
+1971,North America,Police & Military,21
+1971,North America,Religious,0
+1971,South America,Civilians,0
+1971,South America,Government,5
+1971,South America,Media & NGO,3
+1971,South America,Other,11
+1971,South America,Police & Military,5
+1971,South America,Religious,0
+1971,South Asia,Civilians,0
+1971,South Asia,Government,0
+1971,South Asia,Media & NGO,0
+1971,South Asia,Other,0
+1971,South Asia,Police & Military,0
+1971,South Asia,Religious,0
+1971,Sub-Saharan Africa,Civilians,0
+1971,Sub-Saharan Africa,Government,1
+1971,Sub-Saharan Africa,Media & NGO,0
+1971,Sub-Saharan Africa,Other,1
+1971,Sub-Saharan Africa,Police & Military,0
+1971,Sub-Saharan Africa,Religious,0
+1972,Asia-Pacific,Civilians,0
+1972,Asia-Pacific,Government,2
+1972,Asia-Pacific,Media & NGO,0
+1972,Asia-Pacific,Other,5
+1972,Asia-Pacific,Police & Military,5
+1972,Asia-Pacific,Religious,0
+1972,Central America & Caribbean,Civilians,0
+1972,Central America & Caribbean,Government,1
+1972,Central America & Caribbean,Media & NGO,0
+1972,Central America & Caribbean,Other,2
+1972,Central America & Caribbean,Police & Military,0
+1972,Central America & Caribbean,Religious,0
+1972,Central Asia,Civilians,0
+1972,Central Asia,Government,0
+1972,Central Asia,Media & NGO,0
+1972,Central Asia,Other,0
+1972,Central Asia,Police & Military,0
+1972,Central Asia,Religious,0
+1972,Europe,Civilians,120
+1972,Europe,Government,21
+1972,Europe,Media & NGO,4
+1972,Europe,Other,65
+1972,Europe,Police & Military,146
+1972,Europe,Religious,0
+1972,MENA,Civilians,6
+1972,MENA,Government,13
+1972,MENA,Media & NGO,1
+1972,MENA,Other,11
+1972,MENA,Police & Military,4
+1972,MENA,Religious,0
+1972,North America,Civilians,4
+1972,North America,Government,5
+1972,North America,Media & NGO,0
+1972,North America,Other,54
+1972,North America,Police & Military,6
+1972,North America,Religious,0
+1972,South America,Civilians,2
+1972,South America,Government,2
+1972,South America,Media & NGO,1
+1972,South America,Other,11
+1972,South America,Police & Military,4
+1972,South America,Religious,0
+1972,South Asia,Civilians,0
+1972,South Asia,Government,0
+1972,South Asia,Media & NGO,0
+1972,South Asia,Other,1
+1972,South Asia,Police & Military,0
+1972,South Asia,Religious,0
+1972,Sub-Saharan Africa,Civilians,0
+1972,Sub-Saharan Africa,Government,0
+1972,Sub-Saharan Africa,Media & NGO,0
+1972,Sub-Saharan Africa,Other,0
+1972,Sub-Saharan Africa,Police & Military,0
+1972,Sub-Saharan Africa,Religious,0
+1973,Asia-Pacific,Civilians,1
+1973,Asia-Pacific,Government,3
+1973,Asia-Pacific,Media & NGO,0
+1973,Asia-Pacific,Other,0
+1973,Asia-Pacific,Police & Military,1
+1973,Asia-Pacific,Religious,0
+1973,Central America & Caribbean,Civilians,1
+1973,Central America & Caribbean,Government,4
+1973,Central America & Caribbean,Media & NGO,0
+1973,Central America & Caribbean,Other,1
+1973,Central America & Caribbean,Police & Military,0
+1973,Central America & Caribbean,Religious,0
+1973,Central Asia,Civilians,0
+1973,Central Asia,Government,0
+1973,Central Asia,Media & NGO,0
+1973,Central Asia,Other,0
+1973,Central Asia,Police & Military,0
+1973,Central Asia,Religious,0
+1973,Europe,Civilians,95
+1973,Europe,Government,34
+1973,Europe,Media & NGO,1
+1973,Europe,Other,72
+1973,Europe,Police & Military,89
+1973,Europe,Religious,0
+1973,MENA,Civilians,1
+1973,MENA,Government,7
+1973,MENA,Media & NGO,0
+1973,MENA,Other,10
+1973,MENA,Police & Military,1
+1973,MENA,Religious,0
+1973,North America,Civilians,21
+1973,North America,Government,14
+1973,North America,Media & NGO,1
+1973,North America,Other,15
+1973,North America,Police & Military,11
+1973,North America,Religious,2
+1973,South America,Civilians,7
+1973,South America,Government,19
+1973,South America,Media & NGO,3
+1973,South America,Other,37
+1973,South America,Police & Military,17
+1973,South America,Religious,0
+1973,South Asia,Civilians,0
+1973,South Asia,Government,0
+1973,South Asia,Media & NGO,0
+1973,South Asia,Other,1
+1973,South Asia,Police & Military,0
+1973,South Asia,Religious,0
+1973,Sub-Saharan Africa,Civilians,0
+1973,Sub-Saharan Africa,Government,3
+1973,Sub-Saharan Africa,Media & NGO,0
+1973,Sub-Saharan Africa,Other,1
+1973,Sub-Saharan Africa,Police & Military,0
+1973,Sub-Saharan Africa,Religious,0
+1974,Asia-Pacific,Civilians,0
+1974,Asia-Pacific,Government,3
+1974,Asia-Pacific,Media & NGO,0
+1974,Asia-Pacific,Other,3
+1974,Asia-Pacific,Police & Military,1
+1974,Asia-Pacific,Religious,1
+1974,Central America & Caribbean,Civilians,1
+1974,Central America & Caribbean,Government,7
+1974,Central America & Caribbean,Media & NGO,0
+1974,Central America & Caribbean,Other,2
+1974,Central America & Caribbean,Police & Military,1
+1974,Central America & Caribbean,Religious,0
+1974,Central Asia,Civilians,0
+1974,Central Asia,Government,0
+1974,Central Asia,Media & NGO,0
+1974,Central Asia,Other,0
+1974,Central Asia,Police & Military,0
+1974,Central Asia,Religious,0
+1974,Europe,Civilians,101
+1974,Europe,Government,43
+1974,Europe,Media & NGO,4
+1974,Europe,Other,91
+1974,Europe,Police & Military,77
+1974,Europe,Religious,2
+1974,MENA,Civilians,7
+1974,MENA,Government,10
+1974,MENA,Media & NGO,1
+1974,MENA,Other,19
+1974,MENA,Police & Military,3
+1974,MENA,Religious,2
+1974,North America,Civilians,9
+1974,North America,Government,22
+1974,North America,Media & NGO,4
+1974,North America,Other,62
+1974,North America,Police & Military,13
+1974,North America,Religious,1
+1974,South America,Civilians,8
+1974,South America,Government,14
+1974,South America,Media & NGO,2
+1974,South America,Other,50
+1974,South America,Police & Military,6
+1974,South America,Religious,1
+1974,South Asia,Civilians,0
+1974,South Asia,Government,1
+1974,South Asia,Media & NGO,0
+1974,South Asia,Other,1
+1974,South Asia,Police & Military,0
+1974,South Asia,Religious,0
+1974,Sub-Saharan Africa,Civilians,3
+1974,Sub-Saharan Africa,Government,1
+1974,Sub-Saharan Africa,Media & NGO,0
+1974,Sub-Saharan Africa,Other,3
+1974,Sub-Saharan Africa,Police & Military,0
+1974,Sub-Saharan Africa,Religious,0
+1975,Asia-Pacific,Civilians,2
+1975,Asia-Pacific,Government,1
+1975,Asia-Pacific,Media & NGO,0
+1975,Asia-Pacific,Other,5
+1975,Asia-Pacific,Police & Military,11
+1975,Asia-Pacific,Religious,0
+1975,Central America & Caribbean,Civilians,0
+1975,Central America & Caribbean,Government,2
+1975,Central America & Caribbean,Media & NGO,2
+1975,Central America & Caribbean,Other,3
+1975,Central America & Caribbean,Police & Military,2
+1975,Central America & Caribbean,Religious,0
+1975,Central Asia,Civilians,0
+1975,Central Asia,Government,0
+1975,Central Asia,Media & NGO,0
+1975,Central Asia,Other,0
+1975,Central Asia,Police & Military,0
+1975,Central Asia,Religious,0
+1975,Europe,Civilians,112
+1975,Europe,Government,44
+1975,Europe,Media & NGO,10
+1975,Europe,Other,195
+1975,Europe,Police & Military,71
+1975,Europe,Religious,6
+1975,MENA,Civilians,2
+1975,MENA,Government,15
+1975,MENA,Media & NGO,0
+1975,MENA,Other,14
+1975,MENA,Police & Military,11
+1975,MENA,Religious,2
+1975,North America,Civilians,7
+1975,North America,Government,42
+1975,North America,Media & NGO,5
+1975,North America,Other,97
+1975,North America,Police & Military,8
+1975,North America,Religious,0
+1975,South America,Civilians,7
+1975,South America,Government,14
+1975,South America,Media & NGO,2
+1975,South America,Other,22
+1975,South America,Police & Military,10
+1975,South America,Religious,0
+1975,South Asia,Civilians,0
+1975,South Asia,Government,2
+1975,South Asia,Media & NGO,0
+1975,South Asia,Other,2
+1975,South Asia,Police & Military,0
+1975,South Asia,Religious,0
+1975,Sub-Saharan Africa,Civilians,0
+1975,Sub-Saharan Africa,Government,4
+1975,Sub-Saharan Africa,Media & NGO,0
+1975,Sub-Saharan Africa,Other,7
+1975,Sub-Saharan Africa,Police & Military,1
+1975,Sub-Saharan Africa,Religious,0
+1976,Asia-Pacific,Civilians,1
+1976,Asia-Pacific,Government,3
+1976,Asia-Pacific,Media & NGO,2
+1976,Asia-Pacific,Other,6
+1976,Asia-Pacific,Police & Military,1
+1976,Asia-Pacific,Religious,1
+1976,Central America & Caribbean,Civilians,2
+1976,Central America & Caribbean,Government,20
+1976,Central America & Caribbean,Media & NGO,2
+1976,Central America & Caribbean,Other,15
+1976,Central America & Caribbean,Police & Military,6
+1976,Central America & Caribbean,Religious,0
+1976,Central Asia,Civilians,0
+1976,Central Asia,Government,0
+1976,Central Asia,Media & NGO,0
+1976,Central Asia,Other,0
+1976,Central Asia,Police & Military,0
+1976,Central Asia,Religious,0
+1976,Europe,Civilians,129
+1976,Europe,Government,116
+1976,Europe,Media & NGO,17
+1976,Europe,Other,187
+1976,Europe,Police & Military,128
+1976,Europe,Religious,2
+1976,MENA,Civilians,4
+1976,MENA,Government,13
+1976,MENA,Media & NGO,1
+1976,MENA,Other,22
+1976,MENA,Police & Military,13
+1976,MENA,Religious,2
+1976,North America,Civilians,7
+1976,North America,Government,45
+1976,North America,Media & NGO,2
+1976,North America,Other,63
+1976,North America,Police & Military,7
+1976,North America,Religious,1
+1976,South America,Civilians,10
+1976,South America,Government,23
+1976,South America,Media & NGO,4
+1976,South America,Other,33
+1976,South America,Police & Military,19
+1976,South America,Religious,2
+1976,South Asia,Civilians,0
+1976,South Asia,Government,1
+1976,South Asia,Media & NGO,0
+1976,South Asia,Other,3
+1976,South Asia,Police & Military,0
+1976,South Asia,Religious,0
+1976,Sub-Saharan Africa,Civilians,3
+1976,Sub-Saharan Africa,Government,2
+1976,Sub-Saharan Africa,Media & NGO,1
+1976,Sub-Saharan Africa,Other,2
+1976,Sub-Saharan Africa,Police & Military,2
+1976,Sub-Saharan Africa,Religious,0
+1977,Asia-Pacific,Civilians,0
+1977,Asia-Pacific,Government,3
+1977,Asia-Pacific,Media & NGO,0
+1977,Asia-Pacific,Other,6
+1977,Asia-Pacific,Police & Military,2
+1977,Asia-Pacific,Religious,1
+1977,Central America & Caribbean,Civilians,3
+1977,Central America & Caribbean,Government,7
+1977,Central America & Caribbean,Media & NGO,2
+1977,Central America & Caribbean,Other,6
+1977,Central America & Caribbean,Police & Military,5
+1977,Central America & Caribbean,Religious,1
+1977,Central Asia,Civilians,0
+1977,Central Asia,Government,0
+1977,Central Asia,Media & NGO,0
+1977,Central Asia,Other,0
+1977,Central Asia,Police & Military,0
+1977,Central Asia,Religious,0
+1977,Europe,Civilians,118
+1977,Europe,Government,164
+1977,Europe,Media & NGO,46
+1977,Europe,Other,299
+1977,Europe,Police & Military,144
+1977,Europe,Religious,2
+1977,MENA,Civilians,70
+1977,MENA,Government,51
+1977,MENA,Media & NGO,4
+1977,MENA,Other,67
+1977,MENA,Police & Military,19
+1977,MENA,Religious,0
+1977,North America,Civilians,15
+1977,North America,Government,27
+1977,North America,Media & NGO,1
+1977,North America,Other,100
+1977,North America,Police & Military,5
+1977,North America,Religious,1
+1977,South America,Civilians,15
+1977,South America,Government,24
+1977,South America,Media & NGO,1
+1977,South America,Other,68
+1977,South America,Police & Military,9
+1977,South America,Religious,2
+1977,South Asia,Civilians,0
+1977,South Asia,Government,1
+1977,South Asia,Media & NGO,0
+1977,South Asia,Other,1
+1977,South Asia,Police & Military,0
+1977,South Asia,Religious,0
+1977,Sub-Saharan Africa,Civilians,1
+1977,Sub-Saharan Africa,Government,3
+1977,Sub-Saharan Africa,Media & NGO,0
+1977,Sub-Saharan Africa,Other,18
+1977,Sub-Saharan Africa,Police & Military,6
+1977,Sub-Saharan Africa,Religious,1
+1978,Asia-Pacific,Civilians,4
+1978,Asia-Pacific,Government,13
+1978,Asia-Pacific,Media & NGO,1
+1978,Asia-Pacific,Other,41
+1978,Asia-Pacific,Police & Military,20
+1978,Asia-Pacific,Religious,2
+1978,Central America & Caribbean,Civilians,19
+1978,Central America & Caribbean,Government,65
+1978,Central America & Caribbean,Media & NGO,17
+1978,Central America & Caribbean,Other,47
+1978,Central America & Caribbean,Police & Military,49
+1978,Central America & Caribbean,Religious,2
+1978,Central Asia,Civilians,0
+1978,Central Asia,Government,0
+1978,Central Asia,Media & NGO,0
+1978,Central Asia,Other,0
+1978,Central Asia,Police & Military,0
+1978,Central Asia,Religious,0
+1978,Europe,Civilians,57
+1978,Europe,Government,137
+1978,Europe,Media & NGO,23
+1978,Europe,Other,301
+1978,Europe,Police & Military,208
+1978,Europe,Religious,5
+1978,MENA,Civilians,12
+1978,MENA,Government,38
+1978,MENA,Media & NGO,1
+1978,MENA,Other,55
+1978,MENA,Police & Military,22
+1978,MENA,Religious,0
+1978,North America,Civilians,6
+1978,North America,Government,24
+1978,North America,Media & NGO,3
+1978,North America,Other,72
+1978,North America,Police & Military,11
+1978,North America,Religious,1
+1978,South America,Civilians,33
+1978,South America,Government,68
+1978,South America,Media & NGO,13
+1978,South America,Other,74
+1978,South America,Police & Military,31
+1978,South America,Religious,3
+1978,South Asia,Civilians,0
+1978,South Asia,Government,1
+1978,South Asia,Media & NGO,0
+1978,South Asia,Other,1
+1978,South Asia,Police & Military,0
+1978,South Asia,Religious,0
+1978,Sub-Saharan Africa,Civilians,8
+1978,Sub-Saharan Africa,Government,10
+1978,Sub-Saharan Africa,Media & NGO,2
+1978,Sub-Saharan Africa,Other,17
+1978,Sub-Saharan Africa,Police & Military,6
+1978,Sub-Saharan Africa,Religious,3
+1979,Asia-Pacific,Civilians,19
+1979,Asia-Pacific,Government,26
+1979,Asia-Pacific,Media & NGO,2
+1979,Asia-Pacific,Other,25
+1979,Asia-Pacific,Police & Military,32
+1979,Asia-Pacific,Religious,0
+1979,Central America & Caribbean,Civilians,74
+1979,Central America & Caribbean,Government,181
+1979,Central America & Caribbean,Media & NGO,32
+1979,Central America & Caribbean,Other,195
+1979,Central America & Caribbean,Police & Military,118
+1979,Central America & Caribbean,Religious,9
+1979,Central Asia,Civilians,0
+1979,Central Asia,Government,0
+1979,Central Asia,Media & NGO,0
+1979,Central Asia,Other,0
+1979,Central Asia,Police & Military,0
+1979,Central Asia,Religious,0
+1979,Europe,Civilians,128
+1979,Europe,Government,198
+1979,Europe,Media & NGO,25
+1979,Europe,Other,427
+1979,Europe,Police & Military,234
+1979,Europe,Religious,8
+1979,MENA,Civilians,78
+1979,MENA,Government,155
+1979,MENA,Media & NGO,14
+1979,MENA,Other,143
+1979,MENA,Police & Military,50
+1979,MENA,Religious,15
+1979,North America,Civilians,11
+1979,North America,Government,20
+1979,North America,Media & NGO,2
+1979,North America,Other,23
+1979,North America,Police & Military,19
+1979,North America,Religious,4
+1979,South America,Civilians,42
+1979,South America,Government,57
+1979,South America,Media & NGO,20
+1979,South America,Other,70
+1979,South America,Police & Military,45
+1979,South America,Religious,2
+1979,South Asia,Civilians,5
+1979,South Asia,Government,12
+1979,South Asia,Media & NGO,0
+1979,South Asia,Other,5
+1979,South Asia,Police & Military,11
+1979,South Asia,Religious,1
+1979,Sub-Saharan Africa,Civilians,26
+1979,Sub-Saharan Africa,Government,25
+1979,Sub-Saharan Africa,Media & NGO,1
+1979,Sub-Saharan Africa,Other,48
+1979,Sub-Saharan Africa,Police & Military,22
+1979,Sub-Saharan Africa,Religious,2
+1980,Asia-Pacific,Civilians,12
+1980,Asia-Pacific,Government,18
+1980,Asia-Pacific,Media & NGO,1
+1980,Asia-Pacific,Other,46
+1980,Asia-Pacific,Police & Military,18
+1980,Asia-Pacific,Religious,0
+1980,Central America & Caribbean,Civilians,167
+1980,Central America & Caribbean,Government,240
+1980,Central America & Caribbean,Media & NGO,53
+1980,Central America & Caribbean,Other,330
+1980,Central America & Caribbean,Police & Military,263
+1980,Central America & Caribbean,Religious,17
+1980,Central Asia,Civilians,0
+1980,Central Asia,Government,0
+1980,Central Asia,Media & NGO,0
+1980,Central Asia,Other,0
+1980,Central Asia,Police & Military,0
+1980,Central Asia,Religious,0
+1980,Europe,Civilians,73
+1980,Europe,Government,120
+1980,Europe,Media & NGO,22
+1980,Europe,Other,238
+1980,Europe,Police & Military,140
+1980,Europe,Religious,3
+1980,MENA,Civilians,92
+1980,MENA,Government,111
+1980,MENA,Media & NGO,17
+1980,MENA,Other,140
+1980,MENA,Police & Military,65
+1980,MENA,Religious,12
+1980,North America,Civilians,15
+1980,North America,Government,24
+1980,North America,Media & NGO,3
+1980,North America,Other,29
+1980,North America,Police & Military,3
+1980,North America,Religious,1
+1980,South America,Civilians,56
+1980,South America,Government,101
+1980,South America,Media & NGO,25
+1980,South America,Other,95
+1980,South America,Police & Military,32
+1980,South America,Religious,10
+1980,South Asia,Civilians,1
+1980,South Asia,Government,4
+1980,South Asia,Media & NGO,1
+1980,South Asia,Other,4
+1980,South Asia,Police & Military,2
+1980,South Asia,Religious,0
+1980,Sub-Saharan Africa,Civilians,6
+1980,Sub-Saharan Africa,Government,13
+1980,Sub-Saharan Africa,Media & NGO,1
+1980,Sub-Saharan Africa,Other,22
+1980,Sub-Saharan Africa,Police & Military,10
+1980,Sub-Saharan Africa,Religious,6
+1981,Asia-Pacific,Civilians,10
+1981,Asia-Pacific,Government,8
+1981,Asia-Pacific,Media & NGO,1
+1981,Asia-Pacific,Other,27
+1981,Asia-Pacific,Police & Military,10
+1981,Asia-Pacific,Religious,1
+1981,Central America & Caribbean,Civilians,211
+1981,Central America & Caribbean,Government,144
+1981,Central America & Caribbean,Media & NGO,25
+1981,Central America & Caribbean,Other,332
+1981,Central America & Caribbean,Police & Military,426
+1981,Central America & Caribbean,Religious,10
+1981,Central Asia,Civilians,0
+1981,Central Asia,Government,0
+1981,Central Asia,Media & NGO,0
+1981,Central Asia,Other,0
+1981,Central Asia,Police & Military,0
+1981,Central Asia,Religious,0
+1981,Europe,Civilians,57
+1981,Europe,Government,106
+1981,Europe,Media & NGO,11
+1981,Europe,Other,175
+1981,Europe,Police & Military,135
+1981,Europe,Religious,4
+1981,MENA,Civilians,52
+1981,MENA,Government,89
+1981,MENA,Media & NGO,5
+1981,MENA,Other,92
+1981,MENA,Police & Military,66
+1981,MENA,Religious,8
+1981,North America,Civilians,5
+1981,North America,Government,29
+1981,North America,Media & NGO,3
+1981,North America,Other,35
+1981,North America,Police & Military,3
+1981,North America,Religious,1
+1981,South America,Civilians,55
+1981,South America,Government,94
+1981,South America,Media & NGO,16
+1981,South America,Other,125
+1981,South America,Police & Military,89
+1981,South America,Religious,4
+1981,South Asia,Civilians,1
+1981,South Asia,Government,9
+1981,South Asia,Media & NGO,0
+1981,South Asia,Other,7
+1981,South Asia,Police & Military,4
+1981,South Asia,Religious,2
+1981,Sub-Saharan Africa,Civilians,8
+1981,Sub-Saharan Africa,Government,21
+1981,Sub-Saharan Africa,Media & NGO,0
+1981,Sub-Saharan Africa,Other,44
+1981,Sub-Saharan Africa,Police & Military,24
+1981,Sub-Saharan Africa,Religious,1
+1982,Asia-Pacific,Civilians,13
+1982,Asia-Pacific,Government,13
+1982,Asia-Pacific,Media & NGO,1
+1982,Asia-Pacific,Other,13
+1982,Asia-Pacific,Police & Military,8
+1982,Asia-Pacific,Religious,0
+1982,Central America & Caribbean,Civilians,187
+1982,Central America & Caribbean,Government,120
+1982,Central America & Caribbean,Media & NGO,21
+1982,Central America & Caribbean,Other,339
+1982,Central America & Caribbean,Police & Military,324
+1982,Central America & Caribbean,Religious,5
+1982,Central Asia,Civilians,0
+1982,Central Asia,Government,0
+1982,Central Asia,Media & NGO,0
+1982,Central Asia,Other,0
+1982,Central Asia,Police & Military,0
+1982,Central Asia,Religious,0
+1982,Europe,Civilians,61
+1982,Europe,Government,85
+1982,Europe,Media & NGO,5
+1982,Europe,Other,149
+1982,Europe,Police & Military,100
+1982,Europe,Religious,5
+1982,MENA,Civilians,66
+1982,MENA,Government,64
+1982,MENA,Media & NGO,5
+1982,MENA,Other,65
+1982,MENA,Police & Military,74
+1982,MENA,Religious,17
+1982,North America,Civilians,8
+1982,North America,Government,27
+1982,North America,Media & NGO,2
+1982,North America,Other,42
+1982,North America,Police & Military,3
+1982,North America,Religious,4
+1982,South America,Civilians,114
+1982,South America,Government,123
+1982,South America,Media & NGO,29
+1982,South America,Other,231
+1982,South America,Police & Military,139
+1982,South America,Religious,3
+1982,South Asia,Civilians,2
+1982,South Asia,Government,8
+1982,South Asia,Media & NGO,0
+1982,South Asia,Other,6
+1982,South Asia,Police & Military,3
+1982,South Asia,Religious,1
+1982,Sub-Saharan Africa,Civilians,7
+1982,Sub-Saharan Africa,Government,14
+1982,Sub-Saharan Africa,Media & NGO,0
+1982,Sub-Saharan Africa,Other,31
+1982,Sub-Saharan Africa,Police & Military,7
+1982,Sub-Saharan Africa,Religious,1
+1983,Asia-Pacific,Civilians,5
+1983,Asia-Pacific,Government,8
+1983,Asia-Pacific,Media & NGO,0
+1983,Asia-Pacific,Other,10
+1983,Asia-Pacific,Police & Military,11
+1983,Asia-Pacific,Religious,1
+1983,Central America & Caribbean,Civilians,121
+1983,Central America & Caribbean,Government,84
+1983,Central America & Caribbean,Media & NGO,9
+1983,Central America & Caribbean,Other,153
+1983,Central America & Caribbean,Police & Military,488
+1983,Central America & Caribbean,Religious,3
+1983,Central Asia,Civilians,0
+1983,Central Asia,Government,0
+1983,Central Asia,Media & NGO,0
+1983,Central Asia,Other,0
+1983,Central Asia,Police & Military,0
+1983,Central Asia,Religious,0
+1983,Europe,Civilians,59
+1983,Europe,Government,78
+1983,Europe,Media & NGO,4
+1983,Europe,Other,178
+1983,Europe,Police & Military,152
+1983,Europe,Religious,6
+1983,MENA,Civilians,60
+1983,MENA,Government,37
+1983,MENA,Media & NGO,10
+1983,MENA,Other,61
+1983,MENA,Police & Military,157
+1983,MENA,Religious,9
+1983,North America,Civilians,1
+1983,North America,Government,6
+1983,North America,Media & NGO,3
+1983,North America,Other,24
+1983,North America,Police & Military,8
+1983,North America,Religious,5
+1983,South America,Civilians,205
+1983,South America,Government,156
+1983,South America,Media & NGO,41
+1983,South America,Other,291
+1983,South America,Police & Military,245
+1983,South America,Religious,12
+1983,South Asia,Civilians,18
+1983,South Asia,Government,8
+1983,South Asia,Media & NGO,0
+1983,South Asia,Other,21
+1983,South Asia,Police & Military,13
+1983,South Asia,Religious,3
+1983,Sub-Saharan Africa,Civilians,13
+1983,Sub-Saharan Africa,Government,31
+1983,Sub-Saharan Africa,Media & NGO,2
+1983,Sub-Saharan Africa,Other,41
+1983,Sub-Saharan Africa,Police & Military,16
+1983,Sub-Saharan Africa,Religious,3
+1984,Asia-Pacific,Civilians,14
+1984,Asia-Pacific,Government,17
+1984,Asia-Pacific,Media & NGO,3
+1984,Asia-Pacific,Other,13
+1984,Asia-Pacific,Police & Military,24
+1984,Asia-Pacific,Religious,1
+1984,Central America & Caribbean,Civilians,83
+1984,Central America & Caribbean,Government,67
+1984,Central America & Caribbean,Media & NGO,7
+1984,Central America & Caribbean,Other,164
+1984,Central America & Caribbean,Police & Military,360
+1984,Central America & Caribbean,Religious,0
+1984,Central Asia,Civilians,0
+1984,Central Asia,Government,0
+1984,Central Asia,Media & NGO,0
+1984,Central Asia,Other,0
+1984,Central Asia,Police & Military,0
+1984,Central Asia,Religious,0
+1984,Europe,Civilians,94
+1984,Europe,Government,88
+1984,Europe,Media & NGO,10
+1984,Europe,Other,215
+1984,Europe,Police & Military,134
+1984,Europe,Religious,4
+1984,MENA,Civilians,30
+1984,MENA,Government,52
+1984,MENA,Media & NGO,6
+1984,MENA,Other,53
+1984,MENA,Police & Military,118
+1984,MENA,Religious,9
+1984,North America,Civilians,0
+1984,North America,Government,8
+1984,North America,Media & NGO,3
+1984,North America,Other,46
+1984,North America,Police & Military,5
+1984,North America,Religious,5
+1984,South America,Civilians,313
+1984,South America,Government,191
+1984,South America,Media & NGO,43
+1984,South America,Other,667
+1984,South America,Police & Military,259
+1984,South America,Religious,19
+1984,South Asia,Civilians,45
+1984,South Asia,Government,27
+1984,South Asia,Media & NGO,2
+1984,South Asia,Other,91
+1984,South Asia,Police & Military,55
+1984,South Asia,Religious,24
+1984,Sub-Saharan Africa,Civilians,26
+1984,Sub-Saharan Africa,Government,31
+1984,Sub-Saharan Africa,Media & NGO,1
+1984,Sub-Saharan Africa,Other,51
+1984,Sub-Saharan Africa,Police & Military,16
+1984,Sub-Saharan Africa,Religious,1
+1985,Asia-Pacific,Civilians,18
+1985,Asia-Pacific,Government,23
+1985,Asia-Pacific,Media & NGO,7
+1985,Asia-Pacific,Other,67
+1985,Asia-Pacific,Police & Military,26
+1985,Asia-Pacific,Religious,4
+1985,Central America & Caribbean,Civilians,58
+1985,Central America & Caribbean,Government,78
+1985,Central America & Caribbean,Media & NGO,16
+1985,Central America & Caribbean,Other,255
+1985,Central America & Caribbean,Police & Military,373
+1985,Central America & Caribbean,Religious,0
+1985,Central Asia,Civilians,0
+1985,Central Asia,Government,0
+1985,Central Asia,Media & NGO,0
+1985,Central Asia,Other,0
+1985,Central Asia,Police & Military,0
+1985,Central Asia,Religious,0
+1985,Europe,Civilians,69
+1985,Europe,Government,59
+1985,Europe,Media & NGO,7
+1985,Europe,Other,201
+1985,Europe,Police & Military,132
+1985,Europe,Religious,3
+1985,MENA,Civilians,31
+1985,MENA,Government,33
+1985,MENA,Media & NGO,7
+1985,MENA,Other,39
+1985,MENA,Police & Military,18
+1985,MENA,Religious,5
+1985,North America,Civilians,6
+1985,North America,Government,7
+1985,North America,Media & NGO,2
+1985,North America,Other,24
+1985,North America,Police & Military,4
+1985,North America,Religious,1
+1985,South America,Civilians,148
+1985,South America,Government,189
+1985,South America,Media & NGO,23
+1985,South America,Other,400
+1985,South America,Police & Military,272
+1985,South America,Religious,8
+1985,South Asia,Civilians,29
+1985,South Asia,Government,25
+1985,South Asia,Media & NGO,2
+1985,South Asia,Other,44
+1985,South Asia,Police & Military,53
+1985,South Asia,Religious,8
+1985,Sub-Saharan Africa,Civilians,25
+1985,Sub-Saharan Africa,Government,28
+1985,Sub-Saharan Africa,Media & NGO,1
+1985,Sub-Saharan Africa,Other,42
+1985,Sub-Saharan Africa,Police & Military,44
+1985,Sub-Saharan Africa,Religious,1
+1986,Asia-Pacific,Civilians,17
+1986,Asia-Pacific,Government,25
+1986,Asia-Pacific,Media & NGO,0
+1986,Asia-Pacific,Other,40
+1986,Asia-Pacific,Police & Military,31
+1986,Asia-Pacific,Religious,5
+1986,Central America & Caribbean,Civilians,51
+1986,Central America & Caribbean,Government,29
+1986,Central America & Caribbean,Media & NGO,1
+1986,Central America & Caribbean,Other,132
+1986,Central America & Caribbean,Police & Military,179
+1986,Central America & Caribbean,Religious,1
+1986,Central Asia,Civilians,0
+1986,Central Asia,Government,0
+1986,Central Asia,Media & NGO,0
+1986,Central Asia,Other,0
+1986,Central Asia,Police & Military,0
+1986,Central Asia,Religious,0
+1986,Europe,Civilians,97
+1986,Europe,Government,57
+1986,Europe,Media & NGO,5
+1986,Europe,Other,180
+1986,Europe,Police & Military,114
+1986,Europe,Religious,5
+1986,MENA,Civilians,37
+1986,MENA,Government,47
+1986,MENA,Media & NGO,8
+1986,MENA,Other,60
+1986,MENA,Police & Military,38
+1986,MENA,Religious,6
+1986,North America,Civilians,1
+1986,North America,Government,9
+1986,North America,Media & NGO,0
+1986,North America,Other,30
+1986,North America,Police & Military,12
+1986,North America,Religious,1
+1986,South America,Civilians,178
+1986,South America,Government,271
+1986,South America,Media & NGO,23
+1986,South America,Other,456
+1986,South America,Police & Military,244
+1986,South America,Religious,12
+1986,South Asia,Civilians,77
+1986,South Asia,Government,34
+1986,South Asia,Media & NGO,2
+1986,South Asia,Other,73
+1986,South Asia,Police & Military,76
+1986,South Asia,Religious,11
+1986,Sub-Saharan Africa,Civilians,30
+1986,Sub-Saharan Africa,Government,23
+1986,Sub-Saharan Africa,Media & NGO,1
+1986,Sub-Saharan Africa,Other,63
+1986,Sub-Saharan Africa,Police & Military,67
+1986,Sub-Saharan Africa,Religious,1
+1987,Asia-Pacific,Civilians,13
+1987,Asia-Pacific,Government,27
+1987,Asia-Pacific,Media & NGO,5
+1987,Asia-Pacific,Other,49
+1987,Asia-Pacific,Police & Military,75
+1987,Asia-Pacific,Religious,7
+1987,Central America & Caribbean,Civilians,76
+1987,Central America & Caribbean,Government,78
+1987,Central America & Caribbean,Media & NGO,9
+1987,Central America & Caribbean,Other,199
+1987,Central America & Caribbean,Police & Military,204
+1987,Central America & Caribbean,Religious,0
+1987,Central Asia,Civilians,0
+1987,Central Asia,Government,0
+1987,Central Asia,Media & NGO,0
+1987,Central Asia,Other,0
+1987,Central Asia,Police & Military,0
+1987,Central Asia,Religious,0
+1987,Europe,Civilians,67
+1987,Europe,Government,118
+1987,Europe,Media & NGO,8
+1987,Europe,Other,132
+1987,Europe,Police & Military,90
+1987,Europe,Religious,3
+1987,MENA,Civilians,48
+1987,MENA,Government,35
+1987,MENA,Media & NGO,9
+1987,MENA,Other,58
+1987,MENA,Police & Military,50
+1987,MENA,Religious,2
+1987,North America,Civilians,0
+1987,North America,Government,4
+1987,North America,Media & NGO,0
+1987,North America,Other,29
+1987,North America,Police & Military,2
+1987,North America,Religious,0
+1987,South America,Civilians,187
+1987,South America,Government,272
+1987,South America,Media & NGO,60
+1987,South America,Other,472
+1987,South America,Police & Military,258
+1987,South America,Religious,16
+1987,South Asia,Civilians,94
+1987,South Asia,Government,60
+1987,South Asia,Media & NGO,4
+1987,South Asia,Other,100
+1987,South Asia,Police & Military,79
+1987,South Asia,Religious,11
+1987,Sub-Saharan Africa,Civilians,25
+1987,Sub-Saharan Africa,Government,22
+1987,Sub-Saharan Africa,Media & NGO,2
+1987,Sub-Saharan Africa,Other,44
+1987,Sub-Saharan Africa,Police & Military,75
+1987,Sub-Saharan Africa,Religious,6
+1988,Asia-Pacific,Civilians,28
+1988,Asia-Pacific,Government,76
+1988,Asia-Pacific,Media & NGO,4
+1988,Asia-Pacific,Other,54
+1988,Asia-Pacific,Police & Military,105
+1988,Asia-Pacific,Religious,11
+1988,Central America & Caribbean,Civilians,51
+1988,Central America & Caribbean,Government,70
+1988,Central America & Caribbean,Media & NGO,8
+1988,Central America & Caribbean,Other,221
+1988,Central America & Caribbean,Police & Military,142
+1988,Central America & Caribbean,Religious,3
+1988,Central Asia,Civilians,0
+1988,Central Asia,Government,0
+1988,Central Asia,Media & NGO,0
+1988,Central Asia,Other,0
+1988,Central Asia,Police & Military,0
+1988,Central Asia,Religious,0
+1988,Europe,Civilians,70
+1988,Europe,Government,90
+1988,Europe,Media & NGO,5
+1988,Europe,Other,166
+1988,Europe,Police & Military,158
+1988,Europe,Religious,4
+1988,MENA,Civilians,41
+1988,MENA,Government,43
+1988,MENA,Media & NGO,11
+1988,MENA,Other,74
+1988,MENA,Police & Military,72
+1988,MENA,Religious,5
+1988,North America,Civilians,1
+1988,North America,Government,1
+1988,North America,Media & NGO,0
+1988,North America,Other,25
+1988,North America,Police & Military,3
+1988,North America,Religious,0
+1988,South America,Civilians,156
+1988,South America,Government,236
+1988,South America,Media & NGO,47
+1988,South America,Other,317
+1988,South America,Police & Military,272
+1988,South America,Religious,13
+1988,South Asia,Civilians,222
+1988,South Asia,Government,136
+1988,South Asia,Media & NGO,5
+1988,South Asia,Other,197
+1988,South Asia,Police & Military,227
+1988,South Asia,Religious,13
+1988,Sub-Saharan Africa,Civilians,50
+1988,Sub-Saharan Africa,Government,91
+1988,Sub-Saharan Africa,Media & NGO,5
+1988,Sub-Saharan Africa,Other,98
+1988,Sub-Saharan Africa,Police & Military,88
+1988,Sub-Saharan Africa,Religious,5
+1989,Asia-Pacific,Civilians,34
+1989,Asia-Pacific,Government,53
+1989,Asia-Pacific,Media & NGO,1
+1989,Asia-Pacific,Other,83
+1989,Asia-Pacific,Police & Military,76
+1989,Asia-Pacific,Religious,3
+1989,Central America & Caribbean,Civilians,58
+1989,Central America & Caribbean,Government,81
+1989,Central America & Caribbean,Media & NGO,11
+1989,Central America & Caribbean,Other,138
+1989,Central America & Caribbean,Police & Military,209
+1989,Central America & Caribbean,Religious,6
+1989,Central Asia,Civilians,0
+1989,Central Asia,Government,0
+1989,Central Asia,Media & NGO,0
+1989,Central Asia,Other,0
+1989,Central Asia,Police & Military,0
+1989,Central Asia,Religious,0
+1989,Europe,Civilians,46
+1989,Europe,Government,81
+1989,Europe,Media & NGO,9
+1989,Europe,Other,187
+1989,Europe,Police & Military,131
+1989,Europe,Religious,6
+1989,MENA,Civilians,162
+1989,MENA,Government,58
+1989,MENA,Media & NGO,5
+1989,MENA,Other,84
+1989,MENA,Police & Military,148
+1989,MENA,Religious,7
+1989,North America,Civilians,3
+1989,North America,Government,7
+1989,North America,Media & NGO,3
+1989,North America,Other,28
+1989,North America,Police & Military,3
+1989,North America,Religious,0
+1989,South America,Civilians,179
+1989,South America,Government,386
+1989,South America,Media & NGO,56
+1989,South America,Other,468
+1989,South America,Police & Military,266
+1989,South America,Religious,30
+1989,South Asia,Civilians,215
+1989,South Asia,Government,151
+1989,South Asia,Media & NGO,9
+1989,South Asia,Other,245
+1989,South Asia,Police & Military,296
+1989,South Asia,Religious,10
+1989,Sub-Saharan Africa,Civilians,74
+1989,Sub-Saharan Africa,Government,48
+1989,Sub-Saharan Africa,Media & NGO,6
+1989,Sub-Saharan Africa,Other,84
+1989,Sub-Saharan Africa,Police & Military,76
+1989,Sub-Saharan Africa,Religious,3
+1990,Asia-Pacific,Civilians,59
+1990,Asia-Pacific,Government,93
+1990,Asia-Pacific,Media & NGO,6
+1990,Asia-Pacific,Other,153
+1990,Asia-Pacific,Police & Military,133
+1990,Asia-Pacific,Religious,21
+1990,Central America & Caribbean,Civilians,35
+1990,Central America & Caribbean,Government,49
+1990,Central America & Caribbean,Media & NGO,4
+1990,Central America & Caribbean,Other,141
+1990,Central America & Caribbean,Police & Military,83
+1990,Central America & Caribbean,Religious,4
+1990,Central Asia,Civilians,0
+1990,Central Asia,Government,0
+1990,Central Asia,Media & NGO,0
+1990,Central Asia,Other,0
+1990,Central Asia,Police & Military,0
+1990,Central Asia,Religious,0
+1990,Europe,Civilians,86
+1990,Europe,Government,72
+1990,Europe,Media & NGO,6
+1990,Europe,Other,145
+1990,Europe,Police & Military,137
+1990,Europe,Religious,2
+1990,MENA,Civilians,158
+1990,MENA,Government,44
+1990,MENA,Media & NGO,5
+1990,MENA,Other,113
+1990,MENA,Police & Military,167
+1990,MENA,Religious,7
+1990,North America,Civilians,3
+1990,North America,Government,5
+1990,North America,Media & NGO,0
+1990,North America,Other,26
+1990,North America,Police & Military,1
+1990,North America,Religious,2
+1990,South America,Civilians,168
+1990,South America,Government,266
+1990,South America,Media & NGO,25
+1990,South America,Other,341
+1990,South America,Police & Military,234
+1990,South America,Religious,42
+1990,South Asia,Civilians,173
+1990,South Asia,Government,91
+1990,South Asia,Media & NGO,7
+1990,South Asia,Other,141
+1990,South Asia,Police & Military,170
+1990,South Asia,Religious,19
+1990,Sub-Saharan Africa,Civilians,74
+1990,Sub-Saharan Africa,Government,52
+1990,Sub-Saharan Africa,Media & NGO,7
+1990,Sub-Saharan Africa,Other,253
+1990,Sub-Saharan Africa,Police & Military,58
+1990,Sub-Saharan Africa,Religious,6
+1991,Asia-Pacific,Civilians,20
+1991,Asia-Pacific,Government,35
+1991,Asia-Pacific,Media & NGO,7
+1991,Asia-Pacific,Other,80
+1991,Asia-Pacific,Police & Military,92
+1991,Asia-Pacific,Religious,11
+1991,Central America & Caribbean,Civilians,83
+1991,Central America & Caribbean,Government,87
+1991,Central America & Caribbean,Media & NGO,25
+1991,Central America & Caribbean,Other,230
+1991,Central America & Caribbean,Police & Military,299
+1991,Central America & Caribbean,Religious,5
+1991,Central Asia,Civilians,1
+1991,Central Asia,Government,0
+1991,Central Asia,Media & NGO,1
+1991,Central Asia,Other,4
+1991,Central Asia,Police & Military,1
+1991,Central Asia,Religious,0
+1991,Europe,Civilians,104
+1991,Europe,Government,131
+1991,Europe,Media & NGO,6
+1991,Europe,Other,383
+1991,Europe,Police & Military,147
+1991,Europe,Religious,9
+1991,MENA,Civilians,103
+1991,MENA,Government,104
+1991,MENA,Media & NGO,4
+1991,MENA,Other,197
+1991,MENA,Police & Military,196
+1991,MENA,Religious,8
+1991,North America,Civilians,0
+1991,North America,Government,5
+1991,North America,Media & NGO,0
+1991,North America,Other,29
+1991,North America,Police & Military,6
+1991,North America,Religious,0
+1991,South America,Civilians,149
+1991,South America,Government,238
+1991,South America,Media & NGO,30
+1991,South America,Other,571
+1991,South America,Police & Military,279
+1991,South America,Religious,55
+1991,South Asia,Civilians,140
+1991,South Asia,Government,107
+1991,South Asia,Media & NGO,18
+1991,South Asia,Other,184
+1991,South Asia,Police & Military,214
+1991,South Asia,Religious,14
+1991,Sub-Saharan Africa,Civilians,87
+1991,Sub-Saharan Africa,Government,37
+1991,Sub-Saharan Africa,Media & NGO,7
+1991,Sub-Saharan Africa,Other,100
+1991,Sub-Saharan Africa,Police & Military,36
+1991,Sub-Saharan Africa,Religious,4
+1992,Asia-Pacific,Civilians,48
+1992,Asia-Pacific,Government,118
+1992,Asia-Pacific,Media & NGO,10
+1992,Asia-Pacific,Other,103
+1992,Asia-Pacific,Police & Military,78
+1992,Asia-Pacific,Religious,13
+1992,Central America & Caribbean,Civilians,50
+1992,Central America & Caribbean,Government,49
+1992,Central America & Caribbean,Media & NGO,12
+1992,Central America & Caribbean,Other,64
+1992,Central America & Caribbean,Police & Military,36
+1992,Central America & Caribbean,Religious,1
+1992,Central Asia,Civilians,15
+1992,Central Asia,Government,19
+1992,Central Asia,Media & NGO,1
+1992,Central Asia,Other,22
+1992,Central Asia,Police & Military,20
+1992,Central Asia,Religious,0
+1992,Europe,Civilians,181
+1992,Europe,Government,182
+1992,Europe,Media & NGO,12
+1992,Europe,Other,336
+1992,Europe,Police & Military,139
+1992,Europe,Religious,10
+1992,MENA,Civilians,182
+1992,MENA,Government,168
+1992,MENA,Media & NGO,22
+1992,MENA,Other,278
+1992,MENA,Police & Military,525
+1992,MENA,Religious,18
+1992,North America,Civilians,0
+1992,North America,Government,14
+1992,North America,Media & NGO,2
+1992,North America,Other,23
+1992,North America,Police & Military,2
+1992,North America,Religious,0
+1992,South America,Civilians,174
+1992,South America,Government,186
+1992,South America,Media & NGO,27
+1992,South America,Other,488
+1992,South America,Police & Military,291
+1992,South America,Religious,38
+1992,South Asia,Civilians,114
+1992,South Asia,Government,97
+1992,South Asia,Media & NGO,13
+1992,South Asia,Other,121
+1992,South Asia,Police & Military,164
+1992,South Asia,Religious,36
+1992,Sub-Saharan Africa,Civilians,186
+1992,Sub-Saharan Africa,Government,98
+1992,Sub-Saharan Africa,Media & NGO,21
+1992,Sub-Saharan Africa,Other,175
+1992,Sub-Saharan Africa,Police & Military,76
+1992,Sub-Saharan Africa,Religious,15
+1993,Asia-Pacific,Civilians,0
+1993,Asia-Pacific,Government,0
+1993,Asia-Pacific,Media & NGO,0
+1993,Asia-Pacific,Other,0
+1993,Asia-Pacific,Police & Military,0
+1993,Asia-Pacific,Religious,0
+1993,Central America & Caribbean,Civilians,0
+1993,Central America & Caribbean,Government,0
+1993,Central America & Caribbean,Media & NGO,0
+1993,Central America & Caribbean,Other,0
+1993,Central America & Caribbean,Police & Military,0
+1993,Central America & Caribbean,Religious,0
+1993,Central Asia,Civilians,0
+1993,Central Asia,Government,0
+1993,Central Asia,Media & NGO,0
+1993,Central Asia,Other,0
+1993,Central Asia,Police & Military,0
+1993,Central Asia,Religious,0
+1993,Europe,Civilians,0
+1993,Europe,Government,0
+1993,Europe,Media & NGO,0
+1993,Europe,Other,0
+1993,Europe,Police & Military,0
+1993,Europe,Religious,0
+1993,MENA,Civilians,0
+1993,MENA,Government,0
+1993,MENA,Media & NGO,0
+1993,MENA,Other,0
+1993,MENA,Police & Military,0
+1993,MENA,Religious,0
+1993,North America,Civilians,0
+1993,North America,Government,0
+1993,North America,Media & NGO,0
+1993,North America,Other,0
+1993,North America,Police & Military,0
+1993,North America,Religious,0
+1993,South America,Civilians,0
+1993,South America,Government,0
+1993,South America,Media & NGO,0
+1993,South America,Other,0
+1993,South America,Police & Military,0
+1993,South America,Religious,0
+1993,South Asia,Civilians,0
+1993,South Asia,Government,0
+1993,South Asia,Media & NGO,0
+1993,South Asia,Other,0
+1993,South Asia,Police & Military,0
+1993,South Asia,Religious,0
+1993,Sub-Saharan Africa,Civilians,0
+1993,Sub-Saharan Africa,Government,0
+1993,Sub-Saharan Africa,Media & NGO,0
+1993,Sub-Saharan Africa,Other,0
+1993,Sub-Saharan Africa,Police & Military,0
+1993,Sub-Saharan Africa,Religious,0
+1994,Asia-Pacific,Civilians,44
+1994,Asia-Pacific,Government,30
+1994,Asia-Pacific,Media & NGO,10
+1994,Asia-Pacific,Other,93
+1994,Asia-Pacific,Police & Military,17
+1994,Asia-Pacific,Religious,5
+1994,Central America & Caribbean,Civilians,43
+1994,Central America & Caribbean,Government,49
+1994,Central America & Caribbean,Media & NGO,9
+1994,Central America & Caribbean,Other,64
+1994,Central America & Caribbean,Police & Military,11
+1994,Central America & Caribbean,Religious,4
+1994,Central Asia,Civilians,5
+1994,Central Asia,Government,24
+1994,Central Asia,Media & NGO,5
+1994,Central Asia,Other,12
+1994,Central Asia,Police & Military,19
+1994,Central Asia,Religious,0
+1994,Europe,Civilians,167
+1994,Europe,Government,127
+1994,Europe,Media & NGO,11
+1994,Europe,Other,240
+1994,Europe,Police & Military,120
+1994,Europe,Religious,14
+1994,MENA,Civilians,190
+1994,MENA,Government,159
+1994,MENA,Media & NGO,33
+1994,MENA,Other,255
+1994,MENA,Police & Military,391
+1994,MENA,Religious,23
+1994,North America,Civilians,18
+1994,North America,Government,14
+1994,North America,Media & NGO,5
+1994,North America,Other,55
+1994,North America,Police & Military,6
+1994,North America,Religious,4
+1994,South America,Civilians,33
+1994,South America,Government,78
+1994,South America,Media & NGO,7
+1994,South America,Other,169
+1994,South America,Police & Military,68
+1994,South America,Religious,18
+1994,South Asia,Civilians,108
+1994,South Asia,Government,87
+1994,South Asia,Media & NGO,7
+1994,South Asia,Other,98
+1994,South Asia,Police & Military,63
+1994,South Asia,Religious,13
+1994,Sub-Saharan Africa,Civilians,141
+1994,Sub-Saharan Africa,Government,113
+1994,Sub-Saharan Africa,Media & NGO,21
+1994,Sub-Saharan Africa,Other,96
+1994,Sub-Saharan Africa,Police & Military,49
+1994,Sub-Saharan Africa,Religious,13
+1995,Asia-Pacific,Civilians,32
+1995,Asia-Pacific,Government,53
+1995,Asia-Pacific,Media & NGO,6
+1995,Asia-Pacific,Other,109
+1995,Asia-Pacific,Police & Military,21
+1995,Asia-Pacific,Religious,3
+1995,Central America & Caribbean,Civilians,52
+1995,Central America & Caribbean,Government,57
+1995,Central America & Caribbean,Media & NGO,6
+1995,Central America & Caribbean,Other,24
+1995,Central America & Caribbean,Police & Military,21
+1995,Central America & Caribbean,Religious,8
+1995,Central Asia,Civilians,3
+1995,Central Asia,Government,13
+1995,Central Asia,Media & NGO,2
+1995,Central Asia,Other,8
+1995,Central Asia,Police & Military,28
+1995,Central Asia,Religious,1
+1995,Europe,Civilians,66
+1995,Europe,Government,72
+1995,Europe,Media & NGO,12
+1995,Europe,Other,207
+1995,Europe,Police & Military,33
+1995,Europe,Religious,15
+1995,MENA,Civilians,96
+1995,MENA,Government,99
+1995,MENA,Media & NGO,40
+1995,MENA,Other,178
+1995,MENA,Police & Military,165
+1995,MENA,Religious,12
+1995,North America,Civilians,11
+1995,North America,Government,19
+1995,North America,Media & NGO,0
+1995,North America,Other,56
+1995,North America,Police & Military,5
+1995,North America,Religious,3
+1995,South America,Civilians,34
+1995,South America,Government,59
+1995,South America,Media & NGO,7
+1995,South America,Other,86
+1995,South America,Police & Military,68
+1995,South America,Religious,1
+1995,South Asia,Civilians,426
+1995,South Asia,Government,73
+1995,South Asia,Media & NGO,9
+1995,South Asia,Other,266
+1995,South Asia,Police & Military,255
+1995,South Asia,Religious,22
+1995,Sub-Saharan Africa,Civilians,64
+1995,Sub-Saharan Africa,Government,59
+1995,Sub-Saharan Africa,Media & NGO,27
+1995,Sub-Saharan Africa,Other,53
+1995,Sub-Saharan Africa,Police & Military,29
+1995,Sub-Saharan Africa,Religious,7
+1996,Asia-Pacific,Civilians,65
+1996,Asia-Pacific,Government,52
+1996,Asia-Pacific,Media & NGO,11
+1996,Asia-Pacific,Other,150
+1996,Asia-Pacific,Police & Military,19
+1996,Asia-Pacific,Religious,4
+1996,Central America & Caribbean,Civilians,22
+1996,Central America & Caribbean,Government,37
+1996,Central America & Caribbean,Media & NGO,7
+1996,Central America & Caribbean,Other,32
+1996,Central America & Caribbean,Police & Military,15
+1996,Central America & Caribbean,Religious,3
+1996,Central Asia,Civilians,3
+1996,Central Asia,Government,10
+1996,Central Asia,Media & NGO,1
+1996,Central Asia,Other,7
+1996,Central Asia,Police & Military,11
+1996,Central Asia,Religious,1
+1996,Europe,Civilians,74
+1996,Europe,Government,177
+1996,Europe,Media & NGO,14
+1996,Europe,Other,276
+1996,Europe,Police & Military,91
+1996,Europe,Religious,19
+1996,MENA,Civilians,53
+1996,MENA,Government,49
+1996,MENA,Media & NGO,12
+1996,MENA,Other,149
+1996,MENA,Police & Military,103
+1996,MENA,Religious,7
+1996,North America,Civilians,31
+1996,North America,Government,12
+1996,North America,Media & NGO,7
+1996,North America,Other,36
+1996,North America,Police & Military,23
+1996,North America,Religious,2
+1996,South America,Civilians,118
+1996,South America,Government,77
+1996,South America,Media & NGO,4
+1996,South America,Other,217
+1996,South America,Police & Military,96
+1996,South America,Religious,5
+1996,South Asia,Civilians,223
+1996,South Asia,Government,111
+1996,South Asia,Media & NGO,11
+1996,South Asia,Other,219
+1996,South Asia,Police & Military,165
+1996,South Asia,Religious,8
+1996,Sub-Saharan Africa,Civilians,70
+1996,Sub-Saharan Africa,Government,43
+1996,Sub-Saharan Africa,Media & NGO,16
+1996,Sub-Saharan Africa,Other,56
+1996,Sub-Saharan Africa,Police & Military,22
+1996,Sub-Saharan Africa,Religious,10
+1997,Asia-Pacific,Civilians,38
+1997,Asia-Pacific,Government,28
+1997,Asia-Pacific,Media & NGO,5
+1997,Asia-Pacific,Other,75
+1997,Asia-Pacific,Police & Military,27
+1997,Asia-Pacific,Religious,34
+1997,Central America & Caribbean,Civilians,24
+1997,Central America & Caribbean,Government,33
+1997,Central America & Caribbean,Media & NGO,4
+1997,Central America & Caribbean,Other,37
+1997,Central America & Caribbean,Police & Military,19
+1997,Central America & Caribbean,Religious,0
+1997,Central Asia,Civilians,3
+1997,Central Asia,Government,11
+1997,Central Asia,Media & NGO,4
+1997,Central Asia,Other,13
+1997,Central Asia,Police & Military,18
+1997,Central Asia,Religious,0
+1997,Europe,Civilians,83
+1997,Europe,Government,173
+1997,Europe,Media & NGO,24
+1997,Europe,Other,193
+1997,Europe,Police & Military,107
+1997,Europe,Religious,17
+1997,MENA,Civilians,265
+1997,MENA,Government,51
+1997,MENA,Media & NGO,9
+1997,MENA,Other,158
+1997,MENA,Police & Military,53
+1997,MENA,Religious,14
+1997,North America,Civilians,46
+1997,North America,Government,20
+1997,North America,Media & NGO,9
+1997,North America,Other,44
+1997,North America,Police & Military,15
+1997,North America,Religious,3
+1997,South America,Civilians,190
+1997,South America,Government,200
+1997,South America,Media & NGO,29
+1997,South America,Other,253
+1997,South America,Police & Military,97
+1997,South America,Religious,5
+1997,South Asia,Civilians,128
+1997,South Asia,Government,47
+1997,South Asia,Media & NGO,6
+1997,South Asia,Other,190
+1997,South Asia,Police & Military,102
+1997,South Asia,Religious,17
+1997,Sub-Saharan Africa,Civilians,94
+1997,Sub-Saharan Africa,Government,79
+1997,Sub-Saharan Africa,Media & NGO,9
+1997,Sub-Saharan Africa,Other,59
+1997,Sub-Saharan Africa,Police & Military,28
+1997,Sub-Saharan Africa,Religious,10
+1998,Asia-Pacific,Civilians,13
+1998,Asia-Pacific,Government,12
+1998,Asia-Pacific,Media & NGO,0
+1998,Asia-Pacific,Other,14
+1998,Asia-Pacific,Police & Military,8
+1998,Asia-Pacific,Religious,0
+1998,Central America & Caribbean,Civilians,0
+1998,Central America & Caribbean,Government,1
+1998,Central America & Caribbean,Media & NGO,0
+1998,Central America & Caribbean,Other,0
+1998,Central America & Caribbean,Police & Military,0
+1998,Central America & Caribbean,Religious,0
+1998,Central Asia,Civilians,8
+1998,Central Asia,Government,8
+1998,Central Asia,Media & NGO,0
+1998,Central Asia,Other,2
+1998,Central Asia,Police & Military,7
+1998,Central Asia,Religious,0
+1998,Europe,Civilians,41
+1998,Europe,Government,56
+1998,Europe,Media & NGO,7
+1998,Europe,Other,70
+1998,Europe,Police & Military,55
+1998,Europe,Religious,17
+1998,MENA,Civilians,96
+1998,MENA,Government,13
+1998,MENA,Media & NGO,1
+1998,MENA,Other,95
+1998,MENA,Police & Military,36
+1998,MENA,Religious,6
+1998,North America,Civilians,1
+1998,North America,Government,10
+1998,North America,Media & NGO,1
+1998,North America,Other,22
+1998,North America,Police & Military,2
+1998,North America,Religious,0
+1998,South America,Civilians,14
+1998,South America,Government,20
+1998,South America,Media & NGO,1
+1998,South America,Other,33
+1998,South America,Police & Military,33
+1998,South America,Religious,7
+1998,South Asia,Civilians,45
+1998,South Asia,Government,17
+1998,South Asia,Media & NGO,0
+1998,South Asia,Other,31
+1998,South Asia,Police & Military,37
+1998,South Asia,Religious,6
+1998,Sub-Saharan Africa,Civilians,37
+1998,Sub-Saharan Africa,Government,11
+1998,Sub-Saharan Africa,Media & NGO,2
+1998,Sub-Saharan Africa,Other,22
+1998,Sub-Saharan Africa,Police & Military,10
+1998,Sub-Saharan Africa,Religious,5
+1999,Asia-Pacific,Civilians,30
+1999,Asia-Pacific,Government,16
+1999,Asia-Pacific,Media & NGO,8
+1999,Asia-Pacific,Other,30
+1999,Asia-Pacific,Police & Military,29
+1999,Asia-Pacific,Religious,2
+1999,Central America & Caribbean,Civilians,1
+1999,Central America & Caribbean,Government,1
+1999,Central America & Caribbean,Media & NGO,0
+1999,Central America & Caribbean,Other,3
+1999,Central America & Caribbean,Police & Military,3
+1999,Central America & Caribbean,Religious,0
+1999,Central Asia,Civilians,6
+1999,Central Asia,Government,10
+1999,Central Asia,Media & NGO,0
+1999,Central Asia,Other,3
+1999,Central Asia,Police & Military,5
+1999,Central Asia,Religious,0
+1999,Europe,Civilians,96
+1999,Europe,Government,114
+1999,Europe,Media & NGO,15
+1999,Europe,Other,96
+1999,Europe,Police & Military,40
+1999,Europe,Religious,13
+1999,MENA,Civilians,104
+1999,MENA,Government,57
+1999,MENA,Media & NGO,5
+1999,MENA,Other,78
+1999,MENA,Police & Military,70
+1999,MENA,Religious,2
+1999,North America,Civilians,6
+1999,North America,Government,15
+1999,North America,Media & NGO,2
+1999,North America,Other,27
+1999,North America,Police & Military,1
+1999,North America,Religious,5
+1999,South America,Civilians,43
+1999,South America,Government,19
+1999,South America,Media & NGO,5
+1999,South America,Other,42
+1999,South America,Police & Military,23
+1999,South America,Religious,2
+1999,South Asia,Civilians,39
+1999,South Asia,Government,35
+1999,South Asia,Media & NGO,3
+1999,South Asia,Other,56
+1999,South Asia,Police & Military,80
+1999,South Asia,Religious,12
+1999,Sub-Saharan Africa,Civilians,45
+1999,Sub-Saharan Africa,Government,17
+1999,Sub-Saharan Africa,Media & NGO,9
+1999,Sub-Saharan Africa,Other,53
+1999,Sub-Saharan Africa,Police & Military,14
+1999,Sub-Saharan Africa,Religious,5
+2000,Asia-Pacific,Civilians,58
+2000,Asia-Pacific,Government,42
+2000,Asia-Pacific,Media & NGO,7
+2000,Asia-Pacific,Other,75
+2000,Asia-Pacific,Police & Military,55
+2000,Asia-Pacific,Religious,44
+2000,Central America & Caribbean,Civilians,4
+2000,Central America & Caribbean,Government,4
+2000,Central America & Caribbean,Media & NGO,0
+2000,Central America & Caribbean,Other,5
+2000,Central America & Caribbean,Police & Military,0
+2000,Central America & Caribbean,Religious,1
+2000,Central Asia,Civilians,2
+2000,Central Asia,Government,7
+2000,Central Asia,Media & NGO,2
+2000,Central Asia,Other,7
+2000,Central Asia,Police & Military,2
+2000,Central Asia,Religious,1
+2000,Europe,Civilians,83
+2000,Europe,Government,103
+2000,Europe,Media & NGO,12
+2000,Europe,Other,189
+2000,Europe,Police & Military,87
+2000,Europe,Religious,13
+2000,MENA,Civilians,79
+2000,MENA,Government,29
+2000,MENA,Media & NGO,4
+2000,MENA,Other,84
+2000,MENA,Police & Military,71
+2000,MENA,Religious,5
+2000,North America,Civilians,10
+2000,North America,Government,4
+2000,North America,Media & NGO,0
+2000,North America,Other,24
+2000,North America,Police & Military,3
+2000,North America,Religious,0
+2000,South America,Civilians,30
+2000,South America,Government,20
+2000,South America,Media & NGO,4
+2000,South America,Other,73
+2000,South America,Police & Military,19
+2000,South America,Religious,4
+2000,South Asia,Civilians,67
+2000,South Asia,Government,61
+2000,South Asia,Media & NGO,8
+2000,South Asia,Other,114
+2000,South Asia,Police & Military,92
+2000,South Asia,Religious,14
+2000,Sub-Saharan Africa,Civilians,77
+2000,Sub-Saharan Africa,Government,27
+2000,Sub-Saharan Africa,Media & NGO,11
+2000,Sub-Saharan Africa,Other,57
+2000,Sub-Saharan Africa,Police & Military,14
+2000,Sub-Saharan Africa,Religious,5
+2001,Asia-Pacific,Civilians,50
+2001,Asia-Pacific,Government,48
+2001,Asia-Pacific,Media & NGO,5
+2001,Asia-Pacific,Other,69
+2001,Asia-Pacific,Police & Military,33
+2001,Asia-Pacific,Religious,4
+2001,Central America & Caribbean,Civilians,0
+2001,Central America & Caribbean,Government,1
+2001,Central America & Caribbean,Media & NGO,1
+2001,Central America & Caribbean,Other,6
+2001,Central America & Caribbean,Police & Military,0
+2001,Central America & Caribbean,Religious,0
+2001,Central Asia,Civilians,4
+2001,Central Asia,Government,8
+2001,Central Asia,Media & NGO,1
+2001,Central Asia,Other,3
+2001,Central Asia,Police & Military,2
+2001,Central Asia,Religious,0
+2001,Europe,Civilians,96
+2001,Europe,Government,85
+2001,Europe,Media & NGO,16
+2001,Europe,Other,138
+2001,Europe,Police & Military,142
+2001,Europe,Religious,9
+2001,MENA,Civilians,158
+2001,MENA,Government,18
+2001,MENA,Media & NGO,5
+2001,MENA,Other,112
+2001,MENA,Police & Military,65
+2001,MENA,Religious,4
+2001,North America,Civilians,5
+2001,North America,Government,11
+2001,North America,Media & NGO,6
+2001,North America,Other,25
+2001,North America,Police & Military,1
+2001,North America,Religious,0
+2001,South America,Civilians,77
+2001,South America,Government,41
+2001,South America,Media & NGO,9
+2001,South America,Other,86
+2001,South America,Police & Military,13
+2001,South America,Religious,3
+2001,South Asia,Civilians,100
+2001,South Asia,Government,59
+2001,South Asia,Media & NGO,4
+2001,South Asia,Other,98
+2001,South Asia,Police & Military,104
+2001,South Asia,Religious,20
+2001,Sub-Saharan Africa,Civilians,66
+2001,Sub-Saharan Africa,Government,24
+2001,Sub-Saharan Africa,Media & NGO,2
+2001,Sub-Saharan Africa,Other,56
+2001,Sub-Saharan Africa,Police & Military,10
+2001,Sub-Saharan Africa,Religious,4
+2002,Asia-Pacific,Civilians,27
+2002,Asia-Pacific,Government,18
+2002,Asia-Pacific,Media & NGO,1
+2002,Asia-Pacific,Other,51
+2002,Asia-Pacific,Police & Military,15
+2002,Asia-Pacific,Religious,4
+2002,Central America & Caribbean,Civilians,0
+2002,Central America & Caribbean,Government,2
+2002,Central America & Caribbean,Media & NGO,0
+2002,Central America & Caribbean,Other,1
+2002,Central America & Caribbean,Police & Military,0
+2002,Central America & Caribbean,Religious,0
+2002,Central Asia,Civilians,1
+2002,Central Asia,Government,2
+2002,Central Asia,Media & NGO,0
+2002,Central Asia,Other,3
+2002,Central Asia,Police & Military,0
+2002,Central Asia,Religious,0
+2002,Europe,Civilians,28
+2002,Europe,Government,42
+2002,Europe,Media & NGO,8
+2002,Europe,Other,72
+2002,Europe,Police & Military,73
+2002,Europe,Religious,9
+2002,MENA,Civilians,91
+2002,MENA,Government,15
+2002,MENA,Media & NGO,0
+2002,MENA,Other,167
+2002,MENA,Police & Military,51
+2002,MENA,Religious,3
+2002,North America,Civilians,21
+2002,North America,Government,3
+2002,North America,Media & NGO,1
+2002,North America,Other,8
+2002,North America,Police & Military,0
+2002,North America,Religious,0
+2002,South America,Civilians,13
+2002,South America,Government,22
+2002,South America,Media & NGO,3
+2002,South America,Other,96
+2002,South America,Police & Military,24
+2002,South America,Religious,4
+2002,South Asia,Civilians,48
+2002,South Asia,Government,64
+2002,South Asia,Media & NGO,5
+2002,South Asia,Other,113
+2002,South Asia,Police & Military,92
+2002,South Asia,Religious,10
+2002,Sub-Saharan Africa,Civilians,29
+2002,Sub-Saharan Africa,Government,15
+2002,Sub-Saharan Africa,Media & NGO,4
+2002,Sub-Saharan Africa,Other,59
+2002,Sub-Saharan Africa,Police & Military,10
+2002,Sub-Saharan Africa,Religious,4
+2003,Asia-Pacific,Civilians,37
+2003,Asia-Pacific,Government,22
+2003,Asia-Pacific,Media & NGO,0
+2003,Asia-Pacific,Other,54
+2003,Asia-Pacific,Police & Military,39
+2003,Asia-Pacific,Religious,3
+2003,Central America & Caribbean,Civilians,0
+2003,Central America & Caribbean,Government,7
+2003,Central America & Caribbean,Media & NGO,0
+2003,Central America & Caribbean,Other,0
+2003,Central America & Caribbean,Police & Military,1
+2003,Central America & Caribbean,Religious,0
+2003,Central Asia,Civilians,0
+2003,Central Asia,Government,4
+2003,Central Asia,Media & NGO,0
+2003,Central Asia,Other,2
+2003,Central Asia,Police & Military,1
+2003,Central Asia,Religious,0
+2003,Europe,Civilians,24
+2003,Europe,Government,64
+2003,Europe,Media & NGO,4
+2003,Europe,Other,69
+2003,Europe,Police & Military,53
+2003,Europe,Religious,7
+2003,MENA,Civilians,61
+2003,MENA,Government,45
+2003,MENA,Media & NGO,5
+2003,MENA,Other,99
+2003,MENA,Police & Military,79
+2003,MENA,Religious,6
+2003,North America,Civilians,3
+2003,North America,Government,4
+2003,North America,Media & NGO,0
+2003,North America,Other,24
+2003,North America,Police & Military,2
+2003,North America,Religious,0
+2003,South America,Civilians,20
+2003,South America,Government,19
+2003,South America,Media & NGO,5
+2003,South America,Other,54
+2003,South America,Police & Military,19
+2003,South America,Religious,0
+2003,South Asia,Civilians,63
+2003,South Asia,Government,77
+2003,South Asia,Media & NGO,14
+2003,South Asia,Other,77
+2003,South Asia,Police & Military,110
+2003,South Asia,Religious,12
+2003,Sub-Saharan Africa,Civilians,28
+2003,Sub-Saharan Africa,Government,9
+2003,Sub-Saharan Africa,Media & NGO,0
+2003,Sub-Saharan Africa,Other,22
+2003,Sub-Saharan Africa,Police & Military,12
+2003,Sub-Saharan Africa,Religious,2
+2004,Asia-Pacific,Civilians,20
+2004,Asia-Pacific,Government,17
+2004,Asia-Pacific,Media & NGO,1
+2004,Asia-Pacific,Other,29
+2004,Asia-Pacific,Police & Military,28
+2004,Asia-Pacific,Religious,4
+2004,Central America & Caribbean,Civilians,1
+2004,Central America & Caribbean,Government,1
+2004,Central America & Caribbean,Media & NGO,1
+2004,Central America & Caribbean,Other,1
+2004,Central America & Caribbean,Police & Military,1
+2004,Central America & Caribbean,Religious,0
+2004,Central Asia,Civilians,1
+2004,Central Asia,Government,5
+2004,Central Asia,Media & NGO,0
+2004,Central Asia,Other,0
+2004,Central Asia,Police & Military,2
+2004,Central Asia,Religious,0
+2004,Europe,Civilians,15
+2004,Europe,Government,19
+2004,Europe,Media & NGO,2
+2004,Europe,Other,51
+2004,Europe,Police & Military,16
+2004,Europe,Religious,1
+2004,MENA,Civilians,75
+2004,MENA,Government,69
+2004,MENA,Media & NGO,23
+2004,MENA,Other,156
+2004,MENA,Police & Military,143
+2004,MENA,Religious,22
+2004,North America,Civilians,2
+2004,North America,Government,4
+2004,North America,Media & NGO,0
+2004,North America,Other,6
+2004,North America,Police & Military,0
+2004,North America,Religious,0
+2004,South America,Civilians,9
+2004,South America,Government,7
+2004,South America,Media & NGO,1
+2004,South America,Other,9
+2004,South America,Police & Military,14
+2004,South America,Religious,2
+2004,South Asia,Civilians,79
+2004,South Asia,Government,90
+2004,South Asia,Media & NGO,15
+2004,South Asia,Other,59
+2004,South Asia,Police & Military,110
+2004,South Asia,Religious,16
+2004,Sub-Saharan Africa,Civilians,20
+2004,Sub-Saharan Africa,Government,5
+2004,Sub-Saharan Africa,Media & NGO,1
+2004,Sub-Saharan Africa,Other,4
+2004,Sub-Saharan Africa,Police & Military,5
+2004,Sub-Saharan Africa,Religious,0
+2005,Asia-Pacific,Civilians,55
+2005,Asia-Pacific,Government,42
+2005,Asia-Pacific,Media & NGO,1
+2005,Asia-Pacific,Other,43
+2005,Asia-Pacific,Police & Military,57
+2005,Asia-Pacific,Religious,8
+2005,Central America & Caribbean,Civilians,1
+2005,Central America & Caribbean,Government,0
+2005,Central America & Caribbean,Media & NGO,0
+2005,Central America & Caribbean,Other,1
+2005,Central America & Caribbean,Police & Military,1
+2005,Central America & Caribbean,Religious,0
+2005,Central Asia,Civilians,2
+2005,Central Asia,Government,5
+2005,Central Asia,Media & NGO,0
+2005,Central Asia,Other,1
+2005,Central Asia,Police & Military,3
+2005,Central Asia,Religious,0
+2005,Europe,Civilians,27
+2005,Europe,Government,50
+2005,Europe,Media & NGO,0
+2005,Europe,Other,52
+2005,Europe,Police & Military,42
+2005,Europe,Religious,4
+2005,MENA,Civilians,180
+2005,MENA,Government,167
+2005,MENA,Media & NGO,15
+2005,MENA,Other,167
+2005,MENA,Police & Military,316
+2005,MENA,Religious,38
+2005,North America,Civilians,5
+2005,North America,Government,7
+2005,North America,Media & NGO,0
+2005,North America,Other,8
+2005,North America,Police & Military,0
+2005,North America,Religious,1
+2005,South America,Civilians,9
+2005,South America,Government,6
+2005,South America,Media & NGO,2
+2005,South America,Other,12
+2005,South America,Police & Military,17
+2005,South America,Religious,3
+2005,South Asia,Civilians,135
+2005,South Asia,Government,143
+2005,South Asia,Media & NGO,14
+2005,South Asia,Other,109
+2005,South Asia,Police & Military,172
+2005,South Asia,Religious,29
+2005,Sub-Saharan Africa,Civilians,16
+2005,Sub-Saharan Africa,Government,12
+2005,Sub-Saharan Africa,Media & NGO,2
+2005,Sub-Saharan Africa,Other,17
+2005,Sub-Saharan Africa,Police & Military,9
+2005,Sub-Saharan Africa,Religious,3
+2006,Asia-Pacific,Civilians,99
+2006,Asia-Pacific,Government,82
+2006,Asia-Pacific,Media & NGO,5
+2006,Asia-Pacific,Other,30
+2006,Asia-Pacific,Police & Military,55
+2006,Asia-Pacific,Religious,4
+2006,Central America & Caribbean,Civilians,1
+2006,Central America & Caribbean,Government,4
+2006,Central America & Caribbean,Media & NGO,0
+2006,Central America & Caribbean,Other,0
+2006,Central America & Caribbean,Police & Military,0
+2006,Central America & Caribbean,Religious,0
+2006,Central Asia,Civilians,1
+2006,Central Asia,Government,1
+2006,Central Asia,Media & NGO,1
+2006,Central Asia,Other,0
+2006,Central Asia,Police & Military,3
+2006,Central Asia,Religious,0
+2006,Europe,Civilians,44
+2006,Europe,Government,34
+2006,Europe,Media & NGO,2
+2006,Europe,Other,53
+2006,Europe,Police & Military,31
+2006,Europe,Religious,4
+2006,MENA,Civilians,385
+2006,MENA,Government,160
+2006,MENA,Media & NGO,19
+2006,MENA,Other,296
+2006,MENA,Police & Military,250
+2006,MENA,Religious,68
+2006,North America,Civilians,6
+2006,North America,Government,2
+2006,North America,Media & NGO,1
+2006,North America,Other,6
+2006,North America,Police & Military,0
+2006,North America,Religious,0
+2006,South America,Civilians,11
+2006,South America,Government,9
+2006,South America,Media & NGO,3
+2006,South America,Other,20
+2006,South America,Police & Military,7
+2006,South America,Religious,0
+2006,South Asia,Civilians,238
+2006,South Asia,Government,201
+2006,South Asia,Media & NGO,30
+2006,South Asia,Other,171
+2006,South Asia,Police & Military,282
+2006,South Asia,Religious,16
+2006,Sub-Saharan Africa,Civilians,33
+2006,Sub-Saharan Africa,Government,20
+2006,Sub-Saharan Africa,Media & NGO,3
+2006,Sub-Saharan Africa,Other,45
+2006,Sub-Saharan Africa,Police & Military,11
+2006,Sub-Saharan Africa,Religious,2
+2007,Asia-Pacific,Civilians,128
+2007,Asia-Pacific,Government,83
+2007,Asia-Pacific,Media & NGO,2
+2007,Asia-Pacific,Other,81
+2007,Asia-Pacific,Police & Military,63
+2007,Asia-Pacific,Religious,8
+2007,Central America & Caribbean,Civilians,0
+2007,Central America & Caribbean,Government,1
+2007,Central America & Caribbean,Media & NGO,2
+2007,Central America & Caribbean,Other,1
+2007,Central America & Caribbean,Police & Military,0
+2007,Central America & Caribbean,Religious,0
+2007,Central Asia,Civilians,0
+2007,Central Asia,Government,2
+2007,Central Asia,Media & NGO,1
+2007,Central Asia,Other,0
+2007,Central Asia,Police & Military,0
+2007,Central Asia,Religious,1
+2007,Europe,Civilians,22
+2007,Europe,Government,26
+2007,Europe,Media & NGO,0
+2007,Europe,Other,33
+2007,Europe,Police & Military,48
+2007,Europe,Religious,5
+2007,MENA,Civilians,478
+2007,MENA,Government,155
+2007,MENA,Media & NGO,24
+2007,MENA,Other,289
+2007,MENA,Police & Military,385
+2007,MENA,Religious,54
+2007,North America,Civilians,0
+2007,North America,Government,5
+2007,North America,Media & NGO,0
+2007,North America,Other,8
+2007,North America,Police & Military,6
+2007,North America,Religious,0
+2007,South America,Civilians,12
+2007,South America,Government,11
+2007,South America,Media & NGO,0
+2007,South America,Other,11
+2007,South America,Police & Military,13
+2007,South America,Religious,0
+2007,South Asia,Civilians,199
+2007,South Asia,Government,133
+2007,South Asia,Media & NGO,21
+2007,South Asia,Other,230
+2007,South Asia,Police & Military,381
+2007,South Asia,Religious,17
+2007,Sub-Saharan Africa,Civilians,62
+2007,Sub-Saharan Africa,Government,54
+2007,Sub-Saharan Africa,Media & NGO,11
+2007,Sub-Saharan Africa,Other,68
+2007,Sub-Saharan Africa,Police & Military,105
+2007,Sub-Saharan Africa,Religious,2
+2008,Asia-Pacific,Civilians,166
+2008,Asia-Pacific,Government,144
+2008,Asia-Pacific,Media & NGO,8
+2008,Asia-Pacific,Other,164
+2008,Asia-Pacific,Police & Military,54
+2008,Asia-Pacific,Religious,10
+2008,Central America & Caribbean,Civilians,0
+2008,Central America & Caribbean,Government,0
+2008,Central America & Caribbean,Media & NGO,0
+2008,Central America & Caribbean,Other,0
+2008,Central America & Caribbean,Police & Military,0
+2008,Central America & Caribbean,Religious,0
+2008,Central Asia,Civilians,5
+2008,Central Asia,Government,7
+2008,Central Asia,Media & NGO,4
+2008,Central Asia,Other,5
+2008,Central Asia,Police & Military,14
+2008,Central Asia,Religious,1
+2008,Europe,Civilians,75
+2008,Europe,Government,80
+2008,Europe,Media & NGO,3
+2008,Europe,Other,124
+2008,Europe,Police & Military,83
+2008,Europe,Religious,7
+2008,MENA,Civilians,612
+2008,MENA,Government,223
+2008,MENA,Media & NGO,22
+2008,MENA,Other,431
+2008,MENA,Police & Military,213
+2008,MENA,Religious,34
+2008,North America,Civilians,3
+2008,North America,Government,5
+2008,North America,Media & NGO,0
+2008,North America,Other,14
+2008,North America,Police & Military,6
+2008,North America,Religious,3
+2008,South America,Civilians,36
+2008,South America,Government,20
+2008,South America,Media & NGO,3
+2008,South America,Other,72
+2008,South America,Police & Military,12
+2008,South America,Religious,1
+2008,South Asia,Civilians,536
+2008,South Asia,Government,409
+2008,South Asia,Media & NGO,47
+2008,South Asia,Other,481
+2008,South Asia,Police & Military,242
+2008,South Asia,Religious,44
+2008,Sub-Saharan Africa,Civilians,76
+2008,Sub-Saharan Africa,Government,110
+2008,Sub-Saharan Africa,Media & NGO,29
+2008,Sub-Saharan Africa,Other,110
+2008,Sub-Saharan Africa,Police & Military,49
+2008,Sub-Saharan Africa,Religious,6
+2009,Asia-Pacific,Civilians,254
+2009,Asia-Pacific,Government,129
+2009,Asia-Pacific,Media & NGO,6
+2009,Asia-Pacific,Other,148
+2009,Asia-Pacific,Police & Military,21
+2009,Asia-Pacific,Religious,13
+2009,Central America & Caribbean,Civilians,2
+2009,Central America & Caribbean,Government,4
+2009,Central America & Caribbean,Media & NGO,1
+2009,Central America & Caribbean,Other,1
+2009,Central America & Caribbean,Police & Military,0
+2009,Central America & Caribbean,Religious,1
+2009,Central Asia,Civilians,2
+2009,Central Asia,Government,4
+2009,Central Asia,Media & NGO,1
+2009,Central Asia,Other,12
+2009,Central Asia,Police & Military,12
+2009,Central Asia,Religious,0
+2009,Europe,Civilians,51
+2009,Europe,Government,93
+2009,Europe,Media & NGO,6
+2009,Europe,Other,105
+2009,Europe,Police & Military,73
+2009,Europe,Religious,18
+2009,MENA,Civilians,574
+2009,MENA,Government,229
+2009,MENA,Media & NGO,5
+2009,MENA,Other,347
+2009,MENA,Police & Military,145
+2009,MENA,Religious,61
+2009,North America,Civilians,2
+2009,North America,Government,4
+2009,North America,Media & NGO,0
+2009,North America,Other,8
+2009,North America,Police & Military,1
+2009,North America,Religious,0
+2009,South America,Civilians,39
+2009,South America,Government,30
+2009,South America,Media & NGO,7
+2009,South America,Other,75
+2009,South America,Police & Military,6
+2009,South America,Religious,2
+2009,South Asia,Civilians,606
+2009,South Asia,Government,518
+2009,South Asia,Media & NGO,41
+2009,South Asia,Other,521
+2009,South Asia,Police & Military,218
+2009,South Asia,Religious,40
+2009,Sub-Saharan Africa,Civilians,98
+2009,Sub-Saharan Africa,Government,76
+2009,Sub-Saharan Africa,Media & NGO,20
+2009,Sub-Saharan Africa,Other,60
+2009,Sub-Saharan Africa,Police & Military,19
+2009,Sub-Saharan Africa,Religious,10
+2010,Asia-Pacific,Civilians,153
+2010,Asia-Pacific,Government,148
+2010,Asia-Pacific,Media & NGO,8
+2010,Asia-Pacific,Other,126
+2010,Asia-Pacific,Police & Military,28
+2010,Asia-Pacific,Religious,12
+2010,Central America & Caribbean,Civilians,0
+2010,Central America & Caribbean,Government,0
+2010,Central America & Caribbean,Media & NGO,0
+2010,Central America & Caribbean,Other,0
+2010,Central America & Caribbean,Police & Military,1
+2010,Central America & Caribbean,Religious,0
+2010,Central Asia,Civilians,2
+2010,Central Asia,Government,2
+2010,Central Asia,Media & NGO,0
+2010,Central Asia,Other,2
+2010,Central Asia,Police & Military,3
+2010,Central Asia,Religious,0
+2010,Europe,Civilians,76
+2010,Europe,Government,102
+2010,Europe,Media & NGO,3
+2010,Europe,Other,79
+2010,Europe,Police & Military,118
+2010,Europe,Religious,15
+2010,MENA,Civilians,477
+2010,MENA,Government,296
+2010,MENA,Media & NGO,12
+2010,MENA,Other,332
+2010,MENA,Police & Military,300
+2010,MENA,Religious,46
+2010,North America,Civilians,2
+2010,North America,Government,5
+2010,North America,Media & NGO,3
+2010,North America,Other,13
+2010,North America,Police & Military,1
+2010,North America,Religious,0
+2010,South America,Civilians,31
+2010,South America,Government,23
+2010,South America,Media & NGO,4
+2010,South America,Other,68
+2010,South America,Police & Military,18
+2010,South America,Religious,4
+2010,South Asia,Civilians,586
+2010,South Asia,Government,650
+2010,South Asia,Media & NGO,41
+2010,South Asia,Other,458
+2010,South Asia,Police & Military,205
+2010,South Asia,Religious,38
+2010,Sub-Saharan Africa,Civilians,117
+2010,Sub-Saharan Africa,Government,79
+2010,Sub-Saharan Africa,Media & NGO,18
+2010,Sub-Saharan Africa,Other,76
+2010,Sub-Saharan Africa,Police & Military,32
+2010,Sub-Saharan Africa,Religious,9
+2011,Asia-Pacific,Civilians,85
+2011,Asia-Pacific,Government,75
+2011,Asia-Pacific,Media & NGO,1
+2011,Asia-Pacific,Other,135
+2011,Asia-Pacific,Police & Military,53
+2011,Asia-Pacific,Religious,9
+2011,Central America & Caribbean,Civilians,0
+2011,Central America & Caribbean,Government,0
+2011,Central America & Caribbean,Media & NGO,0
+2011,Central America & Caribbean,Other,1
+2011,Central America & Caribbean,Police & Military,0
+2011,Central America & Caribbean,Religious,0
+2011,Central Asia,Civilians,2
+2011,Central Asia,Government,3
+2011,Central Asia,Media & NGO,1
+2011,Central Asia,Other,2
+2011,Central Asia,Police & Military,1
+2011,Central Asia,Religious,0
+2011,Europe,Civilians,57
+2011,Europe,Government,55
+2011,Europe,Media & NGO,2
+2011,Europe,Other,92
+2011,Europe,Police & Military,71
+2011,Europe,Religious,14
+2011,MENA,Civilians,465
+2011,MENA,Government,350
+2011,MENA,Media & NGO,11
+2011,MENA,Other,401
+2011,MENA,Police & Military,394
+2011,MENA,Religious,42
+2011,North America,Civilians,2
+2011,North America,Government,4
+2011,North America,Media & NGO,0
+2011,North America,Other,5
+2011,North America,Police & Military,0
+2011,North America,Religious,1
+2011,South America,Civilians,22
+2011,South America,Government,13
+2011,South America,Media & NGO,2
+2011,South America,Other,60
+2011,South America,Police & Military,9
+2011,South America,Religious,0
+2011,South Asia,Civilians,522
+2011,South Asia,Government,527
+2011,South Asia,Media & NGO,31
+2011,South Asia,Other,692
+2011,South Asia,Police & Military,331
+2011,South Asia,Religious,34
+2011,Sub-Saharan Africa,Civilians,167
+2011,Sub-Saharan Africa,Government,80
+2011,Sub-Saharan Africa,Media & NGO,24
+2011,Sub-Saharan Africa,Other,109
+2011,Sub-Saharan Africa,Police & Military,90
+2011,Sub-Saharan Africa,Religious,24
+2012,Asia-Pacific,Civilians,71
+2012,Asia-Pacific,Government,113
+2012,Asia-Pacific,Media & NGO,10
+2012,Asia-Pacific,Other,136
+2012,Asia-Pacific,Police & Military,250
+2012,Asia-Pacific,Religious,10
+2012,Central America & Caribbean,Civilians,0
+2012,Central America & Caribbean,Government,1
+2012,Central America & Caribbean,Media & NGO,0
+2012,Central America & Caribbean,Other,0
+2012,Central America & Caribbean,Police & Military,0
+2012,Central America & Caribbean,Religious,0
+2012,Central Asia,Civilians,1
+2012,Central Asia,Government,7
+2012,Central Asia,Media & NGO,1
+2012,Central Asia,Other,0
+2012,Central Asia,Police & Military,3
+2012,Central Asia,Religious,0
+2012,Europe,Civilians,109
+2012,Europe,Government,51
+2012,Europe,Media & NGO,4
+2012,Europe,Other,83
+2012,Europe,Police & Military,99
+2012,Europe,Religious,17
+2012,MENA,Civilians,580
+2012,MENA,Government,319
+2012,MENA,Media & NGO,35
+2012,MENA,Other,362
+2012,MENA,Police & Military,1044
+2012,MENA,Religious,68
+2012,North America,Civilians,2
+2012,North America,Government,2
+2012,North America,Media & NGO,12
+2012,North America,Other,10
+2012,North America,Police & Military,3
+2012,North America,Religious,9
+2012,South America,Civilians,8
+2012,South America,Government,6
+2012,South America,Media & NGO,4
+2012,South America,Other,57
+2012,South America,Police & Military,57
+2012,South America,Religious,1
+2012,South Asia,Civilians,725
+2012,South Asia,Government,564
+2012,South Asia,Media & NGO,40
+2012,South Asia,Other,803
+2012,South Asia,Police & Military,1600
+2012,South Asia,Religious,67
+2012,Sub-Saharan Africa,Civilians,188
+2012,Sub-Saharan Africa,Government,252
+2012,Sub-Saharan Africa,Media & NGO,39
+2012,Sub-Saharan Africa,Other,157
+2012,Sub-Saharan Africa,Police & Military,438
+2012,Sub-Saharan Africa,Religious,82
+2014,Asia-Pacific,Civilians,157
+2014,Asia-Pacific,Government,226
+2014,Asia-Pacific,Media & NGO,21
+2014,Asia-Pacific,Other,256
+2014,Asia-Pacific,Police & Military,455
+2014,Asia-Pacific,Religious,16
+2014,Central America & Caribbean,Civilians,0
+2014,Central America & Caribbean,Government,2
+2014,Central America & Caribbean,Media & NGO,0
+2014,Central America & Caribbean,Other,3
+2014,Central America & Caribbean,Police & Military,0
+2014,Central America & Caribbean,Religious,0
+2014,Central Asia,Civilians,2
+2014,Central Asia,Government,3
+2014,Central Asia,Media & NGO,0
+2014,Central Asia,Other,1
+2014,Central Asia,Police & Military,1
+2014,Central Asia,Religious,2
+2014,Europe,Civilians,221
+2014,Europe,Government,107
+2014,Europe,Media & NGO,42
+2014,Europe,Other,188
+2014,Europe,Police & Military,594
+2014,Europe,Religious,28
+2014,MENA,Civilians,2001
+2014,MENA,Government,689
+2014,MENA,Media & NGO,115
+2014,MENA,Other,1370
+2014,MENA,Police & Military,2576
+2014,MENA,Religious,168
+2014,North America,Civilians,8
+2014,North America,Government,7
+2014,North America,Media & NGO,3
+2014,North America,Other,1
+2014,North America,Police & Military,9
+2014,North America,Religious,6
+2014,South America,Civilians,28
+2014,South America,Government,15
+2014,South America,Media & NGO,6
+2014,South America,Other,131
+2014,South America,Police & Military,100
+2014,South America,Religious,2
+2014,South Asia,Civilians,947
+2014,South Asia,Government,756
+2014,South Asia,Media & NGO,72
+2014,South Asia,Other,1199
+2014,South Asia,Police & Military,1890
+2014,South Asia,Religious,128
+2014,Sub-Saharan Africa,Civilians,896
+2014,Sub-Saharan Africa,Government,325
+2014,Sub-Saharan Africa,Media & NGO,54
+2014,Sub-Saharan Africa,Other,248
+2014,Sub-Saharan Africa,Police & Military,707
+2014,Sub-Saharan Africa,Religious,78
+2015,Asia-Pacific,Civilians,164
+2015,Asia-Pacific,Government,170
+2015,Asia-Pacific,Media & NGO,14
+2015,Asia-Pacific,Other,288
+2015,Asia-Pacific,Police & Military,444
+2015,Asia-Pacific,Religious,32
+2015,Central America & Caribbean,Civilians,0
+2015,Central America & Caribbean,Government,0
+2015,Central America & Caribbean,Media & NGO,1
+2015,Central America & Caribbean,Other,0
+2015,Central America & Caribbean,Police & Military,0
+2015,Central America & Caribbean,Religious,0
+2015,Central Asia,Civilians,1
+2015,Central Asia,Government,3
+2015,Central Asia,Media & NGO,1
+2015,Central Asia,Other,0
+2015,Central Asia,Police & Military,4
+2015,Central Asia,Religious,0
+2015,Europe,Civilians,243
+2015,Europe,Government,50
+2015,Europe,Media & NGO,14
+2015,Europe,Other,278
+2015,Europe,Police & Military,398
+2015,Europe,Religious,36
+2015,MENA,Civilians,1927
+2015,MENA,Government,442
+2015,MENA,Media & NGO,85
+2015,MENA,Other,1467
+2015,MENA,Police & Military,1910
+2015,MENA,Religious,125
+2015,North America,Civilians,9
+2015,North America,Government,3
+2015,North America,Media & NGO,8
+2015,North America,Other,24
+2015,North America,Police & Military,3
+2015,North America,Religious,16
+2015,South America,Civilians,19
+2015,South America,Government,11
+2015,South America,Media & NGO,7
+2015,South America,Other,75
+2015,South America,Police & Military,63
+2015,South America,Religious,0
+2015,South Asia,Civilians,840
+2015,South Asia,Government,681
+2015,South Asia,Media & NGO,68
+2015,South Asia,Other,1168
+2015,South Asia,Police & Military,1693
+2015,South Asia,Religious,128
+2015,Sub-Saharan Africa,Civilians,823
+2015,Sub-Saharan Africa,Government,281
+2015,Sub-Saharan Africa,Media & NGO,36
+2015,Sub-Saharan Africa,Other,222
+2015,Sub-Saharan Africa,Police & Military,511
+2015,Sub-Saharan Africa,Religious,66
+2016,Asia-Pacific,Civilians,187
+2016,Asia-Pacific,Government,267
+2016,Asia-Pacific,Media & NGO,15
+2016,Asia-Pacific,Other,284
+2016,Asia-Pacific,Police & Military,325
+2016,Asia-Pacific,Religious,18
+2016,Central America & Caribbean,Civilians,1
+2016,Central America & Caribbean,Government,0
+2016,Central America & Caribbean,Media & NGO,0
+2016,Central America & Caribbean,Other,0
+2016,Central America & Caribbean,Police & Military,2
+2016,Central America & Caribbean,Religious,0
+2016,Central Asia,Civilians,3
+2016,Central Asia,Government,4
+2016,Central Asia,Media & NGO,1
+2016,Central Asia,Other,5
+2016,Central Asia,Police & Military,3
+2016,Central Asia,Religious,0
+2016,Europe,Civilians,105
+2016,Europe,Government,64
+2016,Europe,Media & NGO,16
+2016,Europe,Other,95
+2016,Europe,Police & Military,78
+2016,Europe,Religious,43
+2016,MENA,Civilians,2245
+2016,MENA,Government,295
+2016,MENA,Media & NGO,53
+2016,MENA,Other,1578
+2016,MENA,Police & Military,1839
+2016,MENA,Religious,78
+2016,North America,Civilians,11
+2016,North America,Government,3
+2016,North America,Media & NGO,7
+2016,North America,Other,17
+2016,North America,Police & Military,10
+2016,North America,Religious,24
+2016,South America,Civilians,16
+2016,South America,Government,8
+2016,South America,Media & NGO,9
+2016,South America,Other,46
+2016,South America,Police & Military,48
+2016,South America,Religious,6
+2016,South Asia,Civilians,874
+2016,South Asia,Government,472
+2016,South Asia,Media & NGO,54
+2016,South Asia,Other,789
+2016,South Asia,Police & Military,1354
+2016,South Asia,Religious,85
+2016,Sub-Saharan Africa,Civilians,775
+2016,Sub-Saharan Africa,Government,251
+2016,Sub-Saharan Africa,Media & NGO,30
+2016,Sub-Saharan Africa,Other,350
+2016,Sub-Saharan Africa,Police & Military,607
+2016,Sub-Saharan Africa,Religious,38

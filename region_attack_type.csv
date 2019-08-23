@@ -1,0 +1,2071 @@
+year,Region,Attack.Type,Percentage
+1970,Asia-Pacific,Armed Assault,0
+1970,Asia-Pacific,Bombing/Explosion,7
+1970,Asia-Pacific,Facility/Infrastructure Attack,1
+1970,Asia-Pacific,Hostage taking/assassinaton,1
+1970,Asia-Pacific,Other,4
+1970,Central America & Caribbean,Armed Assault,0
+1970,Central America & Caribbean,Bombing/Explosion,0
+1970,Central America & Caribbean,Facility/Infrastructure Attack,0
+1970,Central America & Caribbean,Hostage taking/assassinaton,7
+1970,Central America & Caribbean,Other,0
+1970,Central Asia,Armed Assault,0
+1970,Central Asia,Bombing/Explosion,0
+1970,Central Asia,Facility/Infrastructure Attack,0
+1970,Central Asia,Hostage taking/assassinaton,0
+1970,Central Asia,Other,0
+1970,Europe,Armed Assault,17
+1970,Europe,Bombing/Explosion,23
+1970,Europe,Facility/Infrastructure Attack,12
+1970,Europe,Hostage taking/assassinaton,3
+1970,Europe,Other,6
+1970,MENA,Armed Assault,4
+1970,MENA,Bombing/Explosion,14
+1970,MENA,Facility/Infrastructure Attack,1
+1970,MENA,Hostage taking/assassinaton,7
+1970,MENA,Other,3
+1970,North America,Armed Assault,7
+1970,North America,Bombing/Explosion,86
+1970,North America,Facility/Infrastructure Attack,13
+1970,North America,Hostage taking/assassinaton,6
+1970,North America,Other,360
+1970,South America,Armed Assault,12
+1970,South America,Bombing/Explosion,11
+1970,South America,Facility/Infrastructure Attack,11
+1970,South America,Hostage taking/assassinaton,29
+1970,South America,Other,2
+1970,South Asia,Armed Assault,0
+1970,South Asia,Bombing/Explosion,0
+1970,South Asia,Facility/Infrastructure Attack,0
+1970,South Asia,Hostage taking/assassinaton,1
+1970,South Asia,Other,0
+1970,Sub-Saharan Africa,Armed Assault,0
+1970,Sub-Saharan Africa,Bombing/Explosion,0
+1970,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+1970,Sub-Saharan Africa,Hostage taking/assassinaton,2
+1970,Sub-Saharan Africa,Other,1
+1971,Asia-Pacific,Armed Assault,0
+1971,Asia-Pacific,Bombing/Explosion,5
+1971,Asia-Pacific,Facility/Infrastructure Attack,0
+1971,Asia-Pacific,Hostage taking/assassinaton,2
+1971,Asia-Pacific,Other,1
+1971,Central America & Caribbean,Armed Assault,3
+1971,Central America & Caribbean,Bombing/Explosion,0
+1971,Central America & Caribbean,Facility/Infrastructure Attack,0
+1971,Central America & Caribbean,Hostage taking/assassinaton,2
+1971,Central America & Caribbean,Other,0
+1971,Central Asia,Armed Assault,0
+1971,Central Asia,Bombing/Explosion,0
+1971,Central Asia,Facility/Infrastructure Attack,0
+1971,Central Asia,Hostage taking/assassinaton,0
+1971,Central Asia,Other,0
+1971,Europe,Armed Assault,5
+1971,Europe,Bombing/Explosion,51
+1971,Europe,Facility/Infrastructure Attack,10
+1971,Europe,Hostage taking/assassinaton,61
+1971,Europe,Other,2
+1971,MENA,Armed Assault,7
+1971,MENA,Bombing/Explosion,36
+1971,MENA,Facility/Infrastructure Attack,1
+1971,MENA,Hostage taking/assassinaton,7
+1971,MENA,Other,4
+1971,North America,Armed Assault,15
+1971,North America,Bombing/Explosion,76
+1971,North America,Facility/Infrastructure Attack,24
+1971,North America,Hostage taking/assassinaton,3
+1971,North America,Other,129
+1971,South America,Armed Assault,8
+1971,South America,Bombing/Explosion,3
+1971,South America,Facility/Infrastructure Attack,2
+1971,South America,Hostage taking/assassinaton,11
+1971,South America,Other,0
+1971,South Asia,Armed Assault,0
+1971,South Asia,Bombing/Explosion,0
+1971,South Asia,Facility/Infrastructure Attack,0
+1971,South Asia,Hostage taking/assassinaton,0
+1971,South Asia,Other,0
+1971,Sub-Saharan Africa,Armed Assault,0
+1971,Sub-Saharan Africa,Bombing/Explosion,0
+1971,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+1971,Sub-Saharan Africa,Hostage taking/assassinaton,1
+1971,Sub-Saharan Africa,Other,1
+1972,Asia-Pacific,Armed Assault,5
+1972,Asia-Pacific,Bombing/Explosion,5
+1972,Asia-Pacific,Facility/Infrastructure Attack,0
+1972,Asia-Pacific,Hostage taking/assassinaton,2
+1972,Asia-Pacific,Other,0
+1972,Central America & Caribbean,Armed Assault,0
+1972,Central America & Caribbean,Bombing/Explosion,3
+1972,Central America & Caribbean,Facility/Infrastructure Attack,0
+1972,Central America & Caribbean,Hostage taking/assassinaton,0
+1972,Central America & Caribbean,Other,0
+1972,Central Asia,Armed Assault,0
+1972,Central Asia,Bombing/Explosion,0
+1972,Central Asia,Facility/Infrastructure Attack,0
+1972,Central Asia,Hostage taking/assassinaton,0
+1972,Central Asia,Other,0
+1972,Europe,Armed Assault,49
+1972,Europe,Bombing/Explosion,107
+1972,Europe,Facility/Infrastructure Attack,4
+1972,Europe,Hostage taking/assassinaton,184
+1972,Europe,Other,12
+1972,MENA,Armed Assault,2
+1972,MENA,Bombing/Explosion,23
+1972,MENA,Facility/Infrastructure Attack,0
+1972,MENA,Hostage taking/assassinaton,5
+1972,MENA,Other,5
+1972,North America,Armed Assault,3
+1972,North America,Bombing/Explosion,21
+1972,North America,Facility/Infrastructure Attack,4
+1972,North America,Hostage taking/assassinaton,5
+1972,North America,Other,36
+1972,South America,Armed Assault,3
+1972,South America,Bombing/Explosion,8
+1972,South America,Facility/Infrastructure Attack,0
+1972,South America,Hostage taking/assassinaton,9
+1972,South America,Other,0
+1972,South Asia,Armed Assault,0
+1972,South Asia,Bombing/Explosion,0
+1972,South Asia,Facility/Infrastructure Attack,0
+1972,South Asia,Hostage taking/assassinaton,0
+1972,South Asia,Other,1
+1972,Sub-Saharan Africa,Armed Assault,0
+1972,Sub-Saharan Africa,Bombing/Explosion,0
+1972,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+1972,Sub-Saharan Africa,Hostage taking/assassinaton,0
+1972,Sub-Saharan Africa,Other,0
+1973,Asia-Pacific,Armed Assault,1
+1973,Asia-Pacific,Bombing/Explosion,1
+1973,Asia-Pacific,Facility/Infrastructure Attack,2
+1973,Asia-Pacific,Hostage taking/assassinaton,1
+1973,Asia-Pacific,Other,0
+1973,Central America & Caribbean,Armed Assault,0
+1973,Central America & Caribbean,Bombing/Explosion,1
+1973,Central America & Caribbean,Facility/Infrastructure Attack,0
+1973,Central America & Caribbean,Hostage taking/assassinaton,4
+1973,Central America & Caribbean,Other,1
+1973,Central Asia,Armed Assault,0
+1973,Central Asia,Bombing/Explosion,0
+1973,Central Asia,Facility/Infrastructure Attack,0
+1973,Central Asia,Hostage taking/assassinaton,0
+1973,Central Asia,Other,0
+1973,Europe,Armed Assault,27
+1973,Europe,Bombing/Explosion,89
+1973,Europe,Facility/Infrastructure Attack,24
+1973,Europe,Hostage taking/assassinaton,145
+1973,Europe,Other,6
+1973,MENA,Armed Assault,2
+1973,MENA,Bombing/Explosion,14
+1973,MENA,Facility/Infrastructure Attack,0
+1973,MENA,Hostage taking/assassinaton,2
+1973,MENA,Other,1
+1973,North America,Armed Assault,21
+1973,North America,Bombing/Explosion,22
+1973,North America,Facility/Infrastructure Attack,4
+1973,North America,Hostage taking/assassinaton,14
+1973,North America,Other,3
+1973,South America,Armed Assault,10
+1973,South America,Bombing/Explosion,22
+1973,South America,Facility/Infrastructure Attack,6
+1973,South America,Hostage taking/assassinaton,42
+1973,South America,Other,3
+1973,South Asia,Armed Assault,0
+1973,South Asia,Bombing/Explosion,0
+1973,South Asia,Facility/Infrastructure Attack,0
+1973,South Asia,Hostage taking/assassinaton,0
+1973,South Asia,Other,1
+1973,Sub-Saharan Africa,Armed Assault,0
+1973,Sub-Saharan Africa,Bombing/Explosion,0
+1973,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+1973,Sub-Saharan Africa,Hostage taking/assassinaton,4
+1973,Sub-Saharan Africa,Other,0
+1974,Asia-Pacific,Armed Assault,0
+1974,Asia-Pacific,Bombing/Explosion,0
+1974,Asia-Pacific,Facility/Infrastructure Attack,3
+1974,Asia-Pacific,Hostage taking/assassinaton,4
+1974,Asia-Pacific,Other,1
+1974,Central America & Caribbean,Armed Assault,1
+1974,Central America & Caribbean,Bombing/Explosion,6
+1974,Central America & Caribbean,Facility/Infrastructure Attack,0
+1974,Central America & Caribbean,Hostage taking/assassinaton,4
+1974,Central America & Caribbean,Other,0
+1974,Central Asia,Armed Assault,0
+1974,Central Asia,Bombing/Explosion,0
+1974,Central Asia,Facility/Infrastructure Attack,0
+1974,Central Asia,Hostage taking/assassinaton,0
+1974,Central Asia,Other,0
+1974,Europe,Armed Assault,23
+1974,Europe,Bombing/Explosion,126
+1974,Europe,Facility/Infrastructure Attack,25
+1974,Europe,Hostage taking/assassinaton,142
+1974,Europe,Other,2
+1974,MENA,Armed Assault,3
+1974,MENA,Bombing/Explosion,27
+1974,MENA,Facility/Infrastructure Attack,1
+1974,MENA,Hostage taking/assassinaton,8
+1974,MENA,Other,3
+1974,North America,Armed Assault,14
+1974,North America,Bombing/Explosion,73
+1974,North America,Facility/Infrastructure Attack,7
+1974,North America,Hostage taking/assassinaton,7
+1974,North America,Other,10
+1974,South America,Armed Assault,4
+1974,South America,Bombing/Explosion,44
+1974,South America,Facility/Infrastructure Attack,2
+1974,South America,Hostage taking/assassinaton,31
+1974,South America,Other,0
+1974,South Asia,Armed Assault,0
+1974,South Asia,Bombing/Explosion,2
+1974,South Asia,Facility/Infrastructure Attack,0
+1974,South Asia,Hostage taking/assassinaton,0
+1974,South Asia,Other,0
+1974,Sub-Saharan Africa,Armed Assault,0
+1974,Sub-Saharan Africa,Bombing/Explosion,3
+1974,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+1974,Sub-Saharan Africa,Hostage taking/assassinaton,4
+1974,Sub-Saharan Africa,Other,0
+1975,Asia-Pacific,Armed Assault,0
+1975,Asia-Pacific,Bombing/Explosion,14
+1975,Asia-Pacific,Facility/Infrastructure Attack,1
+1975,Asia-Pacific,Hostage taking/assassinaton,4
+1975,Asia-Pacific,Other,0
+1975,Central America & Caribbean,Armed Assault,2
+1975,Central America & Caribbean,Bombing/Explosion,0
+1975,Central America & Caribbean,Facility/Infrastructure Attack,0
+1975,Central America & Caribbean,Hostage taking/assassinaton,5
+1975,Central America & Caribbean,Other,2
+1975,Central Asia,Armed Assault,0
+1975,Central Asia,Bombing/Explosion,0
+1975,Central Asia,Facility/Infrastructure Attack,0
+1975,Central Asia,Hostage taking/assassinaton,0
+1975,Central Asia,Other,0
+1975,Europe,Armed Assault,49
+1975,Europe,Bombing/Explosion,155
+1975,Europe,Facility/Infrastructure Attack,57
+1975,Europe,Hostage taking/assassinaton,158
+1975,Europe,Other,19
+1975,MENA,Armed Assault,3
+1975,MENA,Bombing/Explosion,27
+1975,MENA,Facility/Infrastructure Attack,0
+1975,MENA,Hostage taking/assassinaton,10
+1975,MENA,Other,4
+1975,North America,Armed Assault,9
+1975,North America,Bombing/Explosion,116
+1975,North America,Facility/Infrastructure Attack,4
+1975,North America,Hostage taking/assassinaton,8
+1975,North America,Other,22
+1975,South America,Armed Assault,12
+1975,South America,Bombing/Explosion,25
+1975,South America,Facility/Infrastructure Attack,2
+1975,South America,Hostage taking/assassinaton,13
+1975,South America,Other,3
+1975,South Asia,Armed Assault,0
+1975,South Asia,Bombing/Explosion,1
+1975,South Asia,Facility/Infrastructure Attack,0
+1975,South Asia,Hostage taking/assassinaton,2
+1975,South Asia,Other,1
+1975,Sub-Saharan Africa,Armed Assault,0
+1975,Sub-Saharan Africa,Bombing/Explosion,3
+1975,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+1975,Sub-Saharan Africa,Hostage taking/assassinaton,8
+1975,Sub-Saharan Africa,Other,1
+1976,Asia-Pacific,Armed Assault,4
+1976,Asia-Pacific,Bombing/Explosion,4
+1976,Asia-Pacific,Facility/Infrastructure Attack,1
+1976,Asia-Pacific,Hostage taking/assassinaton,3
+1976,Asia-Pacific,Other,2
+1976,Central America & Caribbean,Armed Assault,9
+1976,Central America & Caribbean,Bombing/Explosion,28
+1976,Central America & Caribbean,Facility/Infrastructure Attack,1
+1976,Central America & Caribbean,Hostage taking/assassinaton,7
+1976,Central America & Caribbean,Other,0
+1976,Central Asia,Armed Assault,0
+1976,Central Asia,Bombing/Explosion,0
+1976,Central Asia,Facility/Infrastructure Attack,0
+1976,Central Asia,Hostage taking/assassinaton,0
+1976,Central Asia,Other,0
+1976,Europe,Armed Assault,74
+1976,Europe,Bombing/Explosion,234
+1976,Europe,Facility/Infrastructure Attack,95
+1976,Europe,Hostage taking/assassinaton,172
+1976,Europe,Other,4
+1976,MENA,Armed Assault,4
+1976,MENA,Bombing/Explosion,37
+1976,MENA,Facility/Infrastructure Attack,1
+1976,MENA,Hostage taking/assassinaton,11
+1976,MENA,Other,2
+1976,North America,Armed Assault,14
+1976,North America,Bombing/Explosion,74
+1976,North America,Facility/Infrastructure Attack,4
+1976,North America,Hostage taking/assassinaton,15
+1976,North America,Other,18
+1976,South America,Armed Assault,17
+1976,South America,Bombing/Explosion,31
+1976,South America,Facility/Infrastructure Attack,2
+1976,South America,Hostage taking/assassinaton,41
+1976,South America,Other,0
+1976,South Asia,Armed Assault,0
+1976,South Asia,Bombing/Explosion,3
+1976,South Asia,Facility/Infrastructure Attack,1
+1976,South Asia,Hostage taking/assassinaton,0
+1976,South Asia,Other,0
+1976,Sub-Saharan Africa,Armed Assault,1
+1976,Sub-Saharan Africa,Bombing/Explosion,3
+1976,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+1976,Sub-Saharan Africa,Hostage taking/assassinaton,6
+1976,Sub-Saharan Africa,Other,0
+1977,Asia-Pacific,Armed Assault,3
+1977,Asia-Pacific,Bombing/Explosion,7
+1977,Asia-Pacific,Facility/Infrastructure Attack,0
+1977,Asia-Pacific,Hostage taking/assassinaton,1
+1977,Asia-Pacific,Other,1
+1977,Central America & Caribbean,Armed Assault,6
+1977,Central America & Caribbean,Bombing/Explosion,5
+1977,Central America & Caribbean,Facility/Infrastructure Attack,0
+1977,Central America & Caribbean,Hostage taking/assassinaton,13
+1977,Central America & Caribbean,Other,0
+1977,Central Asia,Armed Assault,0
+1977,Central Asia,Bombing/Explosion,0
+1977,Central Asia,Facility/Infrastructure Attack,0
+1977,Central Asia,Hostage taking/assassinaton,0
+1977,Central Asia,Other,0
+1977,Europe,Armed Assault,183
+1977,Europe,Bombing/Explosion,314
+1977,Europe,Facility/Infrastructure Attack,146
+1977,Europe,Hostage taking/assassinaton,120
+1977,Europe,Other,10
+1977,MENA,Armed Assault,35
+1977,MENA,Bombing/Explosion,153
+1977,MENA,Facility/Infrastructure Attack,3
+1977,MENA,Hostage taking/assassinaton,17
+1977,MENA,Other,3
+1977,North America,Armed Assault,10
+1977,North America,Bombing/Explosion,88
+1977,North America,Facility/Infrastructure Attack,22
+1977,North America,Hostage taking/assassinaton,16
+1977,North America,Other,13
+1977,South America,Armed Assault,12
+1977,South America,Bombing/Explosion,55
+1977,South America,Facility/Infrastructure Attack,4
+1977,South America,Hostage taking/assassinaton,47
+1977,South America,Other,1
+1977,South Asia,Armed Assault,0
+1977,South Asia,Bombing/Explosion,1
+1977,South Asia,Facility/Infrastructure Attack,0
+1977,South Asia,Hostage taking/assassinaton,0
+1977,South Asia,Other,1
+1977,Sub-Saharan Africa,Armed Assault,3
+1977,Sub-Saharan Africa,Bombing/Explosion,8
+1977,Sub-Saharan Africa,Facility/Infrastructure Attack,1
+1977,Sub-Saharan Africa,Hostage taking/assassinaton,10
+1977,Sub-Saharan Africa,Other,7
+1978,Asia-Pacific,Armed Assault,21
+1978,Asia-Pacific,Bombing/Explosion,24
+1978,Asia-Pacific,Facility/Infrastructure Attack,23
+1978,Asia-Pacific,Hostage taking/assassinaton,9
+1978,Asia-Pacific,Other,4
+1978,Central America & Caribbean,Armed Assault,36
+1978,Central America & Caribbean,Bombing/Explosion,57
+1978,Central America & Caribbean,Facility/Infrastructure Attack,8
+1978,Central America & Caribbean,Hostage taking/assassinaton,76
+1978,Central America & Caribbean,Other,22
+1978,Central Asia,Armed Assault,0
+1978,Central Asia,Bombing/Explosion,0
+1978,Central Asia,Facility/Infrastructure Attack,0
+1978,Central Asia,Hostage taking/assassinaton,0
+1978,Central Asia,Other,0
+1978,Europe,Armed Assault,106
+1978,Europe,Bombing/Explosion,327
+1978,Europe,Facility/Infrastructure Attack,122
+1978,Europe,Hostage taking/assassinaton,162
+1978,Europe,Other,14
+1978,MENA,Armed Assault,14
+1978,MENA,Bombing/Explosion,73
+1978,MENA,Facility/Infrastructure Attack,9
+1978,MENA,Hostage taking/assassinaton,29
+1978,MENA,Other,3
+1978,North America,Armed Assault,14
+1978,North America,Bombing/Explosion,61
+1978,North America,Facility/Infrastructure Attack,8
+1978,North America,Hostage taking/assassinaton,17
+1978,North America,Other,17
+1978,South America,Armed Assault,43
+1978,South America,Bombing/Explosion,73
+1978,South America,Facility/Infrastructure Attack,4
+1978,South America,Hostage taking/assassinaton,92
+1978,South America,Other,10
+1978,South Asia,Armed Assault,1
+1978,South Asia,Bombing/Explosion,1
+1978,South Asia,Facility/Infrastructure Attack,0
+1978,South Asia,Hostage taking/assassinaton,0
+1978,South Asia,Other,0
+1978,Sub-Saharan Africa,Armed Assault,4
+1978,Sub-Saharan Africa,Bombing/Explosion,22
+1978,Sub-Saharan Africa,Facility/Infrastructure Attack,1
+1978,Sub-Saharan Africa,Hostage taking/assassinaton,15
+1978,Sub-Saharan Africa,Other,4
+1979,Asia-Pacific,Armed Assault,35
+1979,Asia-Pacific,Bombing/Explosion,12
+1979,Asia-Pacific,Facility/Infrastructure Attack,11
+1979,Asia-Pacific,Hostage taking/assassinaton,27
+1979,Asia-Pacific,Other,19
+1979,Central America & Caribbean,Armed Assault,140
+1979,Central America & Caribbean,Bombing/Explosion,98
+1979,Central America & Caribbean,Facility/Infrastructure Attack,46
+1979,Central America & Caribbean,Hostage taking/assassinaton,215
+1979,Central America & Caribbean,Other,110
+1979,Central Asia,Armed Assault,0
+1979,Central Asia,Bombing/Explosion,0
+1979,Central Asia,Facility/Infrastructure Attack,0
+1979,Central Asia,Hostage taking/assassinaton,0
+1979,Central Asia,Other,0
+1979,Europe,Armed Assault,130
+1979,Europe,Bombing/Explosion,501
+1979,Europe,Facility/Infrastructure Attack,107
+1979,Europe,Hostage taking/assassinaton,252
+1979,Europe,Other,30
+1979,MENA,Armed Assault,50
+1979,MENA,Bombing/Explosion,256
+1979,MENA,Facility/Infrastructure Attack,9
+1979,MENA,Hostage taking/assassinaton,121
+1979,MENA,Other,19
+1979,North America,Armed Assault,11
+1979,North America,Bombing/Explosion,44
+1979,North America,Facility/Infrastructure Attack,4
+1979,North America,Hostage taking/assassinaton,14
+1979,North America,Other,6
+1979,South America,Armed Assault,43
+1979,South America,Bombing/Explosion,80
+1979,South America,Facility/Infrastructure Attack,7
+1979,South America,Hostage taking/assassinaton,79
+1979,South America,Other,27
+1979,South Asia,Armed Assault,12
+1979,South Asia,Bombing/Explosion,6
+1979,South Asia,Facility/Infrastructure Attack,5
+1979,South Asia,Hostage taking/assassinaton,9
+1979,South Asia,Other,2
+1979,Sub-Saharan Africa,Armed Assault,18
+1979,Sub-Saharan Africa,Bombing/Explosion,60
+1979,Sub-Saharan Africa,Facility/Infrastructure Attack,7
+1979,Sub-Saharan Africa,Hostage taking/assassinaton,30
+1979,Sub-Saharan Africa,Other,9
+1980,Asia-Pacific,Armed Assault,6
+1980,Asia-Pacific,Bombing/Explosion,68
+1980,Asia-Pacific,Facility/Infrastructure Attack,8
+1980,Asia-Pacific,Hostage taking/assassinaton,5
+1980,Asia-Pacific,Other,8
+1980,Central America & Caribbean,Armed Assault,354
+1980,Central America & Caribbean,Bombing/Explosion,234
+1980,Central America & Caribbean,Facility/Infrastructure Attack,52
+1980,Central America & Caribbean,Hostage taking/assassinaton,378
+1980,Central America & Caribbean,Other,52
+1980,Central Asia,Armed Assault,0
+1980,Central Asia,Bombing/Explosion,0
+1980,Central Asia,Facility/Infrastructure Attack,0
+1980,Central Asia,Hostage taking/assassinaton,0
+1980,Central Asia,Other,0
+1980,Europe,Armed Assault,63
+1980,Europe,Bombing/Explosion,273
+1980,Europe,Facility/Infrastructure Attack,60
+1980,Europe,Hostage taking/assassinaton,188
+1980,Europe,Other,12
+1980,MENA,Armed Assault,49
+1980,MENA,Bombing/Explosion,221
+1980,MENA,Facility/Infrastructure Attack,16
+1980,MENA,Hostage taking/assassinaton,134
+1980,MENA,Other,17
+1980,North America,Armed Assault,9
+1980,North America,Bombing/Explosion,33
+1980,North America,Facility/Infrastructure Attack,6
+1980,North America,Hostage taking/assassinaton,15
+1980,North America,Other,12
+1980,South America,Armed Assault,74
+1980,South America,Bombing/Explosion,126
+1980,South America,Facility/Infrastructure Attack,25
+1980,South America,Hostage taking/assassinaton,73
+1980,South America,Other,21
+1980,South Asia,Armed Assault,2
+1980,South Asia,Bombing/Explosion,6
+1980,South Asia,Facility/Infrastructure Attack,0
+1980,South Asia,Hostage taking/assassinaton,4
+1980,South Asia,Other,0
+1980,Sub-Saharan Africa,Armed Assault,8
+1980,Sub-Saharan Africa,Bombing/Explosion,36
+1980,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+1980,Sub-Saharan Africa,Hostage taking/assassinaton,9
+1980,Sub-Saharan Africa,Other,5
+1981,Asia-Pacific,Armed Assault,7
+1981,Asia-Pacific,Bombing/Explosion,23
+1981,Asia-Pacific,Facility/Infrastructure Attack,8
+1981,Asia-Pacific,Hostage taking/assassinaton,8
+1981,Asia-Pacific,Other,11
+1981,Central America & Caribbean,Armed Assault,512
+1981,Central America & Caribbean,Bombing/Explosion,356
+1981,Central America & Caribbean,Facility/Infrastructure Attack,53
+1981,Central America & Caribbean,Hostage taking/assassinaton,206
+1981,Central America & Caribbean,Other,21
+1981,Central Asia,Armed Assault,0
+1981,Central Asia,Bombing/Explosion,0
+1981,Central Asia,Facility/Infrastructure Attack,0
+1981,Central Asia,Hostage taking/assassinaton,0
+1981,Central Asia,Other,0
+1981,Europe,Armed Assault,50
+1981,Europe,Bombing/Explosion,233
+1981,Europe,Facility/Infrastructure Attack,31
+1981,Europe,Hostage taking/assassinaton,156
+1981,Europe,Other,18
+1981,MENA,Armed Assault,31
+1981,MENA,Bombing/Explosion,176
+1981,MENA,Facility/Infrastructure Attack,11
+1981,MENA,Hostage taking/assassinaton,83
+1981,MENA,Other,11
+1981,North America,Armed Assault,8
+1981,North America,Bombing/Explosion,42
+1981,North America,Facility/Infrastructure Attack,9
+1981,North America,Hostage taking/assassinaton,9
+1981,North America,Other,8
+1981,South America,Armed Assault,83
+1981,South America,Bombing/Explosion,179
+1981,South America,Facility/Infrastructure Attack,26
+1981,South America,Hostage taking/assassinaton,71
+1981,South America,Other,24
+1981,South Asia,Armed Assault,0
+1981,South Asia,Bombing/Explosion,10
+1981,South Asia,Facility/Infrastructure Attack,1
+1981,South Asia,Hostage taking/assassinaton,8
+1981,South Asia,Other,4
+1981,Sub-Saharan Africa,Armed Assault,4
+1981,Sub-Saharan Africa,Bombing/Explosion,63
+1981,Sub-Saharan Africa,Facility/Infrastructure Attack,11
+1981,Sub-Saharan Africa,Hostage taking/assassinaton,14
+1981,Sub-Saharan Africa,Other,6
+1982,Asia-Pacific,Armed Assault,7
+1982,Asia-Pacific,Bombing/Explosion,17
+1982,Asia-Pacific,Facility/Infrastructure Attack,8
+1982,Asia-Pacific,Hostage taking/assassinaton,9
+1982,Asia-Pacific,Other,7
+1982,Central America & Caribbean,Armed Assault,445
+1982,Central America & Caribbean,Bombing/Explosion,302
+1982,Central America & Caribbean,Facility/Infrastructure Attack,55
+1982,Central America & Caribbean,Hostage taking/assassinaton,170
+1982,Central America & Caribbean,Other,24
+1982,Central Asia,Armed Assault,0
+1982,Central Asia,Bombing/Explosion,0
+1982,Central Asia,Facility/Infrastructure Attack,0
+1982,Central Asia,Hostage taking/assassinaton,0
+1982,Central Asia,Other,0
+1982,Europe,Armed Assault,16
+1982,Europe,Bombing/Explosion,256
+1982,Europe,Facility/Infrastructure Attack,10
+1982,Europe,Hostage taking/assassinaton,117
+1982,Europe,Other,6
+1982,MENA,Armed Assault,40
+1982,MENA,Bombing/Explosion,182
+1982,MENA,Facility/Infrastructure Attack,5
+1982,MENA,Hostage taking/assassinaton,60
+1982,MENA,Other,4
+1982,North America,Armed Assault,1
+1982,North America,Bombing/Explosion,45
+1982,North America,Facility/Infrastructure Attack,7
+1982,North America,Hostage taking/assassinaton,14
+1982,North America,Other,19
+1982,South America,Armed Assault,150
+1982,South America,Bombing/Explosion,274
+1982,South America,Facility/Infrastructure Attack,55
+1982,South America,Hostage taking/assassinaton,127
+1982,South America,Other,33
+1982,South Asia,Armed Assault,1
+1982,South Asia,Bombing/Explosion,9
+1982,South Asia,Facility/Infrastructure Attack,0
+1982,South Asia,Hostage taking/assassinaton,6
+1982,South Asia,Other,4
+1982,Sub-Saharan Africa,Armed Assault,3
+1982,Sub-Saharan Africa,Bombing/Explosion,37
+1982,Sub-Saharan Africa,Facility/Infrastructure Attack,2
+1982,Sub-Saharan Africa,Hostage taking/assassinaton,11
+1982,Sub-Saharan Africa,Other,7
+1983,Asia-Pacific,Armed Assault,5
+1983,Asia-Pacific,Bombing/Explosion,14
+1983,Asia-Pacific,Facility/Infrastructure Attack,10
+1983,Asia-Pacific,Hostage taking/assassinaton,4
+1983,Asia-Pacific,Other,2
+1983,Central America & Caribbean,Armed Assault,529
+1983,Central America & Caribbean,Bombing/Explosion,205
+1983,Central America & Caribbean,Facility/Infrastructure Attack,22
+1983,Central America & Caribbean,Hostage taking/assassinaton,74
+1983,Central America & Caribbean,Other,28
+1983,Central Asia,Armed Assault,0
+1983,Central Asia,Bombing/Explosion,0
+1983,Central Asia,Facility/Infrastructure Attack,0
+1983,Central Asia,Hostage taking/assassinaton,0
+1983,Central Asia,Other,0
+1983,Europe,Armed Assault,19
+1983,Europe,Bombing/Explosion,293
+1983,Europe,Facility/Infrastructure Attack,38
+1983,Europe,Hostage taking/assassinaton,117
+1983,Europe,Other,10
+1983,MENA,Armed Assault,52
+1983,MENA,Bombing/Explosion,233
+1983,MENA,Facility/Infrastructure Attack,10
+1983,MENA,Hostage taking/assassinaton,31
+1983,MENA,Other,8
+1983,North America,Armed Assault,2
+1983,North America,Bombing/Explosion,20
+1983,North America,Facility/Infrastructure Attack,10
+1983,North America,Hostage taking/assassinaton,7
+1983,North America,Other,8
+1983,South America,Armed Assault,234
+1983,South America,Bombing/Explosion,375
+1983,South America,Facility/Infrastructure Attack,47
+1983,South America,Hostage taking/assassinaton,234
+1983,South America,Other,60
+1983,South Asia,Armed Assault,4
+1983,South Asia,Bombing/Explosion,35
+1983,South Asia,Facility/Infrastructure Attack,1
+1983,South Asia,Hostage taking/assassinaton,19
+1983,South Asia,Other,4
+1983,Sub-Saharan Africa,Armed Assault,5
+1983,Sub-Saharan Africa,Bombing/Explosion,69
+1983,Sub-Saharan Africa,Facility/Infrastructure Attack,2
+1983,Sub-Saharan Africa,Hostage taking/assassinaton,22
+1983,Sub-Saharan Africa,Other,8
+1984,Asia-Pacific,Armed Assault,4
+1984,Asia-Pacific,Bombing/Explosion,10
+1984,Asia-Pacific,Facility/Infrastructure Attack,17
+1984,Asia-Pacific,Hostage taking/assassinaton,21
+1984,Asia-Pacific,Other,20
+1984,Central America & Caribbean,Armed Assault,430
+1984,Central America & Caribbean,Bombing/Explosion,162
+1984,Central America & Caribbean,Facility/Infrastructure Attack,23
+1984,Central America & Caribbean,Hostage taking/assassinaton,56
+1984,Central America & Caribbean,Other,10
+1984,Central Asia,Armed Assault,0
+1984,Central Asia,Bombing/Explosion,0
+1984,Central Asia,Facility/Infrastructure Attack,0
+1984,Central Asia,Hostage taking/assassinaton,0
+1984,Central Asia,Other,0
+1984,Europe,Armed Assault,38
+1984,Europe,Bombing/Explosion,359
+1984,Europe,Facility/Infrastructure Attack,29
+1984,Europe,Hostage taking/assassinaton,112
+1984,Europe,Other,7
+1984,MENA,Armed Assault,44
+1984,MENA,Bombing/Explosion,160
+1984,MENA,Facility/Infrastructure Attack,5
+1984,MENA,Hostage taking/assassinaton,47
+1984,MENA,Other,12
+1984,North America,Armed Assault,1
+1984,North America,Bombing/Explosion,25
+1984,North America,Facility/Infrastructure Attack,8
+1984,North America,Hostage taking/assassinaton,7
+1984,North America,Other,26
+1984,South America,Armed Assault,282
+1984,South America,Bombing/Explosion,859
+1984,South America,Facility/Infrastructure Attack,50
+1984,South America,Hostage taking/assassinaton,202
+1984,South America,Other,99
+1984,South Asia,Armed Assault,17
+1984,South Asia,Bombing/Explosion,116
+1984,South Asia,Facility/Infrastructure Attack,13
+1984,South Asia,Hostage taking/assassinaton,77
+1984,South Asia,Other,21
+1984,Sub-Saharan Africa,Armed Assault,7
+1984,Sub-Saharan Africa,Bombing/Explosion,79
+1984,Sub-Saharan Africa,Facility/Infrastructure Attack,4
+1984,Sub-Saharan Africa,Hostage taking/assassinaton,24
+1984,Sub-Saharan Africa,Other,12
+1985,Asia-Pacific,Armed Assault,10
+1985,Asia-Pacific,Bombing/Explosion,35
+1985,Asia-Pacific,Facility/Infrastructure Attack,11
+1985,Asia-Pacific,Hostage taking/assassinaton,39
+1985,Asia-Pacific,Other,50
+1985,Central America & Caribbean,Armed Assault,413
+1985,Central America & Caribbean,Bombing/Explosion,253
+1985,Central America & Caribbean,Facility/Infrastructure Attack,19
+1985,Central America & Caribbean,Hostage taking/assassinaton,85
+1985,Central America & Caribbean,Other,10
+1985,Central Asia,Armed Assault,0
+1985,Central Asia,Bombing/Explosion,0
+1985,Central Asia,Facility/Infrastructure Attack,0
+1985,Central Asia,Hostage taking/assassinaton,0
+1985,Central Asia,Other,0
+1985,Europe,Armed Assault,23
+1985,Europe,Bombing/Explosion,316
+1985,Europe,Facility/Infrastructure Attack,18
+1985,Europe,Hostage taking/assassinaton,91
+1985,Europe,Other,23
+1985,MENA,Armed Assault,3
+1985,MENA,Bombing/Explosion,90
+1985,MENA,Facility/Infrastructure Attack,2
+1985,MENA,Hostage taking/assassinaton,30
+1985,MENA,Other,8
+1985,North America,Armed Assault,0
+1985,North America,Bombing/Explosion,22
+1985,North America,Facility/Infrastructure Attack,9
+1985,North America,Hostage taking/assassinaton,5
+1985,North America,Other,8
+1985,South America,Armed Assault,184
+1985,South America,Bombing/Explosion,593
+1985,South America,Facility/Infrastructure Attack,66
+1985,South America,Hostage taking/assassinaton,162
+1985,South America,Other,35
+1985,South Asia,Armed Assault,22
+1985,South Asia,Bombing/Explosion,74
+1985,South Asia,Facility/Infrastructure Attack,3
+1985,South Asia,Hostage taking/assassinaton,47
+1985,South Asia,Other,15
+1985,Sub-Saharan Africa,Armed Assault,4
+1985,Sub-Saharan Africa,Bombing/Explosion,91
+1985,Sub-Saharan Africa,Facility/Infrastructure Attack,8
+1985,Sub-Saharan Africa,Hostage taking/assassinaton,23
+1985,Sub-Saharan Africa,Other,15
+1986,Asia-Pacific,Armed Assault,14
+1986,Asia-Pacific,Bombing/Explosion,45
+1986,Asia-Pacific,Facility/Infrastructure Attack,9
+1986,Asia-Pacific,Hostage taking/assassinaton,33
+1986,Asia-Pacific,Other,17
+1986,Central America & Caribbean,Armed Assault,236
+1986,Central America & Caribbean,Bombing/Explosion,114
+1986,Central America & Caribbean,Facility/Infrastructure Attack,4
+1986,Central America & Caribbean,Hostage taking/assassinaton,31
+1986,Central America & Caribbean,Other,8
+1986,Central Asia,Armed Assault,0
+1986,Central Asia,Bombing/Explosion,0
+1986,Central Asia,Facility/Infrastructure Attack,0
+1986,Central Asia,Hostage taking/assassinaton,0
+1986,Central Asia,Other,0
+1986,Europe,Armed Assault,27
+1986,Europe,Bombing/Explosion,306
+1986,Europe,Facility/Infrastructure Attack,40
+1986,Europe,Hostage taking/assassinaton,73
+1986,Europe,Other,12
+1986,MENA,Armed Assault,16
+1986,MENA,Bombing/Explosion,115
+1986,MENA,Facility/Infrastructure Attack,2
+1986,MENA,Hostage taking/assassinaton,55
+1986,MENA,Other,8
+1986,North America,Armed Assault,1
+1986,North America,Bombing/Explosion,28
+1986,North America,Facility/Infrastructure Attack,8
+1986,North America,Hostage taking/assassinaton,2
+1986,North America,Other,14
+1986,South America,Armed Assault,236
+1986,South America,Bombing/Explosion,647
+1986,South America,Facility/Infrastructure Attack,60
+1986,South America,Hostage taking/assassinaton,216
+1986,South America,Other,25
+1986,South Asia,Armed Assault,52
+1986,South Asia,Bombing/Explosion,121
+1986,South Asia,Facility/Infrastructure Attack,3
+1986,South Asia,Hostage taking/assassinaton,59
+1986,South Asia,Other,38
+1986,Sub-Saharan Africa,Armed Assault,6
+1986,Sub-Saharan Africa,Bombing/Explosion,124
+1986,Sub-Saharan Africa,Facility/Infrastructure Attack,9
+1986,Sub-Saharan Africa,Hostage taking/assassinaton,22
+1986,Sub-Saharan Africa,Other,24
+1987,Asia-Pacific,Armed Assault,40
+1987,Asia-Pacific,Bombing/Explosion,73
+1987,Asia-Pacific,Facility/Infrastructure Attack,5
+1987,Asia-Pacific,Hostage taking/assassinaton,48
+1987,Asia-Pacific,Other,10
+1987,Central America & Caribbean,Armed Assault,292
+1987,Central America & Caribbean,Bombing/Explosion,215
+1987,Central America & Caribbean,Facility/Infrastructure Attack,12
+1987,Central America & Caribbean,Hostage taking/assassinaton,32
+1987,Central America & Caribbean,Other,15
+1987,Central Asia,Armed Assault,0
+1987,Central Asia,Bombing/Explosion,0
+1987,Central Asia,Facility/Infrastructure Attack,0
+1987,Central Asia,Hostage taking/assassinaton,0
+1987,Central Asia,Other,0
+1987,Europe,Armed Assault,19
+1987,Europe,Bombing/Explosion,231
+1987,Europe,Facility/Infrastructure Attack,34
+1987,Europe,Hostage taking/assassinaton,108
+1987,Europe,Other,26
+1987,MENA,Armed Assault,41
+1987,MENA,Bombing/Explosion,82
+1987,MENA,Facility/Infrastructure Attack,4
+1987,MENA,Hostage taking/assassinaton,62
+1987,MENA,Other,13
+1987,North America,Armed Assault,0
+1987,North America,Bombing/Explosion,11
+1987,North America,Facility/Infrastructure Attack,6
+1987,North America,Hostage taking/assassinaton,0
+1987,North America,Other,18
+1987,South America,Armed Assault,269
+1987,South America,Bombing/Explosion,647
+1987,South America,Facility/Infrastructure Attack,31
+1987,South America,Hostage taking/assassinaton,256
+1987,South America,Other,62
+1987,South Asia,Armed Assault,102
+1987,South Asia,Bombing/Explosion,120
+1987,South Asia,Facility/Infrastructure Attack,16
+1987,South Asia,Hostage taking/assassinaton,90
+1987,South Asia,Other,20
+1987,Sub-Saharan Africa,Armed Assault,35
+1987,Sub-Saharan Africa,Bombing/Explosion,89
+1987,Sub-Saharan Africa,Facility/Infrastructure Attack,2
+1987,Sub-Saharan Africa,Hostage taking/assassinaton,23
+1987,Sub-Saharan Africa,Other,25
+1988,Asia-Pacific,Armed Assault,92
+1988,Asia-Pacific,Bombing/Explosion,57
+1988,Asia-Pacific,Facility/Infrastructure Attack,14
+1988,Asia-Pacific,Hostage taking/assassinaton,109
+1988,Asia-Pacific,Other,6
+1988,Central America & Caribbean,Armed Assault,158
+1988,Central America & Caribbean,Bombing/Explosion,265
+1988,Central America & Caribbean,Facility/Infrastructure Attack,20
+1988,Central America & Caribbean,Hostage taking/assassinaton,50
+1988,Central America & Caribbean,Other,2
+1988,Central Asia,Armed Assault,0
+1988,Central Asia,Bombing/Explosion,0
+1988,Central Asia,Facility/Infrastructure Attack,0
+1988,Central Asia,Hostage taking/assassinaton,0
+1988,Central Asia,Other,0
+1988,Europe,Armed Assault,26
+1988,Europe,Bombing/Explosion,315
+1988,Europe,Facility/Infrastructure Attack,50
+1988,Europe,Hostage taking/assassinaton,100
+1988,Europe,Other,2
+1988,MENA,Armed Assault,41
+1988,MENA,Bombing/Explosion,121
+1988,MENA,Facility/Infrastructure Attack,16
+1988,MENA,Hostage taking/assassinaton,64
+1988,MENA,Other,4
+1988,North America,Armed Assault,0
+1988,North America,Bombing/Explosion,6
+1988,North America,Facility/Infrastructure Attack,6
+1988,North America,Hostage taking/assassinaton,2
+1988,North America,Other,16
+1988,South America,Armed Assault,291
+1988,South America,Bombing/Explosion,417
+1988,South America,Facility/Infrastructure Attack,20
+1988,South America,Hostage taking/assassinaton,295
+1988,South America,Other,18
+1988,South Asia,Armed Assault,258
+1988,South Asia,Bombing/Explosion,236
+1988,South Asia,Facility/Infrastructure Attack,14
+1988,South Asia,Hostage taking/assassinaton,285
+1988,South Asia,Other,7
+1988,Sub-Saharan Africa,Armed Assault,55
+1988,Sub-Saharan Africa,Bombing/Explosion,221
+1988,Sub-Saharan Africa,Facility/Infrastructure Attack,6
+1988,Sub-Saharan Africa,Hostage taking/assassinaton,41
+1988,Sub-Saharan Africa,Other,14
+1989,Asia-Pacific,Armed Assault,74
+1989,Asia-Pacific,Bombing/Explosion,74
+1989,Asia-Pacific,Facility/Infrastructure Attack,13
+1989,Asia-Pacific,Hostage taking/assassinaton,83
+1989,Asia-Pacific,Other,6
+1989,Central America & Caribbean,Armed Assault,191
+1989,Central America & Caribbean,Bombing/Explosion,209
+1989,Central America & Caribbean,Facility/Infrastructure Attack,20
+1989,Central America & Caribbean,Hostage taking/assassinaton,81
+1989,Central America & Caribbean,Other,2
+1989,Central Asia,Armed Assault,0
+1989,Central Asia,Bombing/Explosion,0
+1989,Central Asia,Facility/Infrastructure Attack,0
+1989,Central Asia,Hostage taking/assassinaton,0
+1989,Central Asia,Other,0
+1989,Europe,Armed Assault,25
+1989,Europe,Bombing/Explosion,257
+1989,Europe,Facility/Infrastructure Attack,63
+1989,Europe,Hostage taking/assassinaton,111
+1989,Europe,Other,4
+1989,MENA,Armed Assault,126
+1989,MENA,Bombing/Explosion,147
+1989,MENA,Facility/Infrastructure Attack,18
+1989,MENA,Hostage taking/assassinaton,169
+1989,MENA,Other,4
+1989,North America,Armed Assault,1
+1989,North America,Bombing/Explosion,12
+1989,North America,Facility/Infrastructure Attack,12
+1989,North America,Hostage taking/assassinaton,5
+1989,North America,Other,14
+1989,South America,Armed Assault,299
+1989,South America,Bombing/Explosion,694
+1989,South America,Facility/Infrastructure Attack,23
+1989,South America,Hostage taking/assassinaton,363
+1989,South America,Other,6
+1989,South Asia,Armed Assault,310
+1989,South Asia,Bombing/Explosion,258
+1989,South Asia,Facility/Infrastructure Attack,80
+1989,South Asia,Hostage taking/assassinaton,268
+1989,South Asia,Other,10
+1989,Sub-Saharan Africa,Armed Assault,95
+1989,Sub-Saharan Africa,Bombing/Explosion,139
+1989,Sub-Saharan Africa,Facility/Infrastructure Attack,3
+1989,Sub-Saharan Africa,Hostage taking/assassinaton,47
+1989,Sub-Saharan Africa,Other,7
+1990,Asia-Pacific,Armed Assault,122
+1990,Asia-Pacific,Bombing/Explosion,184
+1990,Asia-Pacific,Facility/Infrastructure Attack,62
+1990,Asia-Pacific,Hostage taking/assassinaton,92
+1990,Asia-Pacific,Other,5
+1990,Central America & Caribbean,Armed Assault,80
+1990,Central America & Caribbean,Bombing/Explosion,172
+1990,Central America & Caribbean,Facility/Infrastructure Attack,6
+1990,Central America & Caribbean,Hostage taking/assassinaton,57
+1990,Central America & Caribbean,Other,1
+1990,Central Asia,Armed Assault,0
+1990,Central Asia,Bombing/Explosion,0
+1990,Central Asia,Facility/Infrastructure Attack,0
+1990,Central Asia,Hostage taking/assassinaton,0
+1990,Central Asia,Other,0
+1990,Europe,Armed Assault,34
+1990,Europe,Bombing/Explosion,255
+1990,Europe,Facility/Infrastructure Attack,29
+1990,Europe,Hostage taking/assassinaton,127
+1990,Europe,Other,3
+1990,MENA,Armed Assault,143
+1990,MENA,Bombing/Explosion,137
+1990,MENA,Facility/Infrastructure Attack,18
+1990,MENA,Hostage taking/assassinaton,187
+1990,MENA,Other,9
+1990,North America,Armed Assault,0
+1990,North America,Bombing/Explosion,7
+1990,North America,Facility/Infrastructure Attack,4
+1990,North America,Hostage taking/assassinaton,7
+1990,North America,Other,19
+1990,South America,Armed Assault,210
+1990,South America,Bombing/Explosion,500
+1990,South America,Facility/Infrastructure Attack,26
+1990,South America,Hostage taking/assassinaton,338
+1990,South America,Other,2
+1990,South Asia,Armed Assault,202
+1990,South Asia,Bombing/Explosion,179
+1990,South Asia,Facility/Infrastructure Attack,13
+1990,South Asia,Hostage taking/assassinaton,199
+1990,South Asia,Other,8
+1990,Sub-Saharan Africa,Armed Assault,85
+1990,Sub-Saharan Africa,Bombing/Explosion,287
+1990,Sub-Saharan Africa,Facility/Infrastructure Attack,23
+1990,Sub-Saharan Africa,Hostage taking/assassinaton,54
+1990,Sub-Saharan Africa,Other,1
+1991,Asia-Pacific,Armed Assault,76
+1991,Asia-Pacific,Bombing/Explosion,90
+1991,Asia-Pacific,Facility/Infrastructure Attack,24
+1991,Asia-Pacific,Hostage taking/assassinaton,50
+1991,Asia-Pacific,Other,5
+1991,Central America & Caribbean,Armed Assault,324
+1991,Central America & Caribbean,Bombing/Explosion,295
+1991,Central America & Caribbean,Facility/Infrastructure Attack,15
+1991,Central America & Caribbean,Hostage taking/assassinaton,84
+1991,Central America & Caribbean,Other,11
+1991,Central Asia,Armed Assault,2
+1991,Central Asia,Bombing/Explosion,2
+1991,Central Asia,Facility/Infrastructure Attack,0
+1991,Central Asia,Hostage taking/assassinaton,1
+1991,Central Asia,Other,2
+1991,Europe,Armed Assault,66
+1991,Europe,Bombing/Explosion,379
+1991,Europe,Facility/Infrastructure Attack,164
+1991,Europe,Hostage taking/assassinaton,137
+1991,Europe,Other,34
+1991,MENA,Armed Assault,154
+1991,MENA,Bombing/Explosion,268
+1991,MENA,Facility/Infrastructure Attack,34
+1991,MENA,Hostage taking/assassinaton,141
+1991,MENA,Other,15
+1991,North America,Armed Assault,2
+1991,North America,Bombing/Explosion,11
+1991,North America,Facility/Infrastructure Attack,7
+1991,North America,Hostage taking/assassinaton,3
+1991,North America,Other,17
+1991,South America,Armed Assault,296
+1991,South America,Bombing/Explosion,687
+1991,South America,Facility/Infrastructure Attack,38
+1991,South America,Hostage taking/assassinaton,289
+1991,South America,Other,12
+1991,South Asia,Armed Assault,225
+1991,South Asia,Bombing/Explosion,208
+1991,South Asia,Facility/Infrastructure Attack,40
+1991,South Asia,Hostage taking/assassinaton,194
+1991,South Asia,Other,10
+1991,Sub-Saharan Africa,Armed Assault,125
+1991,Sub-Saharan Africa,Bombing/Explosion,46
+1991,Sub-Saharan Africa,Facility/Infrastructure Attack,18
+1991,Sub-Saharan Africa,Hostage taking/assassinaton,67
+1991,Sub-Saharan Africa,Other,15
+1992,Asia-Pacific,Armed Assault,105
+1992,Asia-Pacific,Bombing/Explosion,118
+1992,Asia-Pacific,Facility/Infrastructure Attack,38
+1992,Asia-Pacific,Hostage taking/assassinaton,93
+1992,Asia-Pacific,Other,16
+1992,Central America & Caribbean,Armed Assault,50
+1992,Central America & Caribbean,Bombing/Explosion,74
+1992,Central America & Caribbean,Facility/Infrastructure Attack,19
+1992,Central America & Caribbean,Hostage taking/assassinaton,53
+1992,Central America & Caribbean,Other,16
+1992,Central Asia,Armed Assault,29
+1992,Central Asia,Bombing/Explosion,24
+1992,Central Asia,Facility/Infrastructure Attack,1
+1992,Central Asia,Hostage taking/assassinaton,17
+1992,Central Asia,Other,6
+1992,Europe,Armed Assault,109
+1992,Europe,Bombing/Explosion,347
+1992,Europe,Facility/Infrastructure Attack,170
+1992,Europe,Hostage taking/assassinaton,152
+1992,Europe,Other,82
+1992,MENA,Armed Assault,393
+1992,MENA,Bombing/Explosion,253
+1992,MENA,Facility/Infrastructure Attack,132
+1992,MENA,Hostage taking/assassinaton,363
+1992,MENA,Other,52
+1992,North America,Armed Assault,1
+1992,North America,Bombing/Explosion,5
+1992,North America,Facility/Infrastructure Attack,8
+1992,North America,Hostage taking/assassinaton,8
+1992,North America,Other,19
+1992,South America,Armed Assault,230
+1992,South America,Bombing/Explosion,689
+1992,South America,Facility/Infrastructure Attack,37
+1992,South America,Hostage taking/assassinaton,222
+1992,South America,Other,26
+1992,South Asia,Armed Assault,203
+1992,South Asia,Bombing/Explosion,131
+1992,South Asia,Facility/Infrastructure Attack,34
+1992,South Asia,Hostage taking/assassinaton,147
+1992,South Asia,Other,30
+1992,Sub-Saharan Africa,Armed Assault,206
+1992,Sub-Saharan Africa,Bombing/Explosion,96
+1992,Sub-Saharan Africa,Facility/Infrastructure Attack,18
+1992,Sub-Saharan Africa,Hostage taking/assassinaton,219
+1992,Sub-Saharan Africa,Other,32
+1993,Asia-Pacific,Armed Assault,0
+1993,Asia-Pacific,Bombing/Explosion,0
+1993,Asia-Pacific,Facility/Infrastructure Attack,0
+1993,Asia-Pacific,Hostage taking/assassinaton,0
+1993,Asia-Pacific,Other,0
+1993,Central America & Caribbean,Armed Assault,0
+1993,Central America & Caribbean,Bombing/Explosion,0
+1993,Central America & Caribbean,Facility/Infrastructure Attack,0
+1993,Central America & Caribbean,Hostage taking/assassinaton,0
+1993,Central America & Caribbean,Other,0
+1993,Central Asia,Armed Assault,0
+1993,Central Asia,Bombing/Explosion,0
+1993,Central Asia,Facility/Infrastructure Attack,0
+1993,Central Asia,Hostage taking/assassinaton,0
+1993,Central Asia,Other,0
+1993,Europe,Armed Assault,0
+1993,Europe,Bombing/Explosion,0
+1993,Europe,Facility/Infrastructure Attack,0
+1993,Europe,Hostage taking/assassinaton,0
+1993,Europe,Other,0
+1993,MENA,Armed Assault,0
+1993,MENA,Bombing/Explosion,0
+1993,MENA,Facility/Infrastructure Attack,0
+1993,MENA,Hostage taking/assassinaton,0
+1993,MENA,Other,0
+1993,North America,Armed Assault,0
+1993,North America,Bombing/Explosion,0
+1993,North America,Facility/Infrastructure Attack,0
+1993,North America,Hostage taking/assassinaton,0
+1993,North America,Other,0
+1993,South America,Armed Assault,0
+1993,South America,Bombing/Explosion,0
+1993,South America,Facility/Infrastructure Attack,0
+1993,South America,Hostage taking/assassinaton,0
+1993,South America,Other,0
+1993,South Asia,Armed Assault,0
+1993,South Asia,Bombing/Explosion,0
+1993,South Asia,Facility/Infrastructure Attack,0
+1993,South Asia,Hostage taking/assassinaton,0
+1993,South Asia,Other,0
+1993,Sub-Saharan Africa,Armed Assault,0
+1993,Sub-Saharan Africa,Bombing/Explosion,0
+1993,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+1993,Sub-Saharan Africa,Hostage taking/assassinaton,0
+1993,Sub-Saharan Africa,Other,0
+1994,Asia-Pacific,Armed Assault,31
+1994,Asia-Pacific,Bombing/Explosion,58
+1994,Asia-Pacific,Facility/Infrastructure Attack,10
+1994,Asia-Pacific,Hostage taking/assassinaton,74
+1994,Asia-Pacific,Other,26
+1994,Central America & Caribbean,Armed Assault,19
+1994,Central America & Caribbean,Bombing/Explosion,71
+1994,Central America & Caribbean,Facility/Infrastructure Attack,4
+1994,Central America & Caribbean,Hostage taking/assassinaton,63
+1994,Central America & Caribbean,Other,23
+1994,Central Asia,Armed Assault,8
+1994,Central Asia,Bombing/Explosion,26
+1994,Central Asia,Facility/Infrastructure Attack,0
+1994,Central Asia,Hostage taking/assassinaton,26
+1994,Central Asia,Other,5
+1994,Europe,Armed Assault,112
+1994,Europe,Bombing/Explosion,292
+1994,Europe,Facility/Infrastructure Attack,95
+1994,Europe,Hostage taking/assassinaton,138
+1994,Europe,Other,42
+1994,MENA,Armed Assault,301
+1994,MENA,Bombing/Explosion,292
+1994,MENA,Facility/Infrastructure Attack,29
+1994,MENA,Hostage taking/assassinaton,343
+1994,MENA,Other,86
+1994,North America,Armed Assault,16
+1994,North America,Bombing/Explosion,16
+1994,North America,Facility/Infrastructure Attack,18
+1994,North America,Hostage taking/assassinaton,33
+1994,North America,Other,19
+1994,South America,Armed Assault,57
+1994,South America,Bombing/Explosion,180
+1994,South America,Facility/Infrastructure Attack,12
+1994,South America,Hostage taking/assassinaton,96
+1994,South America,Other,28
+1994,South Asia,Armed Assault,122
+1994,South Asia,Bombing/Explosion,135
+1994,South Asia,Facility/Infrastructure Attack,6
+1994,South Asia,Hostage taking/assassinaton,78
+1994,South Asia,Other,35
+1994,Sub-Saharan Africa,Armed Assault,149
+1994,Sub-Saharan Africa,Bombing/Explosion,79
+1994,Sub-Saharan Africa,Facility/Infrastructure Attack,10
+1994,Sub-Saharan Africa,Hostage taking/assassinaton,136
+1994,Sub-Saharan Africa,Other,59
+1995,Asia-Pacific,Armed Assault,27
+1995,Asia-Pacific,Bombing/Explosion,87
+1995,Asia-Pacific,Facility/Infrastructure Attack,11
+1995,Asia-Pacific,Hostage taking/assassinaton,51
+1995,Asia-Pacific,Other,48
+1995,Central America & Caribbean,Armed Assault,28
+1995,Central America & Caribbean,Bombing/Explosion,30
+1995,Central America & Caribbean,Facility/Infrastructure Attack,6
+1995,Central America & Caribbean,Hostage taking/assassinaton,80
+1995,Central America & Caribbean,Other,24
+1995,Central Asia,Armed Assault,5
+1995,Central Asia,Bombing/Explosion,13
+1995,Central Asia,Facility/Infrastructure Attack,0
+1995,Central Asia,Hostage taking/assassinaton,32
+1995,Central Asia,Other,5
+1995,Europe,Armed Assault,25
+1995,Europe,Bombing/Explosion,156
+1995,Europe,Facility/Infrastructure Attack,144
+1995,Europe,Hostage taking/assassinaton,59
+1995,Europe,Other,21
+1995,MENA,Armed Assault,150
+1995,MENA,Bombing/Explosion,176
+1995,MENA,Facility/Infrastructure Attack,42
+1995,MENA,Hostage taking/assassinaton,205
+1995,MENA,Other,17
+1995,North America,Armed Assault,17
+1995,North America,Bombing/Explosion,12
+1995,North America,Facility/Infrastructure Attack,26
+1995,North America,Hostage taking/assassinaton,17
+1995,North America,Other,22
+1995,South America,Armed Assault,42
+1995,South America,Bombing/Explosion,82
+1995,South America,Facility/Infrastructure Attack,13
+1995,South America,Hostage taking/assassinaton,51
+1995,South America,Other,67
+1995,South Asia,Armed Assault,348
+1995,South Asia,Bombing/Explosion,175
+1995,South Asia,Facility/Infrastructure Attack,43
+1995,South Asia,Hostage taking/assassinaton,325
+1995,South Asia,Other,160
+1995,Sub-Saharan Africa,Armed Assault,97
+1995,Sub-Saharan Africa,Bombing/Explosion,55
+1995,Sub-Saharan Africa,Facility/Infrastructure Attack,4
+1995,Sub-Saharan Africa,Hostage taking/assassinaton,55
+1995,Sub-Saharan Africa,Other,28
+1996,Asia-Pacific,Armed Assault,50
+1996,Asia-Pacific,Bombing/Explosion,100
+1996,Asia-Pacific,Facility/Infrastructure Attack,17
+1996,Asia-Pacific,Hostage taking/assassinaton,57
+1996,Asia-Pacific,Other,77
+1996,Central America & Caribbean,Armed Assault,24
+1996,Central America & Caribbean,Bombing/Explosion,24
+1996,Central America & Caribbean,Facility/Infrastructure Attack,4
+1996,Central America & Caribbean,Hostage taking/assassinaton,53
+1996,Central America & Caribbean,Other,11
+1996,Central Asia,Armed Assault,5
+1996,Central Asia,Bombing/Explosion,15
+1996,Central Asia,Facility/Infrastructure Attack,0
+1996,Central Asia,Hostage taking/assassinaton,13
+1996,Central Asia,Other,0
+1996,Europe,Armed Assault,31
+1996,Europe,Bombing/Explosion,455
+1996,Europe,Facility/Infrastructure Attack,79
+1996,Europe,Hostage taking/assassinaton,75
+1996,Europe,Other,11
+1996,MENA,Armed Assault,93
+1996,MENA,Bombing/Explosion,156
+1996,MENA,Facility/Infrastructure Attack,17
+1996,MENA,Hostage taking/assassinaton,82
+1996,MENA,Other,25
+1996,North America,Armed Assault,39
+1996,North America,Bombing/Explosion,16
+1996,North America,Facility/Infrastructure Attack,13
+1996,North America,Hostage taking/assassinaton,31
+1996,North America,Other,12
+1996,South America,Armed Assault,125
+1996,South America,Bombing/Explosion,165
+1996,South America,Facility/Infrastructure Attack,10
+1996,South America,Hostage taking/assassinaton,133
+1996,South America,Other,84
+1996,South Asia,Armed Assault,189
+1996,South Asia,Bombing/Explosion,251
+1996,South Asia,Facility/Infrastructure Attack,23
+1996,South Asia,Hostage taking/assassinaton,154
+1996,South Asia,Other,120
+1996,Sub-Saharan Africa,Armed Assault,77
+1996,Sub-Saharan Africa,Bombing/Explosion,30
+1996,Sub-Saharan Africa,Facility/Infrastructure Attack,22
+1996,Sub-Saharan Africa,Hostage taking/assassinaton,45
+1996,Sub-Saharan Africa,Other,43
+1997,Asia-Pacific,Armed Assault,44
+1997,Asia-Pacific,Bombing/Explosion,64
+1997,Asia-Pacific,Facility/Infrastructure Attack,10
+1997,Asia-Pacific,Hostage taking/assassinaton,38
+1997,Asia-Pacific,Other,51
+1997,Central America & Caribbean,Armed Assault,38
+1997,Central America & Caribbean,Bombing/Explosion,33
+1997,Central America & Caribbean,Facility/Infrastructure Attack,4
+1997,Central America & Caribbean,Hostage taking/assassinaton,25
+1997,Central America & Caribbean,Other,17
+1997,Central Asia,Armed Assault,14
+1997,Central Asia,Bombing/Explosion,17
+1997,Central Asia,Facility/Infrastructure Attack,1
+1997,Central Asia,Hostage taking/assassinaton,15
+1997,Central Asia,Other,2
+1997,Europe,Armed Assault,75
+1997,Europe,Bombing/Explosion,377
+1997,Europe,Facility/Infrastructure Attack,35
+1997,Europe,Hostage taking/assassinaton,92
+1997,Europe,Other,18
+1997,MENA,Armed Assault,204
+1997,MENA,Bombing/Explosion,176
+1997,MENA,Facility/Infrastructure Attack,12
+1997,MENA,Hostage taking/assassinaton,81
+1997,MENA,Other,77
+1997,North America,Armed Assault,36
+1997,North America,Bombing/Explosion,15
+1997,North America,Facility/Infrastructure Attack,16
+1997,North America,Hostage taking/assassinaton,55
+1997,North America,Other,15
+1997,South America,Armed Assault,165
+1997,South America,Bombing/Explosion,223
+1997,South America,Facility/Infrastructure Attack,13
+1997,South America,Hostage taking/assassinaton,271
+1997,South America,Other,102
+1997,South Asia,Armed Assault,150
+1997,South Asia,Bombing/Explosion,155
+1997,South Asia,Facility/Infrastructure Attack,4
+1997,South Asia,Hostage taking/assassinaton,124
+1997,South Asia,Other,57
+1997,Sub-Saharan Africa,Armed Assault,97
+1997,Sub-Saharan Africa,Bombing/Explosion,55
+1997,Sub-Saharan Africa,Facility/Infrastructure Attack,42
+1997,Sub-Saharan Africa,Hostage taking/assassinaton,21
+1997,Sub-Saharan Africa,Other,64
+1998,Asia-Pacific,Armed Assault,9
+1998,Asia-Pacific,Bombing/Explosion,25
+1998,Asia-Pacific,Facility/Infrastructure Attack,2
+1998,Asia-Pacific,Hostage taking/assassinaton,6
+1998,Asia-Pacific,Other,5
+1998,Central America & Caribbean,Armed Assault,0
+1998,Central America & Caribbean,Bombing/Explosion,1
+1998,Central America & Caribbean,Facility/Infrastructure Attack,0
+1998,Central America & Caribbean,Hostage taking/assassinaton,0
+1998,Central America & Caribbean,Other,0
+1998,Central Asia,Armed Assault,8
+1998,Central Asia,Bombing/Explosion,14
+1998,Central Asia,Facility/Infrastructure Attack,0
+1998,Central Asia,Hostage taking/assassinaton,3
+1998,Central Asia,Other,0
+1998,Europe,Armed Assault,52
+1998,Europe,Bombing/Explosion,144
+1998,Europe,Facility/Infrastructure Attack,29
+1998,Europe,Hostage taking/assassinaton,15
+1998,Europe,Other,6
+1998,MENA,Armed Assault,67
+1998,MENA,Bombing/Explosion,114
+1998,MENA,Facility/Infrastructure Attack,2
+1998,MENA,Hostage taking/assassinaton,8
+1998,MENA,Other,56
+1998,North America,Armed Assault,4
+1998,North America,Bombing/Explosion,11
+1998,North America,Facility/Infrastructure Attack,13
+1998,North America,Hostage taking/assassinaton,1
+1998,North America,Other,7
+1998,South America,Armed Assault,29
+1998,South America,Bombing/Explosion,51
+1998,South America,Facility/Infrastructure Attack,3
+1998,South America,Hostage taking/assassinaton,19
+1998,South America,Other,6
+1998,South Asia,Armed Assault,44
+1998,South Asia,Bombing/Explosion,84
+1998,South Asia,Facility/Infrastructure Attack,0
+1998,South Asia,Hostage taking/assassinaton,5
+1998,South Asia,Other,3
+1998,Sub-Saharan Africa,Armed Assault,47
+1998,Sub-Saharan Africa,Bombing/Explosion,20
+1998,Sub-Saharan Africa,Facility/Infrastructure Attack,3
+1998,Sub-Saharan Africa,Hostage taking/assassinaton,9
+1998,Sub-Saharan Africa,Other,8
+1999,Asia-Pacific,Armed Assault,44
+1999,Asia-Pacific,Bombing/Explosion,33
+1999,Asia-Pacific,Facility/Infrastructure Attack,11
+1999,Asia-Pacific,Hostage taking/assassinaton,17
+1999,Asia-Pacific,Other,10
+1999,Central America & Caribbean,Armed Assault,4
+1999,Central America & Caribbean,Bombing/Explosion,1
+1999,Central America & Caribbean,Facility/Infrastructure Attack,0
+1999,Central America & Caribbean,Hostage taking/assassinaton,1
+1999,Central America & Caribbean,Other,2
+1999,Central Asia,Armed Assault,3
+1999,Central Asia,Bombing/Explosion,14
+1999,Central Asia,Facility/Infrastructure Attack,0
+1999,Central Asia,Hostage taking/assassinaton,6
+1999,Central Asia,Other,1
+1999,Europe,Armed Assault,67
+1999,Europe,Bombing/Explosion,207
+1999,Europe,Facility/Infrastructure Attack,53
+1999,Europe,Hostage taking/assassinaton,27
+1999,Europe,Other,20
+1999,MENA,Armed Assault,94
+1999,MENA,Bombing/Explosion,160
+1999,MENA,Facility/Infrastructure Attack,12
+1999,MENA,Hostage taking/assassinaton,25
+1999,MENA,Other,25
+1999,North America,Armed Assault,8
+1999,North America,Bombing/Explosion,5
+1999,North America,Facility/Infrastructure Attack,14
+1999,North America,Hostage taking/assassinaton,1
+1999,North America,Other,28
+1999,South America,Armed Assault,24
+1999,South America,Bombing/Explosion,50
+1999,South America,Facility/Infrastructure Attack,3
+1999,South America,Hostage taking/assassinaton,46
+1999,South America,Other,11
+1999,South Asia,Armed Assault,63
+1999,South Asia,Bombing/Explosion,125
+1999,South Asia,Facility/Infrastructure Attack,2
+1999,South Asia,Hostage taking/assassinaton,21
+1999,South Asia,Other,14
+1999,Sub-Saharan Africa,Armed Assault,54
+1999,Sub-Saharan Africa,Bombing/Explosion,38
+1999,Sub-Saharan Africa,Facility/Infrastructure Attack,10
+1999,Sub-Saharan Africa,Hostage taking/assassinaton,26
+1999,Sub-Saharan Africa,Other,15
+2000,Asia-Pacific,Armed Assault,63
+2000,Asia-Pacific,Bombing/Explosion,150
+2000,Asia-Pacific,Facility/Infrastructure Attack,5
+2000,Asia-Pacific,Hostage taking/assassinaton,25
+2000,Asia-Pacific,Other,38
+2000,Central America & Caribbean,Armed Assault,1
+2000,Central America & Caribbean,Bombing/Explosion,7
+2000,Central America & Caribbean,Facility/Infrastructure Attack,0
+2000,Central America & Caribbean,Hostage taking/assassinaton,1
+2000,Central America & Caribbean,Other,5
+2000,Central Asia,Armed Assault,4
+2000,Central Asia,Bombing/Explosion,4
+2000,Central Asia,Facility/Infrastructure Attack,1
+2000,Central Asia,Hostage taking/assassinaton,7
+2000,Central Asia,Other,5
+2000,Europe,Armed Assault,79
+2000,Europe,Bombing/Explosion,253
+2000,Europe,Facility/Infrastructure Attack,41
+2000,Europe,Hostage taking/assassinaton,30
+2000,Europe,Other,84
+2000,MENA,Armed Assault,94
+2000,MENA,Bombing/Explosion,94
+2000,MENA,Facility/Infrastructure Attack,5
+2000,MENA,Hostage taking/assassinaton,16
+2000,MENA,Other,63
+2000,North America,Armed Assault,2
+2000,North America,Bombing/Explosion,4
+2000,North America,Facility/Infrastructure Attack,20
+2000,North America,Hostage taking/assassinaton,1
+2000,North America,Other,14
+2000,South America,Armed Assault,16
+2000,South America,Bombing/Explosion,64
+2000,South America,Facility/Infrastructure Attack,8
+2000,South America,Hostage taking/assassinaton,34
+2000,South America,Other,28
+2000,South Asia,Armed Assault,81
+2000,South Asia,Bombing/Explosion,169
+2000,South Asia,Facility/Infrastructure Attack,5
+2000,South Asia,Hostage taking/assassinaton,34
+2000,South Asia,Other,67
+2000,Sub-Saharan Africa,Armed Assault,82
+2000,Sub-Saharan Africa,Bombing/Explosion,25
+2000,Sub-Saharan Africa,Facility/Infrastructure Attack,10
+2000,Sub-Saharan Africa,Hostage taking/assassinaton,34
+2000,Sub-Saharan Africa,Other,40
+2001,Asia-Pacific,Armed Assault,47
+2001,Asia-Pacific,Bombing/Explosion,88
+2001,Asia-Pacific,Facility/Infrastructure Attack,20
+2001,Asia-Pacific,Hostage taking/assassinaton,28
+2001,Asia-Pacific,Other,26
+2001,Central America & Caribbean,Armed Assault,1
+2001,Central America & Caribbean,Bombing/Explosion,0
+2001,Central America & Caribbean,Facility/Infrastructure Attack,0
+2001,Central America & Caribbean,Hostage taking/assassinaton,1
+2001,Central America & Caribbean,Other,6
+2001,Central Asia,Armed Assault,4
+2001,Central Asia,Bombing/Explosion,2
+2001,Central Asia,Facility/Infrastructure Attack,3
+2001,Central Asia,Hostage taking/assassinaton,6
+2001,Central Asia,Other,3
+2001,Europe,Armed Assault,95
+2001,Europe,Bombing/Explosion,245
+2001,Europe,Facility/Infrastructure Attack,52
+2001,Europe,Hostage taking/assassinaton,33
+2001,Europe,Other,61
+2001,MENA,Armed Assault,151
+2001,MENA,Bombing/Explosion,129
+2001,MENA,Facility/Infrastructure Attack,4
+2001,MENA,Hostage taking/assassinaton,15
+2001,MENA,Other,63
+2001,North America,Armed Assault,1
+2001,North America,Bombing/Explosion,8
+2001,North America,Facility/Infrastructure Attack,18
+2001,North America,Hostage taking/assassinaton,1
+2001,North America,Other,20
+2001,South America,Armed Assault,23
+2001,South America,Bombing/Explosion,65
+2001,South America,Facility/Infrastructure Attack,12
+2001,South America,Hostage taking/assassinaton,78
+2001,South America,Other,51
+2001,South Asia,Armed Assault,119
+2001,South Asia,Bombing/Explosion,154
+2001,South Asia,Facility/Infrastructure Attack,16
+2001,South Asia,Hostage taking/assassinaton,44
+2001,South Asia,Other,52
+2001,Sub-Saharan Africa,Armed Assault,66
+2001,Sub-Saharan Africa,Bombing/Explosion,24
+2001,Sub-Saharan Africa,Facility/Infrastructure Attack,17
+2001,Sub-Saharan Africa,Hostage taking/assassinaton,17
+2001,Sub-Saharan Africa,Other,38
+2002,Asia-Pacific,Armed Assault,22
+2002,Asia-Pacific,Bombing/Explosion,48
+2002,Asia-Pacific,Facility/Infrastructure Attack,6
+2002,Asia-Pacific,Hostage taking/assassinaton,17
+2002,Asia-Pacific,Other,23
+2002,Central America & Caribbean,Armed Assault,0
+2002,Central America & Caribbean,Bombing/Explosion,0
+2002,Central America & Caribbean,Facility/Infrastructure Attack,1
+2002,Central America & Caribbean,Hostage taking/assassinaton,1
+2002,Central America & Caribbean,Other,1
+2002,Central Asia,Armed Assault,0
+2002,Central Asia,Bombing/Explosion,2
+2002,Central Asia,Facility/Infrastructure Attack,0
+2002,Central Asia,Hostage taking/assassinaton,3
+2002,Central Asia,Other,1
+2002,Europe,Armed Assault,25
+2002,Europe,Bombing/Explosion,154
+2002,Europe,Facility/Infrastructure Attack,12
+2002,Europe,Hostage taking/assassinaton,17
+2002,Europe,Other,24
+2002,MENA,Armed Assault,95
+2002,MENA,Bombing/Explosion,128
+2002,MENA,Facility/Infrastructure Attack,2
+2002,MENA,Hostage taking/assassinaton,6
+2002,MENA,Other,96
+2002,North America,Armed Assault,1
+2002,North America,Bombing/Explosion,20
+2002,North America,Facility/Infrastructure Attack,9
+2002,North America,Hostage taking/assassinaton,0
+2002,North America,Other,3
+2002,South America,Armed Assault,15
+2002,South America,Bombing/Explosion,70
+2002,South America,Facility/Infrastructure Attack,5
+2002,South America,Hostage taking/assassinaton,17
+2002,South America,Other,55
+2002,South Asia,Armed Assault,67
+2002,South Asia,Bombing/Explosion,162
+2002,South Asia,Facility/Infrastructure Attack,7
+2002,South Asia,Hostage taking/assassinaton,25
+2002,South Asia,Other,71
+2002,Sub-Saharan Africa,Armed Assault,42
+2002,Sub-Saharan Africa,Bombing/Explosion,27
+2002,Sub-Saharan Africa,Facility/Infrastructure Attack,2
+2002,Sub-Saharan Africa,Hostage taking/assassinaton,11
+2002,Sub-Saharan Africa,Other,39
+2003,Asia-Pacific,Armed Assault,45
+2003,Asia-Pacific,Bombing/Explosion,70
+2003,Asia-Pacific,Facility/Infrastructure Attack,10
+2003,Asia-Pacific,Hostage taking/assassinaton,12
+2003,Asia-Pacific,Other,18
+2003,Central America & Caribbean,Armed Assault,2
+2003,Central America & Caribbean,Bombing/Explosion,0
+2003,Central America & Caribbean,Facility/Infrastructure Attack,4
+2003,Central America & Caribbean,Hostage taking/assassinaton,2
+2003,Central America & Caribbean,Other,0
+2003,Central Asia,Armed Assault,1
+2003,Central Asia,Bombing/Explosion,2
+2003,Central Asia,Facility/Infrastructure Attack,2
+2003,Central Asia,Hostage taking/assassinaton,1
+2003,Central Asia,Other,1
+2003,Europe,Armed Assault,24
+2003,Europe,Bombing/Explosion,136
+2003,Europe,Facility/Infrastructure Attack,26
+2003,Europe,Hostage taking/assassinaton,9
+2003,Europe,Other,26
+2003,MENA,Armed Assault,54
+2003,MENA,Bombing/Explosion,169
+2003,MENA,Facility/Infrastructure Attack,1
+2003,MENA,Hostage taking/assassinaton,15
+2003,MENA,Other,56
+2003,North America,Armed Assault,1
+2003,North America,Bombing/Explosion,5
+2003,North America,Facility/Infrastructure Attack,19
+2003,North America,Hostage taking/assassinaton,0
+2003,North America,Other,8
+2003,South America,Armed Assault,14
+2003,South America,Bombing/Explosion,68
+2003,South America,Facility/Infrastructure Attack,5
+2003,South America,Hostage taking/assassinaton,16
+2003,South America,Other,14
+2003,South Asia,Armed Assault,95
+2003,South Asia,Bombing/Explosion,178
+2003,South Asia,Facility/Infrastructure Attack,13
+2003,South Asia,Hostage taking/assassinaton,50
+2003,South Asia,Other,17
+2003,Sub-Saharan Africa,Armed Assault,38
+2003,Sub-Saharan Africa,Bombing/Explosion,8
+2003,Sub-Saharan Africa,Facility/Infrastructure Attack,2
+2003,Sub-Saharan Africa,Hostage taking/assassinaton,15
+2003,Sub-Saharan Africa,Other,10
+2004,Asia-Pacific,Armed Assault,38
+2004,Asia-Pacific,Bombing/Explosion,45
+2004,Asia-Pacific,Facility/Infrastructure Attack,2
+2004,Asia-Pacific,Hostage taking/assassinaton,13
+2004,Asia-Pacific,Other,1
+2004,Central America & Caribbean,Armed Assault,3
+2004,Central America & Caribbean,Bombing/Explosion,0
+2004,Central America & Caribbean,Facility/Infrastructure Attack,0
+2004,Central America & Caribbean,Hostage taking/assassinaton,2
+2004,Central America & Caribbean,Other,0
+2004,Central Asia,Armed Assault,2
+2004,Central Asia,Bombing/Explosion,4
+2004,Central Asia,Facility/Infrastructure Attack,0
+2004,Central Asia,Hostage taking/assassinaton,2
+2004,Central Asia,Other,0
+2004,Europe,Armed Assault,10
+2004,Europe,Bombing/Explosion,73
+2004,Europe,Facility/Infrastructure Attack,6
+2004,Europe,Hostage taking/assassinaton,8
+2004,Europe,Other,7
+2004,MENA,Armed Assault,64
+2004,MENA,Bombing/Explosion,268
+2004,MENA,Facility/Infrastructure Attack,5
+2004,MENA,Hostage taking/assassinaton,83
+2004,MENA,Other,68
+2004,North America,Armed Assault,0
+2004,North America,Bombing/Explosion,1
+2004,North America,Facility/Infrastructure Attack,8
+2004,North America,Hostage taking/assassinaton,1
+2004,North America,Other,2
+2004,South America,Armed Assault,9
+2004,South America,Bombing/Explosion,23
+2004,South America,Facility/Infrastructure Attack,0
+2004,South America,Hostage taking/assassinaton,8
+2004,South America,Other,2
+2004,South Asia,Armed Assault,90
+2004,South Asia,Bombing/Explosion,207
+2004,South Asia,Facility/Infrastructure Attack,8
+2004,South Asia,Hostage taking/assassinaton,54
+2004,South Asia,Other,10
+2004,Sub-Saharan Africa,Armed Assault,20
+2004,Sub-Saharan Africa,Bombing/Explosion,4
+2004,Sub-Saharan Africa,Facility/Infrastructure Attack,0
+2004,Sub-Saharan Africa,Hostage taking/assassinaton,4
+2004,Sub-Saharan Africa,Other,7
+2005,Asia-Pacific,Armed Assault,90
+2005,Asia-Pacific,Bombing/Explosion,88
+2005,Asia-Pacific,Facility/Infrastructure Attack,5
+2005,Asia-Pacific,Hostage taking/assassinaton,20
+2005,Asia-Pacific,Other,3
+2005,Central America & Caribbean,Armed Assault,1
+2005,Central America & Caribbean,Bombing/Explosion,2
+2005,Central America & Caribbean,Facility/Infrastructure Attack,0
+2005,Central America & Caribbean,Hostage taking/assassinaton,0
+2005,Central America & Caribbean,Other,0
+2005,Central Asia,Armed Assault,2
+2005,Central Asia,Bombing/Explosion,7
+2005,Central Asia,Facility/Infrastructure Attack,0
+2005,Central Asia,Hostage taking/assassinaton,1
+2005,Central Asia,Other,1
+2005,Europe,Armed Assault,29
+2005,Europe,Bombing/Explosion,132
+2005,Europe,Facility/Infrastructure Attack,6
+2005,Europe,Hostage taking/assassinaton,6
+2005,Europe,Other,2
+2005,MENA,Armed Assault,155
+2005,MENA,Bombing/Explosion,455
+2005,MENA,Facility/Infrastructure Attack,8
+2005,MENA,Hostage taking/assassinaton,183
+2005,MENA,Other,82
+2005,North America,Armed Assault,0
+2005,North America,Bombing/Explosion,9
+2005,North America,Facility/Infrastructure Attack,6
+2005,North America,Hostage taking/assassinaton,1
+2005,North America,Other,5
+2005,South America,Armed Assault,16
+2005,South America,Bombing/Explosion,23
+2005,South America,Facility/Infrastructure Attack,0
+2005,South America,Hostage taking/assassinaton,8
+2005,South America,Other,2
+2005,South Asia,Armed Assault,162
+2005,South Asia,Bombing/Explosion,303
+2005,South Asia,Facility/Infrastructure Attack,14
+2005,South Asia,Hostage taking/assassinaton,104
+2005,South Asia,Other,19
+2005,Sub-Saharan Africa,Armed Assault,32
+2005,Sub-Saharan Africa,Bombing/Explosion,10
+2005,Sub-Saharan Africa,Facility/Infrastructure Attack,2
+2005,Sub-Saharan Africa,Hostage taking/assassinaton,10
+2005,Sub-Saharan Africa,Other,5
+2006,Asia-Pacific,Armed Assault,128
+2006,Asia-Pacific,Bombing/Explosion,90
+2006,Asia-Pacific,Facility/Infrastructure Attack,22
+2006,Asia-Pacific,Hostage taking/assassinaton,30
+2006,Asia-Pacific,Other,5
+2006,Central America & Caribbean,Armed Assault,2
+2006,Central America & Caribbean,Bombing/Explosion,0
+2006,Central America & Caribbean,Facility/Infrastructure Attack,0
+2006,Central America & Caribbean,Hostage taking/assassinaton,3
+2006,Central America & Caribbean,Other,0
+2006,Central Asia,Armed Assault,2
+2006,Central Asia,Bombing/Explosion,2
+2006,Central Asia,Facility/Infrastructure Attack,1
+2006,Central Asia,Hostage taking/assassinaton,1
+2006,Central Asia,Other,0
+2006,Europe,Armed Assault,16
+2006,Europe,Bombing/Explosion,102
+2006,Europe,Facility/Infrastructure Attack,31
+2006,Europe,Hostage taking/assassinaton,5
+2006,Europe,Other,14
+2006,MENA,Armed Assault,260
+2006,MENA,Bombing/Explosion,657
+2006,MENA,Facility/Infrastructure Attack,8
+2006,MENA,Hostage taking/assassinaton,136
+2006,MENA,Other,117
+2006,North America,Armed Assault,3
+2006,North America,Bombing/Explosion,5
+2006,North America,Facility/Infrastructure Attack,3
+2006,North America,Hostage taking/assassinaton,1
+2006,North America,Other,3
+2006,South America,Armed Assault,8
+2006,South America,Bombing/Explosion,19
+2006,South America,Facility/Infrastructure Attack,3
+2006,South America,Hostage taking/assassinaton,16
+2006,South America,Other,4
+2006,South Asia,Armed Assault,234
+2006,South Asia,Bombing/Explosion,544
+2006,South Asia,Facility/Infrastructure Attack,28
+2006,South Asia,Hostage taking/assassinaton,110
+2006,South Asia,Other,22
+2006,Sub-Saharan Africa,Armed Assault,51
+2006,Sub-Saharan Africa,Bombing/Explosion,23
+2006,Sub-Saharan Africa,Facility/Infrastructure Attack,8
+2006,Sub-Saharan Africa,Hostage taking/assassinaton,23
+2006,Sub-Saharan Africa,Other,9
+2007,Asia-Pacific,Armed Assault,137
+2007,Asia-Pacific,Bombing/Explosion,151
+2007,Asia-Pacific,Facility/Infrastructure Attack,38
+2007,Asia-Pacific,Hostage taking/assassinaton,26
+2007,Asia-Pacific,Other,13
+2007,Central America & Caribbean,Armed Assault,2
+2007,Central America & Caribbean,Bombing/Explosion,0
+2007,Central America & Caribbean,Facility/Infrastructure Attack,0
+2007,Central America & Caribbean,Hostage taking/assassinaton,1
+2007,Central America & Caribbean,Other,1
+2007,Central Asia,Armed Assault,0
+2007,Central Asia,Bombing/Explosion,2
+2007,Central Asia,Facility/Infrastructure Attack,1
+2007,Central Asia,Hostage taking/assassinaton,0
+2007,Central Asia,Other,1
+2007,Europe,Armed Assault,39
+2007,Europe,Bombing/Explosion,68
+2007,Europe,Facility/Infrastructure Attack,13
+2007,Europe,Hostage taking/assassinaton,5
+2007,Europe,Other,9
+2007,MENA,Armed Assault,277
+2007,MENA,Bombing/Explosion,873
+2007,MENA,Facility/Infrastructure Attack,8
+2007,MENA,Hostage taking/assassinaton,113
+2007,MENA,Other,114
+2007,North America,Armed Assault,7
+2007,North America,Bombing/Explosion,3
+2007,North America,Facility/Infrastructure Attack,3
+2007,North America,Hostage taking/assassinaton,1
+2007,North America,Other,5
+2007,South America,Armed Assault,13
+2007,South America,Bombing/Explosion,26
+2007,South America,Facility/Infrastructure Attack,2
+2007,South America,Hostage taking/assassinaton,6
+2007,South America,Other,0
+2007,South Asia,Armed Assault,217
+2007,South Asia,Bombing/Explosion,541
+2007,South Asia,Facility/Infrastructure Attack,24
+2007,South Asia,Hostage taking/assassinaton,114
+2007,South Asia,Other,85
+2007,Sub-Saharan Africa,Armed Assault,104
+2007,Sub-Saharan Africa,Bombing/Explosion,95
+2007,Sub-Saharan Africa,Facility/Infrastructure Attack,14
+2007,Sub-Saharan Africa,Hostage taking/assassinaton,67
+2007,Sub-Saharan Africa,Other,22
+2008,Asia-Pacific,Armed Assault,169
+2008,Asia-Pacific,Bombing/Explosion,225
+2008,Asia-Pacific,Facility/Infrastructure Attack,55
+2008,Asia-Pacific,Hostage taking/assassinaton,49
+2008,Asia-Pacific,Other,48
+2008,Central America & Caribbean,Armed Assault,0
+2008,Central America & Caribbean,Bombing/Explosion,0
+2008,Central America & Caribbean,Facility/Infrastructure Attack,0
+2008,Central America & Caribbean,Hostage taking/assassinaton,0
+2008,Central America & Caribbean,Other,0
+2008,Central Asia,Armed Assault,6
+2008,Central Asia,Bombing/Explosion,25
+2008,Central Asia,Facility/Infrastructure Attack,1
+2008,Central Asia,Hostage taking/assassinaton,4
+2008,Central Asia,Other,0
+2008,Europe,Armed Assault,71
+2008,Europe,Bombing/Explosion,174
+2008,Europe,Facility/Infrastructure Attack,89
+2008,Europe,Hostage taking/assassinaton,18
+2008,Europe,Other,20
+2008,MENA,Armed Assault,213
+2008,MENA,Bombing/Explosion,1024
+2008,MENA,Facility/Infrastructure Attack,11
+2008,MENA,Hostage taking/assassinaton,115
+2008,MENA,Other,172
+2008,North America,Armed Assault,4
+2008,North America,Bombing/Explosion,8
+2008,North America,Facility/Infrastructure Attack,7
+2008,North America,Hostage taking/assassinaton,2
+2008,North America,Other,10
+2008,South America,Armed Assault,15
+2008,South America,Bombing/Explosion,88
+2008,South America,Facility/Infrastructure Attack,11
+2008,South America,Hostage taking/assassinaton,23
+2008,South America,Other,7
+2008,South Asia,Armed Assault,420
+2008,South Asia,Bombing/Explosion,854
+2008,South Asia,Facility/Infrastructure Attack,87
+2008,South Asia,Hostage taking/assassinaton,276
+2008,South Asia,Other,122
+2008,Sub-Saharan Africa,Armed Assault,136
+2008,Sub-Saharan Africa,Bombing/Explosion,108
+2008,Sub-Saharan Africa,Facility/Infrastructure Attack,7
+2008,Sub-Saharan Africa,Hostage taking/assassinaton,84
+2008,Sub-Saharan Africa,Other,45
+2009,Asia-Pacific,Armed Assault,286
+2009,Asia-Pacific,Bombing/Explosion,173
+2009,Asia-Pacific,Facility/Infrastructure Attack,47
+2009,Asia-Pacific,Hostage taking/assassinaton,41
+2009,Asia-Pacific,Other,24
+2009,Central America & Caribbean,Armed Assault,1
+2009,Central America & Caribbean,Bombing/Explosion,6
+2009,Central America & Caribbean,Facility/Infrastructure Attack,0
+2009,Central America & Caribbean,Hostage taking/assassinaton,2
+2009,Central America & Caribbean,Other,0
+2009,Central Asia,Armed Assault,3
+2009,Central Asia,Bombing/Explosion,23
+2009,Central Asia,Facility/Infrastructure Attack,1
+2009,Central Asia,Hostage taking/assassinaton,3
+2009,Central Asia,Other,1
+2009,Europe,Armed Assault,66
+2009,Europe,Bombing/Explosion,138
+2009,Europe,Facility/Infrastructure Attack,108
+2009,Europe,Hostage taking/assassinaton,26
+2009,Europe,Other,8
+2009,MENA,Armed Assault,150
+2009,MENA,Bombing/Explosion,1002
+2009,MENA,Facility/Infrastructure Attack,12
+2009,MENA,Hostage taking/assassinaton,100
+2009,MENA,Other,97
+2009,North America,Armed Assault,5
+2009,North America,Bombing/Explosion,5
+2009,North America,Facility/Infrastructure Attack,2
+2009,North America,Hostage taking/assassinaton,1
+2009,North America,Other,2
+2009,South America,Armed Assault,30
+2009,South America,Bombing/Explosion,85
+2009,South America,Facility/Infrastructure Attack,21
+2009,South America,Hostage taking/assassinaton,18
+2009,South America,Other,5
+2009,South Asia,Armed Assault,459
+2009,South Asia,Bombing/Explosion,974
+2009,South Asia,Facility/Infrastructure Attack,130
+2009,South Asia,Hostage taking/assassinaton,240
+2009,South Asia,Other,141
+2009,Sub-Saharan Africa,Armed Assault,86
+2009,Sub-Saharan Africa,Bombing/Explosion,68
+2009,Sub-Saharan Africa,Facility/Infrastructure Attack,22
+2009,Sub-Saharan Africa,Hostage taking/assassinaton,67
+2009,Sub-Saharan Africa,Other,40
+2010,Asia-Pacific,Armed Assault,205
+2010,Asia-Pacific,Bombing/Explosion,160
+2010,Asia-Pacific,Facility/Infrastructure Attack,77
+2010,Asia-Pacific,Hostage taking/assassinaton,28
+2010,Asia-Pacific,Other,5
+2010,Central America & Caribbean,Armed Assault,0
+2010,Central America & Caribbean,Bombing/Explosion,0
+2010,Central America & Caribbean,Facility/Infrastructure Attack,1
+2010,Central America & Caribbean,Hostage taking/assassinaton,0
+2010,Central America & Caribbean,Other,0
+2010,Central Asia,Armed Assault,2
+2010,Central Asia,Bombing/Explosion,5
+2010,Central Asia,Facility/Infrastructure Attack,0
+2010,Central Asia,Hostage taking/assassinaton,2
+2010,Central Asia,Other,0
+2010,Europe,Armed Assault,77
+2010,Europe,Bombing/Explosion,242
+2010,Europe,Facility/Infrastructure Attack,32
+2010,Europe,Hostage taking/assassinaton,38
+2010,Europe,Other,4
+2010,MENA,Armed Assault,214
+2010,MENA,Bombing/Explosion,950
+2010,MENA,Facility/Infrastructure Attack,16
+2010,MENA,Hostage taking/assassinaton,188
+2010,MENA,Other,95
+2010,North America,Armed Assault,1
+2010,North America,Bombing/Explosion,8
+2010,North America,Facility/Infrastructure Attack,9
+2010,North America,Hostage taking/assassinaton,2
+2010,North America,Other,4
+2010,South America,Armed Assault,20
+2010,South America,Bombing/Explosion,93
+2010,South America,Facility/Infrastructure Attack,14
+2010,South America,Hostage taking/assassinaton,18
+2010,South America,Other,3
+2010,South Asia,Armed Assault,490
+2010,South Asia,Bombing/Explosion,885
+2010,South Asia,Facility/Infrastructure Attack,135
+2010,South Asia,Hostage taking/assassinaton,390
+2010,South Asia,Other,78
+2010,Sub-Saharan Africa,Armed Assault,92
+2010,Sub-Saharan Africa,Bombing/Explosion,107
+2010,Sub-Saharan Africa,Facility/Infrastructure Attack,7
+2010,Sub-Saharan Africa,Hostage taking/assassinaton,78
+2010,Sub-Saharan Africa,Other,47
+2011,Asia-Pacific,Armed Assault,137
+2011,Asia-Pacific,Bombing/Explosion,134
+2011,Asia-Pacific,Facility/Infrastructure Attack,27
+2011,Asia-Pacific,Hostage taking/assassinaton,22
+2011,Asia-Pacific,Other,38
+2011,Central America & Caribbean,Armed Assault,0
+2011,Central America & Caribbean,Bombing/Explosion,0
+2011,Central America & Caribbean,Facility/Infrastructure Attack,0
+2011,Central America & Caribbean,Hostage taking/assassinaton,0
+2011,Central America & Caribbean,Other,1
+2011,Central Asia,Armed Assault,0
+2011,Central Asia,Bombing/Explosion,7
+2011,Central Asia,Facility/Infrastructure Attack,0
+2011,Central Asia,Hostage taking/assassinaton,0
+2011,Central Asia,Other,2
+2011,Europe,Armed Assault,70
+2011,Europe,Bombing/Explosion,164
+2011,Europe,Facility/Infrastructure Attack,22
+2011,Europe,Hostage taking/assassinaton,22
+2011,Europe,Other,13
+2011,MENA,Armed Assault,368
+2011,MENA,Bombing/Explosion,912
+2011,MENA,Facility/Infrastructure Attack,31
+2011,MENA,Hostage taking/assassinaton,219
+2011,MENA,Other,133
+2011,North America,Armed Assault,3
+2011,North America,Bombing/Explosion,4
+2011,North America,Facility/Infrastructure Attack,3
+2011,North America,Hostage taking/assassinaton,1
+2011,North America,Other,1
+2011,South America,Armed Assault,11
+2011,South America,Bombing/Explosion,57
+2011,South America,Facility/Infrastructure Attack,12
+2011,South America,Hostage taking/assassinaton,11
+2011,South America,Other,15
+2011,South Asia,Armed Assault,566
+2011,South Asia,Bombing/Explosion,933
+2011,South Asia,Facility/Infrastructure Attack,111
+2011,South Asia,Hostage taking/assassinaton,298
+2011,South Asia,Other,229
+2011,Sub-Saharan Africa,Armed Assault,172
+2011,Sub-Saharan Africa,Bombing/Explosion,146
+2011,Sub-Saharan Africa,Facility/Infrastructure Attack,17
+2011,Sub-Saharan Africa,Hostage taking/assassinaton,82
+2011,Sub-Saharan Africa,Other,77
+2012,Asia-Pacific,Armed Assault,192
+2012,Asia-Pacific,Bombing/Explosion,301
+2012,Asia-Pacific,Facility/Infrastructure Attack,34
+2012,Asia-Pacific,Hostage taking/assassinaton,53
+2012,Asia-Pacific,Other,10
+2012,Central America & Caribbean,Armed Assault,0
+2012,Central America & Caribbean,Bombing/Explosion,0
+2012,Central America & Caribbean,Facility/Infrastructure Attack,0
+2012,Central America & Caribbean,Hostage taking/assassinaton,1
+2012,Central America & Caribbean,Other,0
+2012,Central Asia,Armed Assault,3
+2012,Central Asia,Bombing/Explosion,3
+2012,Central Asia,Facility/Infrastructure Attack,1
+2012,Central Asia,Hostage taking/assassinaton,5
+2012,Central Asia,Other,0
+2012,Europe,Armed Assault,61
+2012,Europe,Bombing/Explosion,259
+2012,Europe,Facility/Infrastructure Attack,19
+2012,Europe,Hostage taking/assassinaton,19
+2012,Europe,Other,5
+2012,MENA,Armed Assault,493
+2012,MENA,Bombing/Explosion,1636
+2012,MENA,Facility/Infrastructure Attack,43
+2012,MENA,Hostage taking/assassinaton,208
+2012,MENA,Other,28
+2012,North America,Armed Assault,6
+2012,North America,Bombing/Explosion,8
+2012,North America,Facility/Infrastructure Attack,17
+2012,North America,Hostage taking/assassinaton,5
+2012,North America,Other,2
+2012,South America,Armed Assault,22
+2012,South America,Bombing/Explosion,88
+2012,South America,Facility/Infrastructure Attack,2
+2012,South America,Hostage taking/assassinaton,15
+2012,South America,Other,6
+2012,South Asia,Armed Assault,885
+2012,South Asia,Bombing/Explosion,2319
+2012,South Asia,Facility/Infrastructure Attack,95
+2012,South Asia,Hostage taking/assassinaton,376
+2012,South Asia,Other,124
+2012,Sub-Saharan Africa,Armed Assault,416
+2012,Sub-Saharan Africa,Bombing/Explosion,464
+2012,Sub-Saharan Africa,Facility/Infrastructure Attack,90
+2012,Sub-Saharan Africa,Hostage taking/assassinaton,145
+2012,Sub-Saharan Africa,Other,41
+2014,Asia-Pacific,Armed Assault,403
+2014,Asia-Pacific,Bombing/Explosion,456
+2014,Asia-Pacific,Facility/Infrastructure Attack,84
+2014,Asia-Pacific,Hostage taking/assassinaton,154
+2014,Asia-Pacific,Other,34
+2014,Central America & Caribbean,Armed Assault,3
+2014,Central America & Caribbean,Bombing/Explosion,0
+2014,Central America & Caribbean,Facility/Infrastructure Attack,1
+2014,Central America & Caribbean,Hostage taking/assassinaton,1
+2014,Central America & Caribbean,Other,0
+2014,Central Asia,Armed Assault,2
+2014,Central Asia,Bombing/Explosion,3
+2014,Central Asia,Facility/Infrastructure Attack,1
+2014,Central Asia,Hostage taking/assassinaton,2
+2014,Central Asia,Other,1
+2014,Europe,Armed Assault,284
+2014,Europe,Bombing/Explosion,559
+2014,Europe,Facility/Infrastructure Attack,157
+2014,Europe,Hostage taking/assassinaton,116
+2014,Europe,Other,64
+2014,MENA,Armed Assault,1151
+2014,MENA,Bombing/Explosion,4421
+2014,MENA,Facility/Infrastructure Attack,167
+2014,MENA,Hostage taking/assassinaton,899
+2014,MENA,Other,281
+2014,North America,Armed Assault,18
+2014,North America,Bombing/Explosion,5
+2014,North America,Facility/Infrastructure Attack,6
+2014,North America,Hostage taking/assassinaton,4
+2014,North America,Other,1
+2014,South America,Armed Assault,43
+2014,South America,Bombing/Explosion,150
+2014,South America,Facility/Infrastructure Attack,31
+2014,South America,Hostage taking/assassinaton,41
+2014,South America,Other,17
+2014,South Asia,Armed Assault,1226
+2014,South Asia,Bombing/Explosion,2630
+2014,South Asia,Facility/Infrastructure Attack,228
+2014,South Asia,Hostage taking/assassinaton,674
+2014,South Asia,Other,234
+2014,Sub-Saharan Africa,Armed Assault,934
+2014,Sub-Saharan Africa,Bombing/Explosion,546
+2014,Sub-Saharan Africa,Facility/Infrastructure Attack,107
+2014,Sub-Saharan Africa,Hostage taking/assassinaton,466
+2014,Sub-Saharan Africa,Other,255
+2015,Asia-Pacific,Armed Assault,373
+2015,Asia-Pacific,Bombing/Explosion,444
+2015,Asia-Pacific,Facility/Infrastructure Attack,82
+2015,Asia-Pacific,Hostage taking/assassinaton,189
+2015,Asia-Pacific,Other,24
+2015,Central America & Caribbean,Armed Assault,1
+2015,Central America & Caribbean,Bombing/Explosion,0
+2015,Central America & Caribbean,Facility/Infrastructure Attack,0
+2015,Central America & Caribbean,Hostage taking/assassinaton,0
+2015,Central America & Caribbean,Other,0
+2015,Central Asia,Armed Assault,5
+2015,Central Asia,Bombing/Explosion,1
+2015,Central Asia,Facility/Infrastructure Attack,2
+2015,Central Asia,Hostage taking/assassinaton,1
+2015,Central Asia,Other,0
+2015,Europe,Armed Assault,224
+2015,Europe,Bombing/Explosion,562
+2015,Europe,Facility/Infrastructure Attack,162
+2015,Europe,Hostage taking/assassinaton,40
+2015,Europe,Other,31
+2015,MENA,Armed Assault,827
+2015,MENA,Bombing/Explosion,3864
+2015,MENA,Facility/Infrastructure Attack,94
+2015,MENA,Hostage taking/assassinaton,702
+2015,MENA,Other,469
+2015,North America,Armed Assault,13
+2015,North America,Bombing/Explosion,21
+2015,North America,Facility/Infrastructure Attack,18
+2015,North America,Hostage taking/assassinaton,8
+2015,North America,Other,3
+2015,South America,Armed Assault,27
+2015,South America,Bombing/Explosion,86
+2015,South America,Facility/Infrastructure Attack,18
+2015,South America,Hostage taking/assassinaton,32
+2015,South America,Other,12
+2015,South Asia,Armed Assault,1108
+2015,South Asia,Bombing/Explosion,2105
+2015,South Asia,Facility/Infrastructure Attack,273
+2015,South Asia,Hostage taking/assassinaton,818
+2015,South Asia,Other,274
+2015,Sub-Saharan Africa,Armed Assault,758
+2015,Sub-Saharan Africa,Bombing/Explosion,521
+2015,Sub-Saharan Africa,Facility/Infrastructure Attack,54
+2015,Sub-Saharan Africa,Hostage taking/assassinaton,399
+2015,Sub-Saharan Africa,Other,207
+2016,Asia-Pacific,Armed Assault,286
+2016,Asia-Pacific,Bombing/Explosion,454
+2016,Asia-Pacific,Facility/Infrastructure Attack,85
+2016,Asia-Pacific,Hostage taking/assassinaton,248
+2016,Asia-Pacific,Other,23
+2016,Central America & Caribbean,Armed Assault,2
+2016,Central America & Caribbean,Bombing/Explosion,0
+2016,Central America & Caribbean,Facility/Infrastructure Attack,0
+2016,Central America & Caribbean,Hostage taking/assassinaton,1
+2016,Central America & Caribbean,Other,0
+2016,Central Asia,Armed Assault,4
+2016,Central Asia,Bombing/Explosion,7
+2016,Central Asia,Facility/Infrastructure Attack,0
+2016,Central Asia,Hostage taking/assassinaton,4
+2016,Central Asia,Other,1
+2016,Europe,Armed Assault,95
+2016,Europe,Bombing/Explosion,125
+2016,Europe,Facility/Infrastructure Attack,126
+2016,Europe,Hostage taking/assassinaton,36
+2016,Europe,Other,19
+2016,MENA,Armed Assault,718
+2016,MENA,Bombing/Explosion,4262
+2016,MENA,Facility/Infrastructure Attack,130
+2016,MENA,Hostage taking/assassinaton,558
+2016,MENA,Other,420
+2016,North America,Armed Assault,20
+2016,North America,Bombing/Explosion,8
+2016,North America,Facility/Infrastructure Attack,35
+2016,North America,Hostage taking/assassinaton,7
+2016,North America,Other,2
+2016,South America,Armed Assault,28
+2016,South America,Bombing/Explosion,45
+2016,South America,Facility/Infrastructure Attack,21
+2016,South America,Hostage taking/assassinaton,29
+2016,South America,Other,10
+2016,South Asia,Armed Assault,864
+2016,South Asia,Bombing/Explosion,1562
+2016,South Asia,Facility/Infrastructure Attack,192
+2016,South Asia,Hostage taking/assassinaton,633
+2016,South Asia,Other,377
+2016,Sub-Saharan Africa,Armed Assault,696
+2016,Sub-Saharan Africa,Bombing/Explosion,612
+2016,Sub-Saharan Africa,Facility/Infrastructure Attack,99
+2016,Sub-Saharan Africa,Hostage taking/assassinaton,468
+2016,Sub-Saharan Africa,Other,176
