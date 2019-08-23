@@ -16,3 +16,7 @@ Link for GTD - https://www.start.umd.edu/gtd/
 1. Pull the repository
 2. Ensure you have all the libraries required in *app(R file)* 
 3. At last, Run the application from R studio.
+
+
+## Access this application on my cloud by clicking the following link:
+https://rdevenv.shinyapps.io/Global_Terrorism_RShinyDashboard/
