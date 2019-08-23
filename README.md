@@ -12,3 +12,7 @@ more than 200+ variables, aggregation and cleaning was performed on python and s
 Link for GTD - https://www.start.umd.edu/gtd/
 
 
+## Steps
+1. Pull the repository
+2. Ensure you have all the libraries required in *app(R file)* 
+3. At last, Run the application from R studio.
